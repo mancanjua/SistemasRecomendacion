@@ -1,0 +1,2157 @@
+Movie{movieId=6708, title='Matchstick Men (2003)', genres=[COMEDY, CRIME, DRAMA]}
+Movie{movieId=6709, title='Once Upon a Time in Mexico (2003)', genres=[ACTION, ADVENTURE, CRIME, THRILLER]}
+Movie{movieId=6710, title='Dummy (2002)', genres=[COMEDY, DRAMA, ROMANCE]}
+Movie{movieId=6711, title='Lost in Translation (2003)', genres=[COMEDY, DRAMA, ROMANCE]}
+Movie{movieId=6713, title='Millennium Actress (Sennen joyû) (2001)', genres=[ANIMATION, DRAMA, ROMANCE]}
+Movie{movieId=6718, title='Gotcha! (1985)', genres=[COMEDY]}
+Movie{movieId=6721, title='Once Upon a Time in China (Wong Fei Hung) (1991)', genres=[ACTION, ADVENTURE, DRAMA]}
+Movie{movieId=6722, title='Once Upon a Time in China II (Wong Fei-hung Ji Yi: Naam yi dong ji keung) (1992)', genres=[ACTION, ROMANCE]}
+Movie{movieId=6723, title='Once Upon a Time in China III (Wong Fei-hung tsi sam: Siwong tsangba) (1993)', genres=[ACTION]}
+Movie{movieId=6724, title='Paper Moon (1973)', genres=[COMEDY, CRIME, DRAMA]}
+Movie{movieId=6725, title='Sgt. Pepper's Lonely Hearts Club Band (1978)', genres=[ADVENTURE, MUSICAL]}
+Movie{movieId=6728, title='Ugly American The (1963)', genres=[DRAMA]}
+Movie{movieId=6730, title='Convoy (1978)', genres=[ACTION, COMEDY, DRAMA]}
+Movie{movieId=6731, title='Day of the Dead (1985)', genres=[HORROR, SCI_FI, THRILLER]}
+Movie{movieId=6732, title='Hello Dolly! (1969)', genres=[COMEDY, MUSICAL, ROMANCE]}
+Movie{movieId=6735, title='Rose The (1979)', genres=[DRAMA]}
+Movie{movieId=6739, title='At War with the Army (1950)', genres=[COMEDY, MUSICAL, ROMANCE]}
+Movie{movieId=6743, title='Jungle Book (1942)', genres=[ADVENTURE, FANTASY]}
+Movie{movieId=6744, title='Once Bitten (1985)', genres=[COMEDY, HORROR]}
+Movie{movieId=6748, title='Brood The (1979)', genres=[HORROR]}
+Movie{movieId=6751, title='Cold Creek Manor (2003)', genres=[DRAMA, THRILLER]}
+Movie{movieId=6753, title='Secondhand Lions (2003)', genres=[CHILDREN, COMEDY, DRAMA]}
+Movie{movieId=6754, title='Underworld (2003)', genres=[ACTION, FANTASY, HORROR]}
+Movie{movieId=6755, title='Bubba Ho-tep (2002)', genres=[COMEDY, HORROR]}
+Movie{movieId=6757, title='Demonlover (2002)', genres=[CRIME, DRAMA, MYSTERY, THRILLER]}
+Movie{movieId=6760, title='In This World (2002)', genres=[ADVENTURE, DRAMA]}
+Movie{movieId=6762, title='Yossi & Jagger (2002)', genres=[DRAMA, ROMANCE]}
+Movie{movieId=6763, title='Duplex (2003)', genres=[COMEDY, CRIME]}
+Movie{movieId=6764, title='Rundown The (2003)', genres=[ACTION, ADVENTURE, COMEDY]}
+Movie{movieId=6765, title='Under the Tuscan Sun (2003)', genres=[COMEDY, DRAMA, ROMANCE]}
+Movie{movieId=6768, title='Luther (2003)', genres=[DRAMA]}
+Movie{movieId=6769, title='Mambo Italiano (2003)', genres=[COMEDY]}
+Movie{movieId=6770, title='My Life Without Me (2003)', genres=[DRAMA, ROMANCE]}
+Movie{movieId=6771, title='Dorm Daze (National Lampoon Presents Dorm Daze) (2003)', genres=[COMEDY]}
+Movie{movieId=6772, title='To Be and to Have (Être et avoir) (2002)', genres=[DOCUMENTARY]}
+Movie{movieId=6773, title='Triplets of Belleville The (Les triplettes de Belleville) (2003)', genres=[ANIMATION, COMEDY, FANTASY]}
+Movie{movieId=6774, title='Videodrome (1983)', genres=[FANTASY, HORROR, SCI_FI, THRILLER]}
+Movie{movieId=6776, title='Lagaan: Once Upon a Time in India (2001)', genres=[COMEDY, DRAMA, MUSICAL, ROMANCE]}
+Movie{movieId=6777, title='Judgment at Nuremberg (1961)', genres=[DRAMA]}
+Movie{movieId=6779, title='Same Time Next Year (1978)', genres=[COMEDY, DRAMA, ROMANCE]}
+Movie{movieId=6780, title='Brief History of Time A (1991)', genres=[DOCUMENTARY]}
+Movie{movieId=6782, title='Leningrad Cowboys Go America (1989)', genres=[COMEDY, MUSICAL]}
+Movie{movieId=6783, title='Rules of the Game The (La règle du jeu) (1939)', genres=[COMEDY, DRAMA]}
+Movie{movieId=6785, title='Seven Brides for Seven Brothers (1954)', genres=[COMEDY, MUSICAL, ROMANCE, WESTERN]}
+Movie{movieId=6786, title='Kiss of the Spider Woman (1985)', genres=[DRAMA]}
+Movie{movieId=6787, title='All the President's Men (1976)', genres=[DRAMA, THRILLER]}
+Movie{movieId=6788, title='Angie (1994)', genres=[COMEDY, DRAMA, ROMANCE]}
+Movie{movieId=6790, title='Avalon (2001)', genres=[DRAMA, FANTASY, SCI_FI]}
+Movie{movieId=6791, title='Babette's Feast (Babettes gæstebud) (1987)', genres=[DRAMA]}
+Movie{movieId=6793, title='Beethoven (1992)', genres=[CHILDREN, COMEDY, DRAMA]}
+Movie{movieId=6794, title='Beethoven's 2nd (1993)', genres=[CHILDREN, COMEDY]}
+Movie{movieId=6796, title='Boyz N the Hood (1991)', genres=[CRIME, DRAMA]}
+Movie{movieId=6797, title='Bugsy (1991)', genres=[CRIME, DRAMA]}
+Movie{movieId=6798, title='Bugsy Malone (1976)', genres=[CHILDREN, COMEDY, CRIME, MUSICAL]}
+Movie{movieId=6800, title='Cobra (1986)', genres=[ACTION, CRIME]}
+Movie{movieId=6803, title='Phenomena (a.k.a. Creepers) (1985)', genres=[HORROR, MYSTERY, THRILLER]}
+Movie{movieId=6806, title='Time and Tide (Seunlau Ngaklau) (2000)', genres=[ACTION, CRIME, THRILLER]}
+Movie{movieId=6807, title='Monty Python's The Meaning of Life (1983)', genres=[COMEDY]}
+Movie{movieId=6808, title='Where Eagles Dare (1968)', genres=[ACTION, ADVENTURE, WAR]}
+Movie{movieId=6810, title='Sleeping with the Enemy (1991)', genres=[DRAMA, THRILLER]}
+Movie{movieId=6811, title='PCU (1994)', genres=[COMEDY]}
+Movie{movieId=6812, title='Rookie The (1990)', genres=[ACTION, COMEDY, THRILLER]}
+Movie{movieId=6813, title='Ghost and Mr. Chicken The (1966)', genres=[COMEDY, ROMANCE]}
+Movie{movieId=6814, title='City Heat (1984)', genres=[ACTION, COMEDY]}
+Movie{movieId=6816, title='Three O'Clock High (1987)', genres=[COMEDY]}
+Movie{movieId=6818, title='Come and See (Idi i smotri) (1985)', genres=[DRAMA, WAR]}
+Movie{movieId=6820, title='Ginger Snaps (2000)', genres=[DRAMA, HORROR, THRILLER]}
+Movie{movieId=6822, title='Ballad of Little Jo The (1993)', genres=[DRAMA, WESTERN]}
+Movie{movieId=6826, title='Shakiest Gun in the West The (1968)', genres=[COMEDY, WESTERN]}
+Movie{movieId=6827, title='It's Pat (1994)', genres=[COMEDY]}
+Movie{movieId=6828, title='Sunday in the Country A (Un dimanche à la campagne) (1984)', genres=[DRAMA]}
+Movie{movieId=6829, title='Gun in Betty Lou's Handbag The (1992)', genres=[COMEDY, MYSTERY]}
+Movie{movieId=6830, title='Sudden Fear (1952)', genres=[FILM_NOIR, HORROR, THRILLER]}
+Movie{movieId=6832, title='Regarding Henry (1991)', genres=[DRAMA]}
+Movie{movieId=6835, title='Alien Contamination (1980)', genres=[ACTION, HORROR, SCI_FI]}
+Movie{movieId=6840, title='Hospital The (1971)', genres=[COMEDY, DRAMA]}
+Movie{movieId=6850, title='Leap of Faith (1992)', genres=[COMEDY, DRAMA]}
+Movie{movieId=6851, title='Gas', genres=[NON_GENRE_LISTED]}
+Movie{movieId=6852, title='In Cold Blood (1967)', genres=[CRIME, DRAMA]}
+Movie{movieId=6856, title='Yankee Doodle Dandy (1942)', genres=[DRAMA, MUSICAL]}
+Movie{movieId=6857, title='Ninja Scroll (Jûbei ninpûchô) (1995)', genres=[ACTION, ADVENTURE, ANIMATION, FANTASY]}
+Movie{movieId=6858, title='Knife in the Water (Nóz w wodzie) (1962)', genres=[DRAMA]}
+Movie{movieId=6862, title='Out of Time (2003)', genres=[CRIME, DRAMA, THRILLER]}
+Movie{movieId=6863, title='School of Rock (2003)', genres=[COMEDY, MUSICAL]}
+Movie{movieId=6864, title='Concert for George The (2003)', genres=[DOCUMENTARY, MUSICAL]}
+Movie{movieId=6867, title='Station Agent The (2003)', genres=[COMEDY, DRAMA]}
+Movie{movieId=6868, title='Wonderland (2003)', genres=[CRIME, DRAMA, MYSTERY, THRILLER]}
+Movie{movieId=6869, title='Bus 174 (Ônibus 174) (2002)', genres=[CRIME, DOCUMENTARY]}
+Movie{movieId=6870, title='Mystic River (2003)', genres=[CRIME, DRAMA, MYSTERY]}
+Movie{movieId=6872, title='House of the Dead The (2003)', genres=[ACTION, HORROR]}
+Movie{movieId=6873, title='Intolerable Cruelty (2003)', genres=[COMEDY, ROMANCE]}
+Movie{movieId=6874, title='Kill Bill: Vol. 1 (2003)', genres=[ACTION, CRIME, THRILLER]}
+Movie{movieId=6875, title='Dopamine (2003)', genres=[COMEDY, DRAMA, ROMANCE]}
+Movie{movieId=6877, title='Girls Will Be Girls (2003)', genres=[COMEDY]}
+Movie{movieId=6879, title='Runaway Jury (2003)', genres=[DRAMA, THRILLER]}
+Movie{movieId=6880, title='Texas Chainsaw Massacre The (2003)', genres=[HORROR]}
+Movie{movieId=6881, title='Pieces of April (2003)', genres=[COMEDY, DRAMA]}
+Movie{movieId=6883, title='Sylvia (2003)', genres=[DRAMA, ROMANCE]}
+Movie{movieId=6884, title='Veronica Guerin (2003)', genres=[CRIME, DRAMA, THRILLER]}
+Movie{movieId=6885, title='In the Cut (2003)', genres=[CRIME, DRAMA, MYSTERY, ROMANCE, THRILLER]}
+Movie{movieId=6887, title='Radio (2003)', genres=[DRAMA]}
+Movie{movieId=6888, title='Scary Movie 3 (2003)', genres=[COMEDY, HORROR]}
+Movie{movieId=6889, title='Brother Bear (2003)', genres=[ADVENTURE, ANIMATION, CHILDREN]}
+Movie{movieId=6890, title='Elephant (2003)', genres=[DRAMA]}
+Movie{movieId=6892, title='Singing Detective The (2003)', genres=[COMEDY, DRAMA, MUSICAL, MYSTERY]}
+Movie{movieId=6893, title='Italian Job The (1969)', genres=[ACTION, COMEDY, CRIME]}
+Movie{movieId=6896, title='Shoah (1985)', genres=[DOCUMENTARY, WAR]}
+Movie{movieId=6898, title='Sweet Sixteen (2002)', genres=[DRAMA]}
+Movie{movieId=6902, title='Interstate 60 (2002)', genres=[ADVENTURE, COMEDY, DRAMA, FANTASY, MYSTERY, SCI_FI, THRILLER]}
+Movie{movieId=6906, title='That Was Then... This Is Now (1985)', genres=[DRAMA]}
+Movie{movieId=6909, title='Eye The (Gin gwai) (Jian gui) (2002)', genres=[THRILLER]}
+Movie{movieId=6918, title='Unvanquished The (Aparajito) (1957)', genres=[DRAMA]}
+Movie{movieId=6920, title='Cercle Rouge', genres=[NON_GENRE_LISTED]}
+Movie{movieId=6927, title='Human Stain The (2003)', genres=[DRAMA, ROMANCE, THRILLER]}
+Movie{movieId=6930, title='Girlhood (2003)', genres=[DOCUMENTARY]}
+Movie{movieId=6932, title='Shattered Glass (2003)', genres=[CRIME, DRAMA]}
+Movie{movieId=6934, title='Matrix Revolutions The (2003)', genres=[ACTION, ADVENTURE, SCI_FI, THRILLER, IMAX]}
+Movie{movieId=6935, title='Revolution Will Not Be Televised The (a.k.a. Chavez: Inside the Coup) (2003)', genres=[DOCUMENTARY]}
+Movie{movieId=6936, title='Elf (2003)', genres=[CHILDREN, COMEDY, FANTASY]}
+Movie{movieId=6940, title='In My Skin (Dans ma Peau) (2002)', genres=[DRAMA]}
+Movie{movieId=6942, title='Love Actually (2003)', genres=[COMEDY, DRAMA, ROMANCE]}
+Movie{movieId=6944, title='Father of the Bride (1991)', genres=[COMEDY]}
+Movie{movieId=6945, title='My Architect: A Son's Journey (2003)', genres=[DOCUMENTARY]}
+Movie{movieId=6947, title='Master and Commander: The Far Side of the World (2003)', genres=[ADVENTURE, DRAMA, WAR]}
+Movie{movieId=6950, title='Missing The (2003)', genres=[ADVENTURE, THRILLER, WESTERN]}
+Movie{movieId=6951, title='Cat in the Hat The (2003)', genres=[CHILDREN, COMEDY]}
+Movie{movieId=6952, title='Gothika (2003)', genres=[HORROR, THRILLER]}
+Movie{movieId=6953, title='21 Grams (2003)', genres=[CRIME, DRAMA, MYSTERY, ROMANCE, THRILLER]}
+Movie{movieId=6954, title='Barbarian Invasions The (Les invasions barbares) (2003)', genres=[COMEDY, CRIME, DRAMA, MYSTERY, ROMANCE]}
+Movie{movieId=6957, title='Bad Santa (2003)', genres=[COMEDY, CRIME]}
+Movie{movieId=6958, title='Haunted Mansion The (2003)', genres=[CHILDREN, COMEDY, FANTASY, HORROR]}
+Movie{movieId=6959, title='Timeline (2003)', genres=[ACTION, ADVENTURE, SCI_FI]}
+Movie{movieId=6961, title='Damage (Fatale) (1992)', genres=[DRAMA]}
+Movie{movieId=6963, title='Devil's Playground (2002)', genres=[DOCUMENTARY]}
+Movie{movieId=6964, title='Dance with a Stranger (1985)', genres=[CRIME, DRAMA, THRILLER]}
+Movie{movieId=6966, title='Darkman (1990)', genres=[ACTION, CRIME, FANTASY, SCI_FI, THRILLER]}
+Movie{movieId=6970, title='Desk Set (1957)', genres=[COMEDY, ROMANCE]}
+Movie{movieId=6971, title='Europa (Zentropa) (1991)', genres=[DRAMA, THRILLER]}
+Movie{movieId=6974, title='Freshman The (1990)', genres=[COMEDY, CRIME]}
+Movie{movieId=6975, title='Funny Games (1997)', genres=[DRAMA, HORROR, THRILLER]}
+Movie{movieId=6977, title='New Jack City (1991)', genres=[ACTION, CRIME, DRAMA]}
+Movie{movieId=6978, title='Slacker (1991)', genres=[COMEDY, DRAMA]}
+Movie{movieId=6979, title='WarGames (1983)', genres=[DRAMA, SCI_FI, THRILLER]}
+Movie{movieId=6981, title='Ordet (Word The) (1955)', genres=[DRAMA]}
+Movie{movieId=6982, title='Forbidden Games (Jeux interdits) (1952)', genres=[DRAMA, WAR]}
+Movie{movieId=6983, title='Jane Eyre (1944)', genres=[DRAMA, ROMANCE]}
+Movie{movieId=6985, title='Passion of Joan of Arc', genres=[NON_GENRE_LISTED]}
+Movie{movieId=6986, title='Ben-Hur: A Tale of the Christ (1925)', genres=[ADVENTURE, DRAMA, ROMANCE]}
+Movie{movieId=6987, title='Cabinet of Dr. Caligari', genres=[NON_GENRE_LISTED]}
+Movie{movieId=6989, title='Gorky Park (1983)', genres=[CRIME, DRAMA, THRILLER]}
+Movie{movieId=6990, title='The Great Train Robbery (1978)', genres=[ACTION, ADVENTURE, COMEDY, CRIME, DRAMA]}
+Movie{movieId=6991, title='Greystoke: The Legend of Tarzan Lord of the Apes (1984)', genres=[ADVENTURE, DRAMA, ROMANCE]}
+Movie{movieId=6992, title='Guarding Tess (1994)', genres=[COMEDY, DRAMA]}
+Movie{movieId=6993, title='Hannah and Her Sisters (1986)', genres=[COMEDY, DRAMA, ROMANCE]}
+Movie{movieId=6995, title='Hercules in New York (1970)', genres=[ACTION, COMEDY, FANTASY]}
+Movie{movieId=6996, title='Highlander II: The Quickening (1991)', genres=[ACTION, SCI_FI]}
+Movie{movieId=6997, title='Hoffa (1992)', genres=[CRIME, DRAMA]}
+Movie{movieId=6999, title='Housesitter (1992)', genres=[COMEDY, ROMANCE]}
+Movie{movieId=7000, title='Hudson Hawk (1991)', genres=[ACTION, ADVENTURE, COMEDY]}
+Movie{movieId=7001, title='Invasion of the Body Snatchers (1978)', genres=[HORROR, MYSTERY, SCI_FI, THRILLER]}
+Movie{movieId=7002, title='Mindwalk (1990)', genres=[DRAMA]}
+Movie{movieId=7003, title='Kafka (1991)', genres=[COMEDY, DRAMA, MYSTERY, SCI_FI, THRILLER]}
+Movie{movieId=7004, title='Kindergarten Cop (1990)', genres=[ACTION, COMEDY, CRIME, THRILLER]}
+Movie{movieId=7005, title='King Ralph (1991)', genres=[COMEDY]}
+Movie{movieId=7007, title='Last Boy Scout The (1991)', genres=[ACTION, COMEDY, CRIME, DRAMA, THRILLER]}
+Movie{movieId=7008, title='Last Tango in Paris (Ultimo tango a Parigi) (1972)', genres=[DRAMA, ROMANCE]}
+Movie{movieId=7009, title='Lorenzo's Oil (1992)', genres=[DRAMA]}
+Movie{movieId=7010, title='Lover', genres=[NON_GENRE_LISTED]}
+Movie{movieId=7011, title='Bullfighter The (Matador) (1986)', genres=[COMEDY, CRIME, DRAMA]}
+Movie{movieId=7012, title='Mr. Destiny (1990)', genres=[COMEDY, FANTASY]}
+Movie{movieId=7013, title='Night of the Hunter The (1955)', genres=[DRAMA, FILM_NOIR, THRILLER]}
+Movie{movieId=7016, title='Over the Top (1987)', genres=[ACTION, DRAMA]}
+Movie{movieId=7017, title='Passenger 57 (1992)', genres=[ACTION, THRILLER]}
+Movie{movieId=7018, title='Presumed Innocent (1990)', genres=[CRIME, DRAMA, THRILLER]}
+Movie{movieId=7020, title='Proof (1991)', genres=[COMEDY, DRAMA, ROMANCE]}
+Movie{movieId=7022, title='Battle Royale (Batoru rowaiaru) (2000)', genres=[ACTION, DRAMA, HORROR, THRILLER]}
+Movie{movieId=7023, title='Wedding Banquet The (Xi yan) (1993)', genres=[COMEDY, DRAMA, ROMANCE]}
+Movie{movieId=7024, title='Salo or The 120 Days of Sodom (Salò o le 120 giornate di Sodoma) (1976)', genres=[DRAMA]}
+Movie{movieId=7025, title='Midnight Clear A (1992)', genres=[DRAMA, WAR]}
+Movie{movieId=7026, title='Summer School (1987)', genres=[COMEDY]}
+Movie{movieId=7027, title='Silverado (1985)', genres=[ACTION, WESTERN]}
+Movie{movieId=7028, title='Quick Change (1990)', genres=[COMEDY, CRIME]}
+Movie{movieId=7029, title='Rabid (1977)', genres=[HORROR, THRILLER]}
+Movie{movieId=7034, title='Show Me Love (Fucking Åmål) (1998)', genres=[DRAMA, ROMANCE]}
+Movie{movieId=7036, title='Teen Wolf (1985)', genres=[COMEDY, FANTASY]}
+Movie{movieId=7038, title='Things You Can Tell Just by Looking at Her (2000)', genres=[DRAMA, ROMANCE]}
+Movie{movieId=7040, title='To Live and Die in L.A. (1985)', genres=[ACTION, CRIME, DRAMA, THRILLER]}
+Movie{movieId=7042, title='Betty Blue (37°2 le matin) (1986)', genres=[DRAMA, ROMANCE]}
+Movie{movieId=7043, title='Vivre sa vie: Film en douze tableaux (My Life to Live) (1962)', genres=[DRAMA]}
+Movie{movieId=7044, title='Wild at Heart (1990)', genres=[CRIME, DRAMA, MYSTERY, ROMANCE, THRILLER]}
+Movie{movieId=7045, title='Witches The (1990)', genres=[CHILDREN, FANTASY]}
+Movie{movieId=7046, title='Witches of Eastwick The (1987)', genres=[COMEDY, FANTASY, HORROR, THRILLER]}
+Movie{movieId=7048, title='Nothing to Lose (1997)', genres=[ACTION, ADVENTURE, COMEDY, CRIME]}
+Movie{movieId=7050, title='Follow the Fleet (1936)', genres=[COMEDY, MUSICAL, ROMANCE]}
+Movie{movieId=7051, title='What's New Pussycat (1965)', genres=[COMEDY]}
+Movie{movieId=7055, title='Swing Time (1936)', genres=[COMEDY, MUSICAL, ROMANCE]}
+Movie{movieId=7056, title='Public Enemy The (1931)', genres=[ACTION, CRIME, DRAMA]}
+Movie{movieId=7058, title='Life with Father (1947)', genres=[COMEDY]}
+Movie{movieId=7059, title='National Velvet (1944)', genres=[CHILDREN, DRAMA]}
+Movie{movieId=7060, title='Jesus Christ Superstar (1973)', genres=[DRAMA, MUSICAL]}
+Movie{movieId=7061, title='Dark Victory (1939)', genres=[DRAMA, ROMANCE]}
+Movie{movieId=7062, title='Birdman of Alcatraz (1962)', genres=[DRAMA]}
+Movie{movieId=7063, title='Aguirre: The Wrath of God (Aguirre der Zorn Gottes) (1972)', genres=[ADVENTURE, DRAMA]}
+Movie{movieId=7064, title='Beauty and the Beast (La belle et la bête) (1946)', genres=[DRAMA, FANTASY]}
+Movie{movieId=7065, title='Birth of a Nation The (1915)', genres=[DRAMA, WAR]}
+Movie{movieId=7067, title='Juliet of the Spirits (Giulietta degli spiriti) (1965)', genres=[COMEDY, DRAMA, FANTASY, ROMANCE]}
+Movie{movieId=7068, title='Last Year at Marienbad (L'Année dernière à Marienbad) (1961)', genres=[DRAMA, MYSTERY, ROMANCE]}
+Movie{movieId=7069, title='Macbeth (a.k.a. Tragedy of Macbeth The) (1971)', genres=[DRAMA]}
+Movie{movieId=7070, title='Red River (1948)', genres=[ACTION, ADVENTURE, WESTERN]}
+Movie{movieId=7071, title='Woman Under the Influence A (1974)', genres=[DRAMA]}
+Movie{movieId=7072, title='Stagecoach (1939)', genres=[ACTION, DRAMA, ROMANCE, WESTERN]}
+Movie{movieId=7073, title='Shot in the Dark A (1964)', genres=[COMEDY, CRIME, MYSTERY]}
+Movie{movieId=7074, title='Navigator The (1924)', genres=[COMEDY]}
+Movie{movieId=7075, title='Court Jester The (1956)', genres=[ADVENTURE, COMEDY, MUSICAL]}
+Movie{movieId=7076, title='Bullitt (1968)', genres=[ACTION, CRIME, DRAMA, THRILLER]}
+Movie{movieId=7078, title='Jezebel (1938)', genres=[DRAMA]}
+Movie{movieId=7079, title='Hunchback of Notre Dame The (1939)', genres=[DRAMA]}
+Movie{movieId=7080, title='42nd Street (1933)', genres=[DRAMA, MUSICAL, ROMANCE]}
+Movie{movieId=7081, title='I'm No Angel (1933)', genres=[COMEDY]}
+Movie{movieId=7082, title='That Touch of Mink (1962)', genres=[COMEDY, ROMANCE]}
+Movie{movieId=7083, title='Sweet Dreams (1985)', genres=[DRAMA]}
+Movie{movieId=7084, title='Play It Again Sam (1972)', genres=[COMEDY, ROMANCE]}
+Movie{movieId=7085, title='Send Me No Flowers (1964)', genres=[COMEDY, ROMANCE]}
+Movie{movieId=7086, title='Pygmalion (1938)', genres=[COMEDY, DRAMA]}
+Movie{movieId=7087, title='Passage to India A (1984)', genres=[ADVENTURE, DRAMA]}
+Movie{movieId=7088, title='Black Orpheus (Orfeu Negro) (1959)', genres=[DRAMA, ROMANCE]}
+Movie{movieId=7089, title='Amarcord (1973)', genres=[COMEDY, DRAMA]}
+Movie{movieId=7090, title='Hero (Ying xiong) (2002)', genres=[ACTION, ADVENTURE, DRAMA]}
+Movie{movieId=7091, title='Horse Feathers (1932)', genres=[COMEDY]}
+Movie{movieId=7093, title='Front Page The (1974)', genres=[COMEDY]}
+Movie{movieId=7095, title='Looking for Mr. Goodbar (1977)', genres=[DRAMA]}
+Movie{movieId=7096, title='Rivers and Tides (2001)', genres=[DOCUMENTARY]}
+Movie{movieId=7099, title='Nausicaä of the Valley of the Wind (Kaze no tani no Naushika) (1984)', genres=[ADVENTURE, ANIMATION, DRAMA, FANTASY, SCI_FI]}
+Movie{movieId=7101, title='Doc Hollywood (1991)', genres=[COMEDY, ROMANCE]}
+Movie{movieId=7102, title='Dragnet (1987)', genres=[COMEDY, CRIME, DRAMA]}
+Movie{movieId=7104, title='1941 (1979)', genres=[COMEDY, WAR]}
+Movie{movieId=7107, title='Foul Play (1978)', genres=[COMEDY, THRILLER]}
+Movie{movieId=7108, title='Crime Story (Zhong an zu) (1993)', genres=[ACTION, CRIME, DRAMA]}
+Movie{movieId=7110, title='Blind Beast (Môjuu) (1969)', genres=[DRAMA, THRILLER]}
+Movie{movieId=7111, title='Ryan's Daughter (1970)', genres=[DRAMA, ROMANCE]}
+Movie{movieId=7115, title='Deep Red (Profondo rosso) (1975)', genres=[HORROR, MYSTERY, THRILLER]}
+Movie{movieId=7116, title='Diabolique (Les diaboliques) (1955)', genres=[HORROR, MYSTERY, THRILLER]}
+Movie{movieId=7117, title='Leprechaun (1993)', genres=[COMEDY, HORROR]}
+Movie{movieId=7121, title='Adam's Rib (1949)', genres=[COMEDY, ROMANCE]}
+Movie{movieId=7122, title='King of Hearts (1966)', genres=[COMEDY, DRAMA, WAR]}
+Movie{movieId=7123, title='Naked Lunch (1991)', genres=[DRAMA, FANTASY, MYSTERY, SCI_FI]}
+Movie{movieId=7125, title='Spring Forward (1999)', genres=[DRAMA]}
+Movie{movieId=7126, title='Killing of a Chinese Bookie The (1976)', genres=[COMEDY, CRIME, DRAMA, FILM_NOIR, MUSICAL]}
+Movie{movieId=7130, title='Darling (1965)', genres=[DRAMA]}
+Movie{movieId=7131, title='Summer Place A (1959)', genres=[DRAMA]}
+Movie{movieId=7132, title='Night at the Opera A (1935)', genres=[COMEDY, MUSICAL, ROMANCE]}
+Movie{movieId=7135, title='Shoot the Piano Player (Tirez sur le pianiste) (1960)', genres=[CRIME, DRAMA, ROMANCE, THRILLER]}
+Movie{movieId=7136, title='Stolen Kisses (Baisers volés) (1968)', genres=[COMEDY, DRAMA, ROMANCE]}
+Movie{movieId=7137, title='Cooler The (2003)', genres=[COMEDY, DRAMA, ROMANCE]}
+Movie{movieId=7139, title='In America (2002)', genres=[DRAMA, ROMANCE]}
+Movie{movieId=7142, title='Honey (2003)', genres=[DRAMA, ROMANCE]}
+Movie{movieId=7143, title='Last Samurai The (2003)', genres=[ACTION, ADVENTURE, DRAMA, WAR]}
+Movie{movieId=7147, title='Big Fish (2003)', genres=[DRAMA, FANTASY, ROMANCE]}
+Movie{movieId=7149, title='Something's Gotta Give (2003)', genres=[COMEDY, DRAMA, ROMANCE]}
+Movie{movieId=7150, title='Stuck on You (2003)', genres=[COMEDY]}
+Movie{movieId=7151, title='Girl with a Pearl Earring (2003)', genres=[DRAMA, ROMANCE]}
+Movie{movieId=7152, title='Statement The (2003)', genres=[DRAMA, THRILLER]}
+Movie{movieId=7153, title='Lord of the Rings: The Return of the King The (2003)', genres=[ACTION, ADVENTURE, DRAMA, FANTASY]}
+Movie{movieId=7154, title='Mona Lisa Smile (2003)', genres=[DRAMA, ROMANCE]}
+Movie{movieId=7155, title='Calendar Girls (2003)', genres=[COMEDY]}
+Movie{movieId=7156, title='Fog of War: Eleven Lessons from the Life of Robert S. McNamara The (2003)', genres=[DOCUMENTARY, WAR]}
+Movie{movieId=7158, title='House of Sand and Fog (2003)', genres=[DRAMA]}
+Movie{movieId=7160, title='Monster (2003)', genres=[CRIME, DRAMA]}
+Movie{movieId=7161, title='Cheaper by the Dozen (2003)', genres=[CHILDREN, COMEDY]}
+Movie{movieId=7162, title='Cold Mountain (2003)', genres=[DRAMA, ROMANCE, WAR]}
+Movie{movieId=7163, title='Paycheck (2003)', genres=[ACTION, SCI_FI, THRILLER]}
+Movie{movieId=7164, title='Peter Pan (2003)', genres=[ACTION, ADVENTURE, CHILDREN, FANTASY]}
+Movie{movieId=7165, title='Company The (2003)', genres=[DRAMA, MUSICAL]}
+Movie{movieId=7171, title='Aileen: Life and Death of a Serial Killer (2003)', genres=[DOCUMENTARY]}
+Movie{movieId=7172, title='Distant (Uzak) (2002)', genres=[DRAMA]}
+Movie{movieId=7173, title='Along Came Polly (2004)', genres=[COMEDY, ROMANCE]}
+Movie{movieId=7177, title='Osama (2003)', genres=[DRAMA]}
+Movie{movieId=7178, title='Great Gatsby The (1974)', genres=[DRAMA]}
+Movie{movieId=7179, title='Wuthering Heights (1992)', genres=[DRAMA, ROMANCE]}
+Movie{movieId=7180, title='Odds Against Tomorrow (1959)', genres=[CRIME, DRAMA, THRILLER]}
+Movie{movieId=7182, title='Lord Love a Duck (1966)', genres=[COMEDY]}
+Movie{movieId=7186, title='Once Upon a Crime... (1992)', genres=[COMEDY, MYSTERY]}
+Movie{movieId=7189, title='Car 54 Where Are You? (1994)', genres=[COMEDY]}
+Movie{movieId=7190, title='Jane Eyre (1970)', genres=[DRAMA]}
+Movie{movieId=7192, title='Only the Strong (1993)', genres=[ACTION]}
+Movie{movieId=7193, title='Adventures of Ford Fairlane The (1990)', genres=[ACTION, COMEDY]}
+Movie{movieId=7195, title='Enforcer The (1951)', genres=[CRIME, DRAMA, FILM_NOIR]}
+Movie{movieId=7196, title='Men The (1950)', genres=[DRAMA]}
+Movie{movieId=7198, title='The Pick-up Artist (1987)', genres=[COMEDY, CRIME, DRAMA, ROMANCE]}
+Movie{movieId=7199, title='Melvin Goes to Dinner (2003)', genres=[COMEDY, DRAMA]}
+Movie{movieId=7204, title='Hells Angels on Wheels (1967)', genres=[DRAMA]}
+Movie{movieId=7206, title='Mon Oncle (My Uncle) (1958)', genres=[COMEDY]}
+Movie{movieId=7207, title='Where the Boys Are (1960)', genres=[COMEDY]}
+Movie{movieId=7208, title='Dr. Jekyll and Mr. Hyde (1941)', genres=[DRAMA, HORROR]}
+Movie{movieId=7209, title='M. Hulot’s Holiday (Mr. Hulot's Holiday) (Vacances de Monsieur Hulot Les) (1953)', genres=[COMEDY]}
+Movie{movieId=7210, title='My Darling Clementine (1946)', genres=[WESTERN]}
+Movie{movieId=7211, title='People Will Talk (1951)', genres=[COMEDY, ROMANCE]}
+Movie{movieId=7212, title='I Was a Male War Bride (1949)', genres=[COMEDY, ROMANCE]}
+Movie{movieId=7215, title='To Have and Have Not (1944)', genres=[ADVENTURE, DRAMA, ROMANCE, THRILLER, WAR]}
+Movie{movieId=7216, title='High Sierra (1941)', genres=[CRIME, DRAMA, FILM_NOIR, THRILLER]}
+Movie{movieId=7217, title='Dark Passage (1947)', genres=[CRIME, DRAMA, FILM_NOIR, ROMANCE, THRILLER]}
+Movie{movieId=7219, title='They Drive by Night (1940)', genres=[DRAMA]}
+Movie{movieId=7222, title='Reefer Madness (a.k.a. Tell Your Children) (1938)', genres=[COMEDY, DRAMA]}
+Movie{movieId=7223, title='D.O.A. (1950)', genres=[DRAMA, FILM_NOIR, MYSTERY]}
+Movie{movieId=7228, title='Cool World (1992)', genres=[ANIMATION, COMEDY, FANTASY]}
+Movie{movieId=7234, title='Strada La (1954)', genres=[DRAMA]}
+Movie{movieId=7235, title='Ichi the Killer (Koroshiya 1) (2001)', genres=[ACTION, COMEDY, CRIME, DRAMA, HORROR, THRILLER]}
+Movie{movieId=7236, title='Boy and His Dog A (1975)', genres=[SCI_FI]}
+Movie{movieId=7238, title='Ashes and Diamonds (Popiól i diament) (1958)', genres=[DRAMA, WAR]}
+Movie{movieId=7243, title='Intolerance: Love's Struggle Throughout the Ages (1916)', genres=[DRAMA]}
+Movie{movieId=7245, title='Tormented (1960)', genres=[HORROR, THRILLER]}
+Movie{movieId=7247, title='Chitty Chitty Bang Bang (1968)', genres=[ADVENTURE, CHILDREN, COMEDY, FANTASY, MUSICAL]}
+Movie{movieId=7248, title='Suriyothai (a.k.a. Legend of Suriyothai The) (2001)', genres=[ACTION, ADVENTURE, DRAMA, WAR]}
+Movie{movieId=7250, title='Out of Towners The (1970)', genres=[COMEDY]}
+Movie{movieId=7254, title='The Butterfly Effect (2004)', genres=[DRAMA, SCI_FI, THRILLER]}
+Movie{movieId=7255, title='Win a Date with Tad Hamilton! (2004)', genres=[COMEDY, ROMANCE]}
+Movie{movieId=7256, title='Touching the Void (2003)', genres=[ADVENTURE, DOCUMENTARY]}
+Movie{movieId=7257, title='Big Bounce The (2004)', genres=[COMEDY, CRIME, THRILLER]}
+Movie{movieId=7258, title='Perfect Score The (2004)', genres=[COMEDY, CRIME]}
+Movie{movieId=7260, title='Latter Days (2003)', genres=[COMEDY, DRAMA, ROMANCE]}
+Movie{movieId=7263, title='Miracle (2004)', genres=[DRAMA]}
+Movie{movieId=7265, title='Dreamers The (2003)', genres=[DRAMA]}
+Movie{movieId=7266, title='Lost Skeleton of Cadavra The (2002)', genres=[COMEDY, HORROR, SCI_FI]}
+Movie{movieId=7272, title='Super Fly (Superfly) (1972)', genres=[ACTION, CRIME, DRAMA]}
+Movie{movieId=7282, title='Hip Hop Witch Da (2000)', genres=[COMEDY, HORROR, THRILLER]}
+Movie{movieId=7283, title='Swing Shift (1984)', genres=[DRAMA]}
+Movie{movieId=7285, title='Thirteen (2003)', genres=[DRAMA]}
+Movie{movieId=7293, title='50 First Dates (2004)', genres=[COMEDY, ROMANCE]}
+Movie{movieId=7294, title='Welcome to Mooseport (2004)', genres=[COMEDY]}
+Movie{movieId=7299, title='Monsieur Ibrahim (Monsieur Ibrahim et les fleurs du Coran) (2003)', genres=[DRAMA]}
+Movie{movieId=7300, title='Vanishing Point (1971)', genres=[ACTION, DRAMA]}
+Movie{movieId=7302, title='Thief of Bagdad The (1924)', genres=[ACTION, ADVENTURE, FANTASY]}
+Movie{movieId=7303, title='The Diary of Anne Frank (1959)', genres=[DRAMA, WAR]}
+Movie{movieId=7305, title='Black Widow (1987)', genres=[CRIME, DRAMA, MYSTERY, THRILLER]}
+Movie{movieId=7307, title='Flesh & Blood (1985)', genres=[ACTION, ADVENTURE, DRAMA, WAR]}
+Movie{movieId=7308, title='King Solomon's Mines (1985)', genres=[ADVENTURE, COMEDY]}
+Movie{movieId=7309, title='Black Pirate The (1926)', genres=[ACTION, ADVENTURE]}
+Movie{movieId=7311, title='Goodbye Mr. Chips (1939)', genres=[DRAMA, ROMANCE]}
+Movie{movieId=7312, title='Follow Me Boys! (1966)', genres=[COMEDY, DRAMA]}
+Movie{movieId=7315, title='Against the Ropes (2004)', genres=[COMEDY, DRAMA]}
+Movie{movieId=7316, title='Confessions of a Teenage Drama Queen (2004)', genres=[COMEDY]}
+Movie{movieId=7317, title='EuroTrip (2004)', genres=[ADVENTURE, COMEDY]}
+Movie{movieId=7318, title='Passion of the Christ The (2004)', genres=[DRAMA]}
+Movie{movieId=7319, title='Club Dread (2004)', genres=[COMEDY, HORROR]}
+Movie{movieId=7320, title='Dirty Dancing: Havana Nights (2004)', genres=[ROMANCE]}
+Movie{movieId=7323, title='Good bye Lenin! (2003)', genres=[COMEDY, DRAMA]}
+Movie{movieId=7324, title='Hidalgo (2004)', genres=[ADVENTURE, DRAMA]}
+Movie{movieId=7325, title='Starsky & Hutch (2004)', genres=[ACTION, COMEDY, CRIME, THRILLER]}
+Movie{movieId=7327, title='Persona (1966)', genres=[DRAMA]}
+Movie{movieId=7334, title='Front The (1976)', genres=[COMEDY, DRAMA]}
+Movie{movieId=7335, title='Pickup on South Street (1953)', genres=[FILM_NOIR]}
+Movie{movieId=7340, title='Just One of the Guys (1985)', genres=[COMEDY]}
+Movie{movieId=7343, title='Wisconsin Death Trip (1999)', genres=[DOCUMENTARY]}
+Movie{movieId=7346, title='Girl Next Door The (2004)', genres=[COMEDY, ROMANCE]}
+Movie{movieId=7347, title='Secret Window (2004)', genres=[MYSTERY, THRILLER]}
+Movie{movieId=7348, title='Spartan (2004)', genres=[THRILLER]}
+Movie{movieId=7349, title='Broken Wings (Knafayim Shvurot) (2002)', genres=[DRAMA]}
+Movie{movieId=7352, title='Wilbur Wants to Kill Himself (2002)', genres=[COMEDY, DRAMA, ROMANCE]}
+Movie{movieId=7354, title='Mad Dog and Glory (1993)', genres=[COMEDY, DRAMA, ROMANCE]}
+Movie{movieId=7355, title='Mr. Toad's Wild Ride (a.k.a. The Wind in the Willows) (1996)', genres=[ADVENTURE, ANIMATION, COMEDY]}
+Movie{movieId=7357, title='Peyton Place (1957)', genres=[DRAMA, ROMANCE]}
+Movie{movieId=7358, title='Searching for Debra Winger (2002)', genres=[DOCUMENTARY]}
+Movie{movieId=7360, title='Dawn of the Dead (2004)', genres=[ACTION, DRAMA, HORROR, THRILLER]}
+Movie{movieId=7361, title='Eternal Sunshine of the Spotless Mind (2004)', genres=[DRAMA, ROMANCE, SCI_FI]}
+Movie{movieId=7362, title='Taking Lives (2004)', genres=[CRIME, DRAMA, THRILLER]}
+Movie{movieId=7366, title='Jersey Girl (2004)', genres=[COMEDY, DRAMA, ROMANCE]}
+Movie{movieId=7367, title='Ladykillers The (2004)', genres=[COMEDY, CRIME]}
+Movie{movieId=7369, title='Scooby-Doo 2: Monsters Unleashed (2004)', genres=[ACTION, ADVENTURE, CHILDREN, COMEDY, MYSTERY]}
+Movie{movieId=7371, title='Dogville (2003)', genres=[DRAMA, MYSTERY, THRILLER]}
+Movie{movieId=7372, title='Ned Kelly (2003)', genres=[DRAMA]}
+Movie{movieId=7373, title='Hellboy (2004)', genres=[ACTION, ADVENTURE, FANTASY, HORROR]}
+Movie{movieId=7374, title='Home on the Range (2004)', genres=[ANIMATION, CHILDREN, COMEDY, MUSICAL, WESTERN]}
+Movie{movieId=7375, title='Prince & Me The (2004)', genres=[COMEDY, ROMANCE]}
+Movie{movieId=7376, title='Walking Tall (2004)', genres=[ACTION]}
+Movie{movieId=7379, title='The Alamo (2004)', genres=[DRAMA, WAR, WESTERN]}
+Movie{movieId=7380, title='Ella Enchanted (2004)', genres=[COMEDY, FANTASY, ROMANCE]}
+Movie{movieId=7381, title='Whole Ten Yards The (2004)', genres=[ACTION, COMEDY, CRIME]}
+Movie{movieId=7382, title='I'm Not Scared (Io non ho paura) (2003)', genres=[DRAMA, MYSTERY, THRILLER]}
+Movie{movieId=7386, title='Ten Commandments The (1956)', genres=[ADVENTURE, DRAMA]}
+Movie{movieId=7387, title='Dawn of the Dead (1978)', genres=[ACTION, DRAMA, HORROR]}
+Movie{movieId=7394, title='Those Magnificent Men in Their Flying Machines (1965)', genres=[ACTION, ADVENTURE, COMEDY]}
+Movie{movieId=7395, title='Cheaper by the Dozen (1950)', genres=[COMEDY, DRAMA]}
+Movie{movieId=7396, title='Scenes From a Marriage (Scener ur ett äktenskap) (1973)', genres=[DRAMA]}
+Movie{movieId=7407, title='Africa Screams (1949)', genres=[ADVENTURE, COMEDY]}
+Movie{movieId=7411, title='Munchies (1987)', genres=[COMEDY, HORROR]}
+Movie{movieId=7415, title='Late Show The (1977)', genres=[COMEDY, CRIME, DRAMA, MYSTERY]}
+Movie{movieId=7419, title='After Hours (1985)', genres=[COMEDY, THRILLER]}
+Movie{movieId=7437, title='Connie and Carla (2004)', genres=[COMEDY]}
+Movie{movieId=7438, title='Kill Bill: Vol. 2 (2004)', genres=[ACTION, DRAMA, THRILLER]}
+Movie{movieId=7439, title='Punisher The (2004)', genres=[ACTION, CRIME, THRILLER]}
+Movie{movieId=7444, title='13 Going on 30 (2004)', genres=[COMEDY, FANTASY, ROMANCE]}
+Movie{movieId=7445, title='Man on Fire (2004)', genres=[ACTION, CRIME, DRAMA, MYSTERY, THRILLER]}
+Movie{movieId=7448, title='Envy (2004)', genres=[COMEDY]}
+Movie{movieId=7449, title='Godsend (2004)', genres=[DRAMA, HORROR, THRILLER]}
+Movie{movieId=7450, title='Laws of Attraction (2004)', genres=[COMEDY, ROMANCE]}
+Movie{movieId=7451, title='Mean Girls (2004)', genres=[COMEDY]}
+Movie{movieId=7453, title='New York Minute (2004)', genres=[ACTION, ADVENTURE, COMEDY]}
+Movie{movieId=7454, title='Van Helsing (2004)', genres=[ACTION, ADVENTURE, FANTASY, HORROR]}
+Movie{movieId=7456, title='Valentin (Valentín) (2002)', genres=[DRAMA]}
+Movie{movieId=7458, title='Troy (2004)', genres=[ACTION, ADVENTURE, DRAMA, WAR]}
+Movie{movieId=7459, title='Carandiru (2003)', genres=[CRIME, DRAMA]}
+Movie{movieId=7460, title='Coffee and Cigarettes (2003)', genres=[COMEDY, DRAMA]}
+Movie{movieId=7478, title='Swimming to Cambodia (1987)', genres=[DRAMA]}
+Movie{movieId=7481, title='Enemy Mine (1985)', genres=[ADVENTURE, DRAMA, SCI_FI]}
+Movie{movieId=7482, title='Enter the Dragon (1973)', genres=[ACTION, CRIME]}
+Movie{movieId=7484, title='Gimme Shelter (1970)', genres=[DOCUMENTARY]}
+Movie{movieId=7487, title='Henry & June (1990)', genres=[DRAMA]}
+Movie{movieId=7492, title='Martin (1977)', genres=[DRAMA, HORROR]}
+Movie{movieId=7493, title='Three Faces of Eve The (1957)', genres=[DRAMA]}
+Movie{movieId=7502, title='Band of Brothers (2001)', genres=[ACTION, DRAMA, WAR]}
+Movie{movieId=7505, title='Kingdom The (Riget) (1994)', genres=[DRAMA, HORROR, MYSTERY]}
+Movie{movieId=7541, title='100 Girls (2000)', genres=[COMEDY, ROMANCE]}
+Movie{movieId=7560, title='Fail-Safe (1964)', genres=[DRAMA, THRILLER, WAR]}
+Movie{movieId=7564, title='Kwaidan (Kaidan) (1964)', genres=[HORROR]}
+Movie{movieId=7566, title='28 Up (1985)', genres=[DOCUMENTARY]}
+Movie{movieId=7569, title='You Only Live Twice (1967)', genres=[ACTION, ADVENTURE, SCI_FI, THRILLER]}
+Movie{movieId=7570, title='Octopussy (1983)', genres=[ACTION, ADVENTURE, THRILLER]}
+Movie{movieId=7571, title='Blue Gardenia The (1953)', genres=[CRIME, DRAMA, FILM_NOIR, THRILLER]}
+Movie{movieId=7572, title='Wit (2001)', genres=[DRAMA]}
+Movie{movieId=7573, title='Never Say Never Again (1983)', genres=[ACTION, ADVENTURE, THRILLER]}
+Movie{movieId=7574, title='Maborosi (Maboroshi no hikari) (1995)', genres=[DRAMA]}
+Movie{movieId=7577, title='Magic Flute The (Trollflöjten) (1975)', genres=[COMEDY, FANTASY, MUSICAL, ROMANCE]}
+Movie{movieId=7579, title='Pride and Prejudice (1940)', genres=[COMEDY, DRAMA, ROMANCE]}
+Movie{movieId=7583, title='In This Our Life (1942)', genres=[DRAMA]}
+Movie{movieId=7584, title='Woman of the Year (1942)', genres=[COMEDY, ROMANCE]}
+Movie{movieId=7585, title='Summertime (1955)', genres=[DRAMA, ROMANCE]}
+Movie{movieId=7586, title='Soldier of Orange (a.k.a. Survival Run) (Soldaat van Oranje) (1977)', genres=[DRAMA, THRILLER, WAR]}
+Movie{movieId=7587, title='Samouraï', genres=[NON_GENRE_LISTED]}
+Movie{movieId=7613, title='White Palace (1990)', genres=[DRAMA]}
+Movie{movieId=7614, title='Oklahoma! (1955)', genres=[MUSICAL, ROMANCE, WESTERN]}
+Movie{movieId=7615, title='Desert Hearts (1985)', genres=[DRAMA]}
+Movie{movieId=7616, title='Body Double (1984)', genres=[MYSTERY, THRILLER]}
+Movie{movieId=7619, title='Miracle Worker The (1962)', genres=[DRAMA]}
+Movie{movieId=7620, title='Monster in a Box (1992)', genres=[COMEDY, DRAMA]}
+Movie{movieId=7624, title='School Ties (1992)', genres=[DRAMA]}
+Movie{movieId=7625, title='Girl (1998)', genres=[DRAMA]}
+Movie{movieId=7627, title='Just Write (1997)', genres=[COMEDY]}
+Movie{movieId=7636, title='Raising Cain (1992)', genres=[HORROR, THRILLER]}
+Movie{movieId=7649, title='Babylon 5: In the Beginning (1998)', genres=[ADVENTURE, SCI_FI]}
+Movie{movieId=7650, title='Witchfinder General (Conquerer Worm The) (1968)', genres=[HORROR]}
+Movie{movieId=7669, title='Pride and Prejudice (1995)', genres=[DRAMA, ROMANCE]}
+Movie{movieId=7697, title='Prince and the Showgirl The (1957)', genres=[COMEDY, ROMANCE]}
+Movie{movieId=7698, title='China Syndrome The (1979)', genres=[DRAMA, THRILLER]}
+Movie{movieId=7700, title='Wages of Fear', genres=[NON_GENRE_LISTED]}
+Movie{movieId=7701, title='Look Who's Talking Too (1990)', genres=[COMEDY, ROMANCE]}
+Movie{movieId=7702, title='Bells of St. Mary's The (1945)', genres=[DRAMA]}
+Movie{movieId=7705, title='Pat and Mike (1952)', genres=[COMEDY, ROMANCE]}
+Movie{movieId=7706, title='Animal Crackers (1930)', genres=[COMEDY, MUSICAL]}
+Movie{movieId=7708, title='Bedazzled (1967)', genres=[COMEDY, FANTASY]}
+Movie{movieId=7713, title='Cat People (1942)', genres=[DRAMA, HORROR, ROMANCE, THRILLER]}
+Movie{movieId=7714, title='Camelot (1967)', genres=[DRAMA, MUSICAL, ROMANCE]}
+Movie{movieId=7720, title='Four Musketeers The (1974)', genres=[ACTION, ADVENTURE, COMEDY, ROMANCE]}
+Movie{movieId=7728, title='Postman Always Rings Twice The (1946)', genres=[CRIME, DRAMA, FILM_NOIR, THRILLER]}
+Movie{movieId=7738, title='That's The Way I Like It (a.k.a. Forever Fever) (1998)', genres=[COMEDY, DRAMA, ROMANCE]}
+Movie{movieId=7743, title='Explorers (1985)', genres=[ADVENTURE, CHILDREN, SCI_FI]}
+Movie{movieId=7748, title='Pierrot le fou (1965)', genres=[CRIME, DRAMA]}
+Movie{movieId=7753, title='Tuesdays with Morrie (1999)', genres=[DRAMA]}
+Movie{movieId=7757, title='Jason and the Argonauts (1963)', genres=[ACTION, ADVENTURE, FANTASY]}
+Movie{movieId=7759, title='Nostalghia (1983)', genres=[DRAMA]}
+Movie{movieId=7762, title='Tinker', genres=[NON_GENRE_LISTED]}
+Movie{movieId=7764, title='Driller Killer The (1979)', genres=[DRAMA, HORROR]}
+Movie{movieId=7766, title='Throne of Blood (Kumonosu jô) (1957)', genres=[ACTION, DRAMA, THRILLER, WAR]}
+Movie{movieId=7767, title='Best of Youth The (La meglio gioventù) (2003)', genres=[DRAMA]}
+Movie{movieId=7771, title='Zorba the Greek (Alexis Zorbas) (1964)', genres=[ADVENTURE, DRAMA]}
+Movie{movieId=7773, title='Bang', genres=[NON_GENRE_LISTED]}
+Movie{movieId=7774, title='My Side of the Mountain (1969)', genres=[ADVENTURE, CHILDREN]}
+Movie{movieId=7782, title='Sniper (1993)', genres=[ACTION, DRAMA]}
+Movie{movieId=7786, title='Genghis Blues (1999)', genres=[DOCUMENTARY]}
+Movie{movieId=7787, title='To Hell and Back (1955)', genres=[ACTION, DRAMA, WAR]}
+Movie{movieId=7789, title='11'0901 - September 11 (2002)', genres=[DRAMA]}
+Movie{movieId=7790, title='Bon Voyage Charlie Brown (and Don't Come Back!) (1980)', genres=[ANIMATION, CHILDREN, COMEDY]}
+Movie{movieId=7791, title='Internal Affairs (1990)', genres=[CRIME, THRILLER]}
+Movie{movieId=7792, title='Parallax View The (1974)', genres=[THRILLER]}
+Movie{movieId=7802, title='Warriors The (1979)', genres=[ACTION, ADVENTURE, CRIME, THRILLER]}
+Movie{movieId=7809, title='Ambush (Rukajärven tie) (1999)', genres=[DRAMA, ROMANCE, WAR]}
+Movie{movieId=7810, title='Babylon 5: A Call to Arms (1999)', genres=[ADVENTURE, SCI_FI]}
+Movie{movieId=7811, title='Babylon 5: The River of Souls (1998)', genres=[DRAMA, SCI_FI]}
+Movie{movieId=7812, title='Babylon 5: Thirdspace (1998)', genres=[DRAMA, SCI_FI]}
+Movie{movieId=7815, title='True Stories (1986)', genres=[COMEDY, MUSICAL]}
+Movie{movieId=7817, title='Zardoz (1974)', genres=[FANTASY, SCI_FI]}
+Movie{movieId=7818, title='School For Scoundrels (1960)', genres=[COMEDY]}
+Movie{movieId=7820, title='Virgin Spring The (Jungfrukällan) (1960)', genres=[CRIME, DRAMA]}
+Movie{movieId=7822, title='Mogambo (1953)', genres=[ADVENTURE, DRAMA, ROMANCE]}
+Movie{movieId=7826, title='Secret Life of Walter Mitty The (1947)', genres=[COMEDY, ROMANCE, THRILLER]}
+Movie{movieId=7827, title='Cypher (2002)', genres=[ACTION, SCI_FI, THRILLER]}
+Movie{movieId=7831, title='Another Thin Man (1939)', genres=[COMEDY, CRIME, DRAMA, MYSTERY, ROMANCE]}
+Movie{movieId=7832, title='Thin Man Goes Home The (1945)', genres=[COMEDY, CRIME, MYSTERY]}
+Movie{movieId=7833, title='Shadow of the Thin Man (1941)', genres=[COMEDY, CRIME, MYSTERY]}
+Movie{movieId=7834, title='After the Thin Man (1936)', genres=[COMEDY, CRIME, MYSTERY, ROMANCE]}
+Movie{movieId=7835, title='Song of the Thin Man (1947)', genres=[COMEDY, CRIME, DRAMA, MUSICAL, MYSTERY, ROMANCE]}
+Movie{movieId=7836, title='Woodstock (1970)', genres=[DOCUMENTARY, MUSICAL]}
+Movie{movieId=7840, title='Gunga Din (1939)', genres=[ADVENTURE, COMEDY, WAR]}
+Movie{movieId=7841, title='Children of Dune (2003)', genres=[FANTASY, SCI_FI]}
+Movie{movieId=7842, title='Dune (2000)', genres=[DRAMA, FANTASY, SCI_FI]}
+Movie{movieId=7843, title='Lammbock (2001)', genres=[COMEDY]}
+Movie{movieId=7844, title='Legend', genres=[NON_GENRE_LISTED]}
+Movie{movieId=7845, title='Tremors II: Aftershocks (1996)', genres=[COMEDY, HORROR, SCI_FI]}
+Movie{movieId=7846, title='Tremors 3: Back to Perfection (2001)', genres=[COMEDY, HORROR, SCI_FI]}
+Movie{movieId=7872, title='Getting It Right (1989)', genres=[COMEDY, DRAMA]}
+Movie{movieId=7878, title='Straight to Hell (1987)', genres=[COMEDY, CRIME, WESTERN]}
+Movie{movieId=7881, title='White Zombie (1932)', genres=[HORROR]}
+Movie{movieId=7882, title='The Plague of the Zombies (1966)', genres=[HORROR]}
+Movie{movieId=7883, title='I Walked with a Zombie (1943)', genres=[DRAMA, HORROR]}
+Movie{movieId=7888, title='How to Succeed in Business Without Really Trying (1967)', genres=[COMEDY, MUSICAL]}
+Movie{movieId=7889, title='Pat Garrett and Billy the Kid (1973)', genres=[WESTERN]}
+Movie{movieId=7892, title='Street Fighter The (Gekitotsu! Satsujin ken) (1974)', genres=[ACTION]}
+Movie{movieId=7894, title='Duck You Sucker (1971)', genres=[ACTION, WESTERN]}
+Movie{movieId=7895, title='Bring Me the Head of Alfredo Garcia (1974)', genres=[CRIME, DRAMA, THRILLER]}
+Movie{movieId=7897, title='Ballad of Cable Hogue The (1970)', genres=[COMEDY, WESTERN]}
+Movie{movieId=7899, title='Master of the Flying Guillotine (Du bi quan wang da po xue di zi) (1975)', genres=[ACTION]}
+Movie{movieId=7914, title='Berlin: Symphony of a Great City (Berlin: Die Sinfonie der Großstadt) (1927)', genres=[DOCUMENTARY]}
+Movie{movieId=7915, title='Samurai Fiction (SF: Episode One) (1998)', genres=[ACTION, ADVENTURE, COMEDY]}
+Movie{movieId=7916, title='Gidget (1959)', genres=[COMEDY]}
+Movie{movieId=7919, title='Drunken Angel (Yoidore tenshi) (1948)', genres=[DRAMA, FILM_NOIR]}
+Movie{movieId=7920, title='Desperate Living (1977)', genres=[COMEDY, CRIME]}
+Movie{movieId=7921, title='Devil's Rain The (1975)', genres=[HORROR]}
+Movie{movieId=7922, title='Valachi PapersThe (1972)', genres=[CRIME, DRAMA]}
+Movie{movieId=7924, title='Stray Dog (Nora inu) (1949)', genres=[DRAMA, FILM_NOIR, THRILLER]}
+Movie{movieId=7925, title='Hidden Fortress The (Kakushi-toride no san-akunin) (1958)', genres=[ACTION, ADVENTURE]}
+Movie{movieId=7926, title='High and Low (Tengoku to jigoku) (1963)', genres=[CRIME, DRAMA, FILM_NOIR, THRILLER]}
+Movie{movieId=7932, title='Dark Days (2000)', genres=[DOCUMENTARY]}
+Movie{movieId=7934, title='Zelig (1983)', genres=[COMEDY]}
+Movie{movieId=7935, title='Face to Face (Ansikte mot ansikte) (1976)', genres=[DRAMA, FANTASY, HORROR, MYSTERY]}
+Movie{movieId=7936, title='Shame (Skammen) (1968)', genres=[DRAMA, WAR]}
+Movie{movieId=7938, title='Winter Light (Nattvardsgästerna) (1963)', genres=[DRAMA]}
+Movie{movieId=7939, title='Through a Glass Darkly (Såsom i en spegel) (1961)', genres=[DRAMA]}
+Movie{movieId=7941, title='Smiles of a Summer Night (Sommarnattens leende) (1955)', genres=[COMEDY, ROMANCE]}
+Movie{movieId=7942, title='Summer with Monika (Sommaren med Monika) (1953)', genres=[DRAMA, ROMANCE]}
+Movie{movieId=7943, title='Killers The (1946)', genres=[CRIME, FILM_NOIR]}
+Movie{movieId=7944, title='Night of the Iguana The (1964)', genres=[DRAMA, THRILLER]}
+Movie{movieId=7946, title='Reflections in a Golden Eye (1967)', genres=[DRAMA]}
+Movie{movieId=7947, title='Under the Volcano (1984)', genres=[DRAMA]}
+Movie{movieId=7948, title='Wise Blood (1979)', genres=[COMEDY, DRAMA]}
+Movie{movieId=7951, title='Nightbreed (1990)', genres=[FANTASY, HORROR]}
+Movie{movieId=7958, title='Bloody Mama (1970)', genres=[CRIME, DRAMA]}
+Movie{movieId=7959, title='Trip The (1967)', genres=[DRAMA]}
+Movie{movieId=7976, title='Ken Park (2002)', genres=[DRAMA]}
+Movie{movieId=7979, title='Monterey Pop (1968)', genres=[DOCUMENTARY, MUSICAL]}
+Movie{movieId=7980, title='Bridge Too Far A (1977)', genres=[ACTION, DRAMA, WAR]}
+Movie{movieId=7981, title='Infernal Affairs (Mou gaan dou) (2002)', genres=[CRIME, DRAMA, THRILLER]}
+Movie{movieId=7982, title='Tale of Two Sisters', genres=[NON_GENRE_LISTED]}
+Movie{movieId=7983, title='Broadway Danny Rose (1984)', genres=[COMEDY]}
+Movie{movieId=7984, title='From Beyond (1986)', genres=[HORROR, SCI_FI]}
+Movie{movieId=7987, title='Dolls (1987)', genres=[HORROR]}
+Movie{movieId=7990, title='Rock 'N' Roll High School (1979)', genres=[COMEDY, MUSICAL]}
+Movie{movieId=7991, title='Death Race 2000 (1975)', genres=[ACTION, SCI_FI]}
+Movie{movieId=7995, title='Wild Angels The (1966)', genres=[ACTION, DRAMA]}
+Movie{movieId=8003, title='Bedlam (1946)', genres=[DRAMA, HORROR]}
+Movie{movieId=8008, title='Brigadoon (1954)', genres=[FANTASY, MUSICAL, ROMANCE]}
+Movie{movieId=8009, title='Marjorie Morningstar (1958)', genres=[DRAMA]}
+Movie{movieId=8010, title='Power of One The (1992)', genres=[DRAMA]}
+Movie{movieId=8011, title='Weather Underground The (2002)', genres=[DOCUMENTARY]}
+Movie{movieId=8012, title='Kikujiro (Kikujirô no natsu) (1999)', genres=[COMEDY, DRAMA]}
+Movie{movieId=8014, title='Spring', genres=[NON_GENRE_LISTED]}
+Movie{movieId=8015, title='Phantom Tollbooth The (1970)', genres=[ADVENTURE, ANIMATION, CHILDREN, FANTASY]}
+Movie{movieId=8016, title='Getaway The (1972)', genres=[ACTION, CRIME, DRAMA, THRILLER]}
+Movie{movieId=8019, title='Dark Water (Honogurai mizu no soko kara) (2002)', genres=[DRAMA, HORROR, MYSTERY, THRILLER]}
+Movie{movieId=8033, title='How to Steal a Million (1966)', genres=[COMEDY, CRIME, ROMANCE]}
+Movie{movieId=8039, title='Support Your Local Sheriff! (1969)', genres=[COMEDY, WESTERN]}
+Movie{movieId=8042, title='Mean Streets (1973)', genres=[CRIME, DRAMA]}
+Movie{movieId=8044, title='I Am a Fugitive from a Chain Gang (1932)', genres=[CRIME, DRAMA, FILM_NOIR]}
+Movie{movieId=8056, title='Harper (1966)', genres=[CRIME, DRAMA, MYSTERY]}
+Movie{movieId=8057, title='Sweet Bird of Youth (1962)', genres=[DRAMA]}
+Movie{movieId=8070, title='Grill Point (Halbe Treppe) (2002)', genres=[DRAMA]}
+Movie{movieId=8093, title='Shiri (Swiri) (1999)', genres=[ACTION, DRAMA, ROMANCE, THRILLER]}
+Movie{movieId=8094, title='Bad Day at Black Rock (1955)', genres=[DRAMA, THRILLER, WESTERN]}
+Movie{movieId=8117, title='In China They Eat Dogs (I Kina spiser de hunde) (1999)', genres=[ACTION, COMEDY]}
+Movie{movieId=8121, title='Seducing Doctor Lewis (Grande séduction La) (2003)', genres=[COMEDY]}
+Movie{movieId=8123, title='Sammy and Rosie Get Laid (1987)', genres=[COMEDY, DRAMA]}
+Movie{movieId=8125, title='Sunrise: A Song of Two Humans (1927)', genres=[DRAMA, ROMANCE]}
+Movie{movieId=8126, title='Shock Corridor (1963)', genres=[DRAMA]}
+Movie{movieId=8128, title='Au revoir les enfants (1987)', genres=[DRAMA]}
+Movie{movieId=8129, title='Sex: The Annabel Chong Story (1999)', genres=[DOCUMENTARY]}
+Movie{movieId=8130, title='Girl Next Door The (1999)', genres=[DOCUMENTARY]}
+Movie{movieId=8131, title='Pursuit of Happiness (2001)', genres=[COMEDY, ROMANCE]}
+Movie{movieId=8132, title='Gladiator (1992)', genres=[ACTION, DRAMA]}
+Movie{movieId=8133, title='Inheritance The (Arven) (2003)', genres=[DRAMA]}
+Movie{movieId=8136, title='Indestructible Man (1956)', genres=[CRIME, HORROR, SCI_FI]}
+Movie{movieId=8137, title='Wasp Woman The (1959)', genres=[HORROR, SCI_FI]}
+Movie{movieId=8138, title='Attack of the Giant Leeches (1959)', genres=[HORROR, SCI_FI]}
+Movie{movieId=8142, title='Dead or Alive: Hanzaisha (1999)', genres=[ACTION, CRIME]}
+Movie{movieId=8143, title='Lola Montès (1955)', genres=[DRAMA]}
+Movie{movieId=8147, title='Charly (1968)', genres=[DRAMA, SCI_FI]}
+Movie{movieId=8154, title='Dolce Vita La (1960)', genres=[DRAMA]}
+Movie{movieId=8157, title='Jin Roh: The Wolf Brigade (Jin-Rô) (1998)', genres=[ANIMATION, FANTASY, THRILLER]}
+Movie{movieId=8158, title='Rush (1991)', genres=[CRIME, DRAMA]}
+Movie{movieId=8167, title='Captain Blood (1935)', genres=[ACTION, ADVENTURE, ROMANCE]}
+Movie{movieId=8169, title='*batteries not included (1987)', genres=[CHILDREN, COMEDY, FANTASY, SCI_FI]}
+Movie{movieId=8183, title='Educating Rita (1983)', genres=[COMEDY, DRAMA]}
+Movie{movieId=8187, title='On Moonlight Bay (1951)', genres=[COMEDY, MUSICAL]}
+Movie{movieId=8188, title='Sansho the Bailiff (Sanshô dayû) (1954)', genres=[DRAMA]}
+Movie{movieId=8189, title='Zazie dans le métro (1960)', genres=[COMEDY]}
+Movie{movieId=8190, title='Americanization of Emily The (1964)', genres=[COMEDY, DRAMA, WAR]}
+Movie{movieId=8191, title='Anne of the Thousand Days (1969)', genres=[DRAMA]}
+Movie{movieId=8194, title='Baby Doll (1956)', genres=[DRAMA]}
+Movie{movieId=8195, title='Avventura', genres=[NON_GENRE_LISTED]}
+Movie{movieId=8196, title='Beyond the Valley of the Dolls (1970)', genres=[COMEDY, HORROR]}
+Movie{movieId=8197, title='Hiroshima Mon Amour (1959)', genres=[DRAMA, ROMANCE, WAR]}
+Movie{movieId=8199, title='Ugetsu (Ugetsu monogatari) (1953)', genres=[DRAMA, THRILLER]}
+Movie{movieId=8207, title='Day of the Jackal The (1973)', genres=[CRIME, THRILLER]}
+Movie{movieId=8208, title='Razor's Edge The (1946)', genres=[DRAMA]}
+Movie{movieId=8225, title='Night of the Living Dead (1990)', genres=[HORROR]}
+Movie{movieId=8228, title='Maltese Falcon The (a.k.a. Dangerous Female) (1931)', genres=[MYSTERY]}
+Movie{movieId=8235, title='Safety Last! (1923)', genres=[ACTION, COMEDY, ROMANCE]}
+Movie{movieId=8236, title='While the City Sleeps (1956)', genres=[DRAMA, FILM_NOIR]}
+Movie{movieId=8239, title='Viridiana (1961)', genres=[COMEDY, DRAMA]}
+Movie{movieId=8240, title='Totally F***ed Up (1993)', genres=[DRAMA]}
+Movie{movieId=8253, title='Lupin III: The Castle Of Cagliostro (Rupan sansei: Kariosutoro no shiro) (1979)', genres=[ACTION, ADVENTURE, ANIMATION, COMEDY, CRIME, MYSTERY]}
+Movie{movieId=8254, title='Arizona Dream (1993)', genres=[COMEDY, DRAMA, FANTASY, ROMANCE]}
+Movie{movieId=8256, title='Queen Christina (1933)', genres=[DRAMA, ROMANCE]}
+Movie{movieId=8257, title='Battleground (1949)', genres=[ACTION, DRAMA, WAR]}
+Movie{movieId=8261, title='3 Women (Three Women) (1977)', genres=[DRAMA]}
+Movie{movieId=8263, title='Take Me Out to the Ball Game (1949)', genres=[COMEDY, MUSICAL, ROMANCE]}
+Movie{movieId=8264, title='Grey Gardens (1975)', genres=[DOCUMENTARY]}
+Movie{movieId=8266, title='Purple Rain (1984)', genres=[DRAMA, MUSICAL]}
+Movie{movieId=8267, title='Signs of Life (Lebenszeichen) (1968)', genres=[DRAMA]}
+Movie{movieId=8268, title='Point of No Return (1993)', genres=[ACTION, THRILLER]}
+Movie{movieId=8273, title='Tale of Ham and Passion', genres=[NON_GENRE_LISTED]}
+Movie{movieId=8275, title='College (1927)', genres=[COMEDY]}
+Movie{movieId=8290, title='Mitchell (1975)', genres=[ACTION, CRIME]}
+Movie{movieId=8327, title='Dolls (2002)', genres=[DRAMA, ROMANCE]}
+Movie{movieId=8331, title='Man Who Came to Dinner The (1942)', genres=[COMEDY]}
+Movie{movieId=8332, title='Sunday Bloody Sunday (1971)', genres=[DRAMA]}
+Movie{movieId=8336, title='Major and the Minor The (1942)', genres=[COMEDY, ROMANCE]}
+Movie{movieId=8337, title='Caine Mutiny The (1954)', genres=[DRAMA, WAR]}
+Movie{movieId=8338, title='Black Narcissus (1947)', genres=[DRAMA]}
+Movie{movieId=8340, title='Escape from Alcatraz (1979)', genres=[DRAMA, THRILLER]}
+Movie{movieId=8341, title='Oliver Twist (1948)', genres=[ADVENTURE, CRIME, DRAMA]}
+Movie{movieId=8360, title='Shrek 2 (2004)', genres=[ADVENTURE, ANIMATION, CHILDREN, COMEDY, MUSICAL, ROMANCE]}
+Movie{movieId=8361, title='Day After Tomorrow The (2004)', genres=[ACTION, ADVENTURE, DRAMA, SCI_FI, THRILLER]}
+Movie{movieId=8362, title='Raising Helen (2004)', genres=[COMEDY, DRAMA, ROMANCE]}
+Movie{movieId=8363, title='Soul Plane (2004)', genres=[COMEDY]}
+Movie{movieId=8364, title='Baadasssss! (How to Get the Man's Foot Outta Your Ass) (2003)', genres=[DRAMA]}
+Movie{movieId=8366, title='Saved! (2004)', genres=[COMEDY, DRAMA]}
+Movie{movieId=8367, title='Time of the Wolf The (Le temps du loup) (2003)', genres=[DRAMA]}
+Movie{movieId=8368, title='Harry Potter and the Prisoner of Azkaban (2004)', genres=[ADVENTURE, FANTASY, IMAX]}
+Movie{movieId=8369, title='Mindhunters (2004)', genres=[ACTION, CRIME, HORROR, MYSTERY, THRILLER]}
+Movie{movieId=8370, title='Blind Swordsman: Zatoichi The (Zatôichi) (2003)', genres=[ACTION, COMEDY, CRIME, DRAMA]}
+Movie{movieId=8371, title='Chronicles of Riddick The (2004)', genres=[ACTION, SCI_FI, THRILLER]}
+Movie{movieId=8372, title='Garfield: The Movie (2004)', genres=[ANIMATION, CHILDREN, COMEDY]}
+Movie{movieId=8373, title='Stepford Wives The (2004)', genres=[COMEDY, FANTASY, THRILLER]}
+Movie{movieId=8376, title='Napoleon Dynamite (2004)', genres=[COMEDY]}
+Movie{movieId=8385, title='Lover Come Back (1961)', genres=[COMEDY, ROMANCE]}
+Movie{movieId=8387, title='Police Academy: Mission to Moscow (1994)', genres=[COMEDY, CRIME]}
+Movie{movieId=8388, title='Ring of Bright Water (1969)', genres=[COMEDY, DRAMA]}
+Movie{movieId=8392, title='Fool for Love (1985)', genres=[DRAMA]}
+Movie{movieId=8403, title='Helen of Troy (1956)', genres=[ACTION, ADVENTURE, DRAMA, ROMANCE, WAR]}
+Movie{movieId=8404, title='Hound of the Baskervilles The (1939)', genres=[CRIME, MYSTERY, THRILLER]}
+Movie{movieId=8410, title='Suddenly (1954)', genres=[CRIME, DRAMA, FILM_NOIR]}
+Movie{movieId=8420, title='Possessed (1947)', genres=[DRAMA, FILM_NOIR]}
+Movie{movieId=8422, title='Kings Row (1942)', genres=[DRAMA, ROMANCE]}
+Movie{movieId=8423, title='Kid Brother The (1927)', genres=[CHILDREN, COMEDY, ROMANCE]}
+Movie{movieId=8447, title='This Island Earth (1955)', genres=[SCI_FI]}
+Movie{movieId=8451, title='Blackboard Jungle (1955)', genres=[DRAMA]}
+Movie{movieId=8453, title='It Had to Be You (2000)', genres=[COMEDY, ROMANCE]}
+Movie{movieId=8459, title='Heiress The (1949)', genres=[DRAMA, ROMANCE]}
+Movie{movieId=8460, title='State Fair (1945)', genres=[MUSICAL, ROMANCE]}
+Movie{movieId=8462, title='Executive Suite (1954)', genres=[DRAMA]}
+Movie{movieId=8463, title='Johnny Belinda (1948)', genres=[DRAMA]}
+Movie{movieId=8464, title='Super Size Me (2004)', genres=[COMEDY, DOCUMENTARY, DRAMA]}
+Movie{movieId=8465, title='Johnny Eager (1942)', genres=[CRIME, DRAMA, FILM_NOIR, ROMANCE]}
+Movie{movieId=8477, title='Jetée La (1962)', genres=[ROMANCE, SCI_FI]}
+Movie{movieId=8482, title='Picture of Dorian Gray The (1945)', genres=[DRAMA, FANTASY, HORROR]}
+Movie{movieId=8484, title='Human Condition I The (Ningen no joken I) (1959)', genres=[DRAMA, WAR]}
+Movie{movieId=8485, title='Samsara (2001)', genres=[ADVENTURE, DRAMA, ROMANCE]}
+Movie{movieId=8487, title='Please Don't Eat the Daisies (1960)', genres=[CHILDREN, COMEDY, MUSICAL]}
+Movie{movieId=8491, title='White Heat (1949)', genres=[CRIME, DRAMA, FILM_NOIR]}
+Movie{movieId=8492, title='Christmas Carol A (Scrooge) (1951)', genres=[DRAMA, FANTASY]}
+Movie{movieId=8493, title='Memphis Belle (1990)', genres=[ACTION, DRAMA, WAR]}
+Movie{movieId=8494, title='Cincinnati Kid The (1965)', genres=[DRAMA]}
+Movie{movieId=8499, title='Pretty Baby (1978)', genres=[DRAMA]}
+Movie{movieId=8502, title='Show Boat (1951)', genres=[DRAMA, MUSICAL, ROMANCE]}
+Movie{movieId=8504, title='Box of Moon Light (1996)', genres=[COMEDY, DRAMA]}
+Movie{movieId=8507, title='Freaks (1932)', genres=[CRIME, DRAMA, HORROR]}
+Movie{movieId=8511, title='Immigrant The (1917)', genres=[COMEDY]}
+Movie{movieId=8522, title='My Little Chickadee (1940)', genres=[COMEDY, WESTERN]}
+Movie{movieId=8524, title='High and the Mighty The (1954)', genres=[DRAMA]}
+Movie{movieId=8525, title='Ugly Dachshund The (1966)', genres=[CHILDREN, COMEDY]}
+Movie{movieId=8526, title='Around the World in 80 Days (2004)', genres=[ADVENTURE, CHILDREN, COMEDY]}
+Movie{movieId=8527, title='I'll Sleep When I'm Dead (2003)', genres=[CRIME, DRAMA]}
+Movie{movieId=8528, title='Dodgeball: A True Underdog Story (2004)', genres=[COMEDY]}
+Movie{movieId=8529, title='Terminal The (2004)', genres=[COMEDY, DRAMA, ROMANCE]}
+Movie{movieId=8530, title='Dear Frankie (2004)', genres=[DRAMA, ROMANCE]}
+Movie{movieId=8531, title='White Chicks (2004)', genres=[ACTION, COMEDY, CRIME]}
+Movie{movieId=8533, title='Notebook The (2004)', genres=[DRAMA, ROMANCE]}
+Movie{movieId=8534, title='Two Brothers (Deux frères) (2004)', genres=[ADVENTURE, CHILDREN, DRAMA]}
+Movie{movieId=8535, title='De-Lovely (2004)', genres=[DRAMA, MUSICAL]}
+Movie{movieId=8537, title='Kaena: The Prophecy (Kaena: La prophétie) (2003)', genres=[ACTION, ADVENTURE, ANIMATION, CHILDREN, SCI_FI]}
+Movie{movieId=8542, title='Day at the Races A (1937)', genres=[COMEDY, MUSICAL]}
+Movie{movieId=8544, title='Now You See Him Now You Don't (1972)', genres=[COMEDY, SCI_FI]}
+Movie{movieId=8571, title='Bob & Carol & Ted & Alice (1969)', genres=[COMEDY, DRAMA]}
+Movie{movieId=8572, title='Littlest Rebel The (1935)', genres=[CHILDREN, DRAMA]}
+Movie{movieId=8574, title='Claymation Christmas Celebration A (1987)', genres=[ANIMATION, CHILDREN, COMEDY, MUSICAL]}
+Movie{movieId=8575, title='Happenstance (Battement d'ailes du papillon Le) (2001)', genres=[COMEDY, DRAMA]}
+Movie{movieId=8576, title='Kopps (2003)', genres=[ACTION, COMEDY]}
+Movie{movieId=8577, title='Comandante (2003)', genres=[DOCUMENTARY]}
+Movie{movieId=8580, title='Into the Woods (1991)', genres=[ADVENTURE, COMEDY, FANTASY, MUSICAL]}
+Movie{movieId=8581, title='Pirates of Silicon Valley (1999)', genres=[DOCUMENTARY, DRAMA]}
+Movie{movieId=8582, title='Manufacturing Consent: Noam Chomsky and the Media (1992)', genres=[DOCUMENTARY, WAR]}
+Movie{movieId=8583, title='Clock The (1945)', genres=[ADVENTURE, DRAMA, ROMANCE]}
+Movie{movieId=8584, title='Leave Her to Heaven (1945)', genres=[DRAMA, FILM_NOIR]}
+Movie{movieId=8589, title='Winter War (Talvisota) (1989)', genres=[DRAMA, WAR]}
+Movie{movieId=8591, title='Philadelphia Experiment The (1984)', genres=[ADVENTURE, DRAMA, SCI_FI]}
+Movie{movieId=8596, title='Revenge of the Pink Panther (1978)', genres=[COMEDY, CRIME]}
+Movie{movieId=8600, title='Angels with Dirty Faces (1938)', genres=[CRIME, DRAMA, FILM_NOIR, THRILLER]}
+Movie{movieId=8604, title='Taxi (1998)', genres=[ACTION, COMEDY]}
+Movie{movieId=8607, title='Tokyo Godfathers (2003)', genres=[ADVENTURE, ANIMATION, DRAMA]}
+Movie{movieId=8609, title='Our Hospitality (1923)', genres=[COMEDY]}
+Movie{movieId=8610, title='All of Me (1984)', genres=[COMEDY, FANTASY]}
+Movie{movieId=8611, title='Farmer's Daughter The (1947)', genres=[COMEDY]}
+Movie{movieId=8612, title='Lassie Come Home (1943)', genres=[ADVENTURE, CHILDREN, DRAMA]}
+Movie{movieId=8614, title='Overboard (1987)', genres=[COMEDY, ROMANCE]}
+Movie{movieId=8616, title='By the Light of the Silvery Moon (1953)', genres=[CHILDREN, MUSICAL, ROMANCE]}
+Movie{movieId=8617, title='Butterfield 8 (1960)', genres=[DRAMA]}
+Movie{movieId=8618, title='Johnny Guitar (1954)', genres=[DRAMA, WESTERN]}
+Movie{movieId=8620, title='Exterminating Angel', genres=[NON_GENRE_LISTED]}
+Movie{movieId=8622, title='Fahrenheit 9/11 (2004)', genres=[DOCUMENTARY]}
+Movie{movieId=8623, title='Roxanne (1987)', genres=[COMEDY, ROMANCE]}
+Movie{movieId=8625, title='Same River Twice The (2003)', genres=[DOCUMENTARY]}
+Movie{movieId=8629, title='Book of Life The (1998)', genres=[COMEDY, FANTASY]}
+Movie{movieId=8633, title='Last Starfighter The (1984)', genres=[ACTION, ADVENTURE, COMEDY, SCI_FI]}
+Movie{movieId=8636, title='Spider-Man 2 (2004)', genres=[ACTION, ADVENTURE, SCI_FI, IMAX]}
+Movie{movieId=8638, title='Before Sunset (2004)', genres=[DRAMA, ROMANCE]}
+Movie{movieId=8640, title='King Arthur (2004)', genres=[ACTION, ADVENTURE, DRAMA, WAR]}
+Movie{movieId=8641, title='Anchorman: The Legend of Ron Burgundy (2004)', genres=[COMEDY]}
+Movie{movieId=8642, title='Sleepover (2004)', genres=[COMEDY]}
+Movie{movieId=8643, title='Cinderella Story A (2004)', genres=[COMEDY, ROMANCE]}
+Movie{movieId=8644, title='I Robot (2004)', genres=[ACTION, ADVENTURE, SCI_FI, THRILLER]}
+Movie{movieId=8645, title='Maria Full of Grace (Maria Llena eres de gracia) (2004)', genres=[CRIME, DRAMA]}
+Movie{movieId=8650, title='Long Day's Journey Into Night (1962)', genres=[DRAMA]}
+Movie{movieId=8654, title='Prince Valiant (1954)', genres=[ADVENTURE]}
+Movie{movieId=8656, title='Short Film About Killing A (Krótki film o zabijaniu) (1988)', genres=[CRIME, DRAMA]}
+Movie{movieId=8657, title='Tin Star The (1957)', genres=[WESTERN]}
+Movie{movieId=8661, title='How the West Was Won (1962)', genres=[ADVENTURE, DRAMA, WESTERN]}
+Movie{movieId=8665, title='Bourne Supremacy The (2004)', genres=[ACTION, CRIME, THRILLER]}
+Movie{movieId=8666, title='Catwoman (2004)', genres=[ACTION, CRIME, FANTASY]}
+Movie{movieId=8667, title='A Home at the End of the World (2004)', genres=[DRAMA, ROMANCE]}
+Movie{movieId=8670, title='Testament of Dr. Mabuse The (Das Testament des Dr. Mabuse) (1933)', genres=[CRIME, HORROR, MYSTERY, THRILLER]}
+Movie{movieId=8672, title='Battle Hymn (1957)', genres=[DRAMA]}
+Movie{movieId=8675, title='Enemy Below The (1957)', genres=[ACTION, DRAMA, WAR]}
+Movie{movieId=8684, title='Man Escaped A (Un  condamné à mort s'est échappé ou Le vent souffle où il veut) (1956)', genres=[ADVENTURE, DRAMA]}
+Movie{movieId=8689, title='Shock to the System A (1990)', genres=[COMEDY, CRIME, THRILLER]}
+Movie{movieId=8690, title='Slaughterhouse-Five (1972)', genres=[COMEDY, DRAMA, SCI_FI, WAR]}
+Movie{movieId=8695, title='Bachelor and the Bobby-Soxer The (1947)', genres=[COMEDY]}
+Movie{movieId=8699, title='Dancing in September (2000)', genres=[DRAMA]}
+Movie{movieId=8700, title='Destination Tokyo (1943)', genres=[ADVENTURE, WAR]}
+Movie{movieId=8709, title='How I Got Into College (1989)', genres=[COMEDY, ROMANCE]}
+Movie{movieId=8711, title='Mr. Blandings Builds His Dream House (1948)', genres=[COMEDY]}
+Movie{movieId=8712, title='My Favorite Wife (1940)', genres=[COMEDY, ROMANCE]}
+Movie{movieId=8713, title='New Adventures of Pippi Longstocking The (1988)', genres=[ADVENTURE, CHILDREN, FANTASY, MUSICAL]}
+Movie{movieId=8718, title='Snake Pit The (1948)', genres=[DRAMA]}
+Movie{movieId=8720, title='Super The (1991)', genres=[COMEDY]}
+Movie{movieId=8722, title='Two of a Kind (1983)', genres=[COMEDY, FANTASY, ROMANCE]}
+Movie{movieId=8724, title='Leopard', genres=[NON_GENRE_LISTED]}
+Movie{movieId=8725, title='Goodbye Columbus (1969)', genres=[COMEDY, DRAMA, ROMANCE]}
+Movie{movieId=8727, title='Day of the Locust The (1975)', genres=[DRAMA]}
+Movie{movieId=8730, title='To End All Wars (2001)', genres=[ACTION, DRAMA, WAR]}
+Movie{movieId=8743, title='Biggles (1986)', genres=[ADVENTURE, FANTASY, SCI_FI]}
+Movie{movieId=8745, title='World of Suzie Wong The (1960)', genres=[DRAMA, ROMANCE]}
+Movie{movieId=8751, title='Gun Crazy (a.k.a. Deadly Is the Female) (1949)', genres=[CRIME, DRAMA, FILM_NOIR]}
+Movie{movieId=8752, title='Set-Up The (1949)', genres=[DRAMA, FILM_NOIR, ROMANCE]}
+Movie{movieId=8753, title='Unprecedented: The 2000 Presidential Election (2002)', genres=[DOCUMENTARY]}
+Movie{movieId=8754, title='Prime of Miss Jean Brodie The (1969)', genres=[DRAMA]}
+Movie{movieId=8761, title='Three Lives of Thomasina The (1964)', genres=[CHILDREN, DRAMA]}
+Movie{movieId=8763, title='One and Only', genres=[NON_GENRE_LISTED]}
+Movie{movieId=8765, title='This Gun for Hire (1942)', genres=[CRIME, FILM_NOIR, THRILLER]}
+Movie{movieId=8766, title='Black Angel (1946)', genres=[DRAMA, FILM_NOIR, MYSTERY]}
+Movie{movieId=8767, title='Big Clock The (1948)', genres=[CRIME, FILM_NOIR, THRILLER]}
+Movie{movieId=8768, title='Criss Cross (1949)', genres=[CRIME, DRAMA, FILM_NOIR]}
+Movie{movieId=8772, title='Spy Who Came in from the Cold The (1965)', genres=[DRAMA, THRILLER]}
+Movie{movieId=8777, title='Roadkill (a.k.a. Roadkill: Move or Die) (1989)', genres=[DRAMA]}
+Movie{movieId=8779, title='Bon Voyage (2003)', genres=[COMEDY, DRAMA]}
+Movie{movieId=8781, title='Manchurian Candidate The (2004)', genres=[THRILLER]}
+Movie{movieId=8783, title='Village The (2004)', genres=[DRAMA, MYSTERY, THRILLER]}
+Movie{movieId=8784, title='Garden State (2004)', genres=[COMEDY, DRAMA, ROMANCE]}
+Movie{movieId=8785, title='Early Summer (Bakushû) (1951)', genres=[DRAMA]}
+Movie{movieId=8790, title='Revengers Tragedy (2002)', genres=[COMEDY, HORROR]}
+Movie{movieId=8795, title='Musa the Warrior (Musa) (2001)', genres=[ACTION, ADVENTURE, DRAMA, WAR]}
+Movie{movieId=8796, title='Funny Thing Happened on the Way to the Forum A (1966)', genres=[COMEDY, MUSICAL]}
+Movie{movieId=8797, title='Salesman (1969)', genres=[DOCUMENTARY]}
+Movie{movieId=8798, title='Collateral (2004)', genres=[ACTION, CRIME, DRAMA, THRILLER]}
+Movie{movieId=8799, title='Little Black Book (2004)', genres=[COMEDY, ROMANCE]}
+Movie{movieId=8800, title='Code 46 (2003)', genres=[ROMANCE, SCI_FI]}
+Movie{movieId=8807, title='Harold and Kumar Go to White Castle (2004)', genres=[ADVENTURE, COMEDY]}
+Movie{movieId=8808, title='Princess Diaries 2: Royal Engagement The (2004)', genres=[COMEDY, ROMANCE]}
+Movie{movieId=8810, title='AVP: Alien vs. Predator (2004)', genres=[ACTION, HORROR, SCI_FI, THRILLER]}
+Movie{movieId=8811, title='Yu-Gi-Oh! (2004)', genres=[ACTION, ADVENTURE, ANIMATION, FANTASY]}
+Movie{movieId=8813, title='We Don't Live Here Anymore (2004)', genres=[DRAMA]}
+Movie{movieId=8814, title='Without a Paddle (2004)', genres=[COMEDY]}
+Movie{movieId=8819, title='Double Trouble (1967)', genres=[MUSICAL]}
+Movie{movieId=8820, title='Spinout (1966)', genres=[COMEDY, MUSICAL]}
+Movie{movieId=8821, title='Harum Scarum (1965)', genres=[COMEDY, MUSICAL]}
+Movie{movieId=8823, title='Sting II The (1983)', genres=[COMEDY, CRIME]}
+Movie{movieId=8827, title='Bill Cosby Himself (1983)', genres=[COMEDY, DOCUMENTARY]}
+Movie{movieId=8828, title='Dead Ringer (1964)', genres=[DRAMA, THRILLER]}
+Movie{movieId=8830, title='Anacondas: The Hunt for the Blood Orchid (2004)', genres=[ADVENTURE, DRAMA, HORROR, SCI_FI, THRILLER]}
+Movie{movieId=8831, title='Suspect Zero (2004)', genres=[CRIME, THRILLER]}
+Movie{movieId=8832, title='Warriors of Heaven and Earth (Tian di ying xiong) (2003)', genres=[ACTION, ADVENTURE, DRAMA]}
+Movie{movieId=8833, title='Vanity Fair (2004)', genres=[DRAMA, ROMANCE]}
+Movie{movieId=8835, title='Paparazzi (2004)', genres=[DRAMA, THRILLER]}
+Movie{movieId=8836, title='Wicker Park (2004)', genres=[DRAMA, ROMANCE, THRILLER]}
+Movie{movieId=8838, title='Alice Doesn't Live Here Anymore (1974)', genres=[DRAMA, ROMANCE]}
+Movie{movieId=8839, title='Mangler The (1995)', genres=[HORROR]}
+Movie{movieId=8840, title='Who's That Knocking at My Door? (1967)', genres=[DRAMA]}
+Movie{movieId=8848, title='Vitelloni I (a.k.a. The Young and the Passionate) (1953)', genres=[DRAMA]}
+Movie{movieId=8850, title='Flipper (1963)', genres=[ADVENTURE, CHILDREN, DRAMA]}
+Movie{movieId=8851, title='Smile (1975)', genres=[COMEDY]}
+Movie{movieId=8853, title='Small Circle of Friends A (1980)', genres=[DRAMA]}
+Movie{movieId=8854, title='Night of the Demons (1988)', genres=[HORROR]}
+Movie{movieId=8857, title='Lilith (1964)', genres=[DRAMA]}
+Movie{movieId=8859, title='SuperBabies: Baby Geniuses 2 (2004)', genres=[COMEDY]}
+Movie{movieId=8860, title='Cellular (2004)', genres=[ACTION, CRIME, DRAMA, MYSTERY, THRILLER]}
+Movie{movieId=8861, title='Resident Evil: Apocalypse (2004)', genres=[ACTION, HORROR, SCI_FI, THRILLER]}
+Movie{movieId=8864, title='Mr. 3000 (2004)', genres=[COMEDY, DRAMA]}
+Movie{movieId=8865, title='Sky Captain and the World of Tomorrow (2004)', genres=[ACTION, ADVENTURE, SCI_FI]}
+Movie{movieId=8866, title='Wimbledon (2004)', genres=[COMEDY, ROMANCE]}
+Movie{movieId=8870, title='Forgotten The (2004)', genres=[DRAMA, MYSTERY, SCI_FI, THRILLER]}
+Movie{movieId=8871, title='Last Shot The (2004)', genres=[COMEDY]}
+Movie{movieId=8872, title='Dirty Shame A (2004)', genres=[COMEDY]}
+Movie{movieId=8873, title='Motorcycle Diaries The (Diarios de motocicleta) (2004)', genres=[ADVENTURE, DRAMA]}
+Movie{movieId=8874, title='Shaun of the Dead (2004)', genres=[COMEDY, HORROR]}
+Movie{movieId=8879, title='Murder on the Orient Express (1974)', genres=[CRIME, MYSTERY, THRILLER]}
+Movie{movieId=8880, title='Mask (1985)', genres=[DRAMA]}
+Movie{movieId=8882, title='Boston Strangler The (1968)', genres=[CRIME, DRAMA, MYSTERY, THRILLER]}
+Movie{movieId=8884, title='Man with One Red Shoe The (1985)', genres=[COMEDY, THRILLER]}
+Movie{movieId=8892, title='Basket Case 3: The Progeny (1992)', genres=[COMEDY, HORROR]}
+Movie{movieId=8893, title='Basket Case 2 (1990)', genres=[COMEDY, HORROR]}
+Movie{movieId=8899, title='Hardcore (1979)', genres=[DRAMA]}
+Movie{movieId=8903, title='Terror The (1963)', genres=[HORROR, MYSTERY]}
+Movie{movieId=8906, title='Cannibal Holocaust (1980)', genres=[HORROR]}
+Movie{movieId=8907, title='Shark Tale (2004)', genres=[ANIMATION, CHILDREN, COMEDY]}
+Movie{movieId=8908, title='Ladder 49 (2004)', genres=[ACTION, DRAMA, THRILLER]}
+Movie{movieId=8910, title='I Heart Huckabees (2004)', genres=[COMEDY]}
+Movie{movieId=8911, title='Raise Your Voice (2004)', genres=[ROMANCE]}
+Movie{movieId=8914, title='Primer (2004)', genres=[DRAMA, SCI_FI]}
+Movie{movieId=8915, title='Stage Beauty (2004)', genres=[DRAMA]}
+Movie{movieId=8916, title='Shall We Dance? (2004)', genres=[COMEDY, ROMANCE]}
+Movie{movieId=8917, title='Team America: World Police (2004)', genres=[ACTION, ADVENTURE, ANIMATION, COMEDY]}
+Movie{movieId=8918, title='Eulogy (2004)', genres=[COMEDY, CRIME, DRAMA]}
+Movie{movieId=8920, title='Country Girl The (1954)', genres=[DRAMA]}
+Movie{movieId=8921, title='Rose Tattoo The (1955)', genres=[DRAMA, ROMANCE]}
+Movie{movieId=8923, title='Tess (1979)', genres=[DRAMA, ROMANCE]}
+Movie{movieId=8927, title='Cannonball (1976)', genres=[ACTION, COMEDY, DRAMA]}
+Movie{movieId=8928, title='Fearless Vampire Killers The (1967)', genres=[COMEDY, HORROR]}
+Movie{movieId=8929, title='Black Beauty (1971)', genres=[CHILDREN, DRAMA]}
+Movie{movieId=8930, title='Five Obstructions', genres=[NON_GENRE_LISTED]}
+Movie{movieId=8931, title='Born Rich (2003)', genres=[DOCUMENTARY]}
+Movie{movieId=8933, title='Decline of the American Empire', genres=[NON_GENRE_LISTED]}
+Movie{movieId=8935, title='All I Want for Christmas (1991)', genres=[CHILDREN, COMEDY, ROMANCE]}
+Movie{movieId=8937, title='Friday Night Lights (2004)', genres=[ACTION, DRAMA]}
+Movie{movieId=8938, title='Tarnation (2003)', genres=[DOCUMENTARY]}
+Movie{movieId=8943, title='Being Julia (2004)', genres=[COMEDY, DRAMA]}
+Movie{movieId=8946, title='Surviving Christmas (2004)', genres=[COMEDY]}
+Movie{movieId=8947, title='Grudge The (2004)', genres=[HORROR, MYSTERY, THRILLER]}
+Movie{movieId=8948, title='Alfie (2004)', genres=[COMEDY, DRAMA, ROMANCE]}
+Movie{movieId=8949, title='Sideways (2004)', genres=[COMEDY, DRAMA, ROMANCE]}
+Movie{movieId=8950, title='The Machinist (2004)', genres=[DRAMA, MYSTERY, THRILLER]}
+Movie{movieId=8951, title='Vera Drake (2004)', genres=[DRAMA]}
+Movie{movieId=8954, title='Lightning in a Bottle (2004)', genres=[DOCUMENTARY]}
+Movie{movieId=8955, title='Undertow (2004)', genres=[CRIME, DRAMA, THRILLER]}
+Movie{movieId=8957, title='Saw (2004)', genres=[HORROR, MYSTERY, THRILLER]}
+Movie{movieId=8958, title='Ray (2004)', genres=[DRAMA]}
+Movie{movieId=8961, title='Incredibles The (2004)', genres=[ACTION, ADVENTURE, ANIMATION, CHILDREN, COMEDY]}
+Movie{movieId=8963, title='It's All About Love (2003)', genres=[DRAMA, ROMANCE, SCI_FI, THRILLER]}
+Movie{movieId=8964, title='Callas Forever (2002)', genres=[DRAMA]}
+Movie{movieId=8965, title='Polar Express The (2004)', genres=[ADVENTURE, ANIMATION, CHILDREN, FANTASY, IMAX]}
+Movie{movieId=8966, title='Kinsey (2004)', genres=[DRAMA]}
+Movie{movieId=8968, title='After the Sunset (2004)', genres=[ACTION, ADVENTURE, COMEDY, CRIME, THRILLER]}
+Movie{movieId=8969, title='Bridget Jones: The Edge of Reason (2004)', genres=[COMEDY, DRAMA, ROMANCE]}
+Movie{movieId=8970, title='Finding Neverland (2004)', genres=[DRAMA]}
+Movie{movieId=8972, title='National Treasure (2004)', genres=[ACTION, ADVENTURE, DRAMA, MYSTERY, THRILLER]}
+Movie{movieId=8973, title='Bad Education (La mala educación) (2004)', genres=[DRAMA, THRILLER]}
+Movie{movieId=8974, title='SpongeBob SquarePants Movie The (2004)', genres=[ADVENTURE, ANIMATION, CHILDREN, COMEDY]}
+Movie{movieId=8977, title='Alexander (2004)', genres=[ACTION, ADVENTURE, DRAMA, WAR]}
+Movie{movieId=8979, title='Guerrilla: The Taking of Patty Hearst (2004)', genres=[DOCUMENTARY]}
+Movie{movieId=8981, title='Closer (2004)', genres=[DRAMA, ROMANCE]}
+Movie{movieId=8982, title='I Am David (2003)', genres=[DRAMA]}
+Movie{movieId=8983, title='House of Flying Daggers (Shi mian mai fu) (2004)', genres=[ACTION, DRAMA, ROMANCE]}
+Movie{movieId=8984, title='Ocean's Twelve (2004)', genres=[ACTION, COMEDY, CRIME, THRILLER]}
+Movie{movieId=8985, title='Blade: Trinity (2004)', genres=[ACTION, FANTASY, HORROR, THRILLER]}
+Movie{movieId=8986, title='Bellboy The (1960)', genres=[COMEDY]}
+Movie{movieId=8987, title='Bush's Brain (2004)', genres=[DOCUMENTARY]}
+Movie{movieId=8988, title='Cinderfella (1960)', genres=[COMEDY]}
+Movie{movieId=8989, title='Damn Yankees! (1958)', genres=[COMEDY, MUSICAL]}
+Movie{movieId=8998, title='That's Entertainment (1974)', genres=[DOCUMENTARY]}
+Movie{movieId=8999, title='That's Entertainment Part II (1976)', genres=[DOCUMENTARY]}
+Movie{movieId=9000, title='That's Entertainment! III (1994)', genres=[DOCUMENTARY]}
+Movie{movieId=9001, title='Wackiest Ship in the Army The (1960)', genres=[COMEDY, WAR]}
+Movie{movieId=9004, title='D.A.R.Y.L. (1985)', genres=[ADVENTURE, CHILDREN, SCI_FI]}
+Movie{movieId=9005, title='Fire in the Sky (1993)', genres=[DRAMA, MYSTERY, SCI_FI]}
+Movie{movieId=9010, title='Love Me If You Dare (Jeux d'enfants) (2003)', genres=[DRAMA, ROMANCE]}
+Movie{movieId=9012, title='Ruby Gentry (1952)', genres=[DRAMA]}
+Movie{movieId=9018, title='Control Room (2004)', genres=[DOCUMENTARY, WAR]}
+Movie{movieId=25737, title='Golem', genres=[NON_GENRE_LISTED]}
+Movie{movieId=25744, title='Haxan: Witchcraft Through the Ages (a.k.a. The Witches) (1922)', genres=[DOCUMENTARY, HORROR]}
+Movie{movieId=25750, title='Sherlock Jr. (1924)', genres=[COMEDY, FANTASY, ROMANCE]}
+Movie{movieId=25752, title='Freshman The (1925)', genres=[COMEDY]}
+Movie{movieId=25753, title='Greed (1924)', genres=[DRAMA]}
+Movie{movieId=25755, title='Phantom of the Opera The (1925)', genres=[DRAMA, HORROR]}
+Movie{movieId=25763, title='Pandora's Box (Büchse der Pandora Die) (1929)', genres=[DRAMA]}
+Movie{movieId=25764, title='Cameraman The (1928)', genres=[COMEDY, DRAMA, ROMANCE]}
+Movie{movieId=25769, title='Steamboat Bill Jr. (1928)', genres=[COMEDY, ROMANCE]}
+Movie{movieId=25771, title='Andalusian Dog', genres=[NON_GENRE_LISTED]}
+Movie{movieId=25773, title='Little Caesar (1931)', genres=[CRIME, DRAMA]}
+Movie{movieId=25774, title='Golden Age', genres=[NON_GENRE_LISTED]}
+Movie{movieId=25777, title='Monkey Business (1931)', genres=[COMEDY]}
+Movie{movieId=25788, title='Scarface (1932)', genres=[CRIME, DRAMA]}
+Movie{movieId=25792, title='I Was Born But... (a.k.a. Children of Tokyo) (Otona no miru ehon - Umarete wa mita keredo) (1932)', genres=[COMEDY, DRAMA]}
+Movie{movieId=25795, title='Dinner at Eight (1933)', genres=[COMEDY, DRAMA, ROMANCE]}
+Movie{movieId=25801, title='She Done Him Wrong (1933)', genres=[COMEDY, ROMANCE]}
+Movie{movieId=25805, title='Atalante L' (1934)', genres=[COMEDY, DRAMA, ROMANCE]}
+Movie{movieId=25807, title='Black Cat The (1934)', genres=[ADVENTURE, CRIME, HORROR, THRILLER]}
+Movie{movieId=25825, title='Fury (1936)', genres=[DRAMA, FILM_NOIR]}
+Movie{movieId=25826, title='Libeled Lady (1936)', genres=[COMEDY, ROMANCE]}
+Movie{movieId=25827, title='Mr. Deeds Goes to Town (1936)', genres=[COMEDY, ROMANCE]}
+Movie{movieId=25828, title='Petrified Forest The (1936)', genres=[CRIME, DRAMA, ROMANCE]}
+Movie{movieId=25839, title='Nothing Sacred (1937)', genres=[COMEDY, DRAMA, ROMANCE]}
+Movie{movieId=25841, title='Stage Door (1937)', genres=[DRAMA]}
+Movie{movieId=25842, title='Topper (1937)', genres=[COMEDY, FANTASY, ROMANCE]}
+Movie{movieId=25850, title='Holiday (1938)', genres=[COMEDY, DRAMA, ROMANCE]}
+Movie{movieId=25852, title='Gaslight (1940)', genres=[MYSTERY, THRILLER]}
+Movie{movieId=25856, title='Wuthering Heights (1939)', genres=[DRAMA, ROMANCE]}
+Movie{movieId=25865, title='Letter The (1940)', genres=[DRAMA, FILM_NOIR]}
+Movie{movieId=25868, title='Ball of Fire (1941)', genres=[COMEDY, ROMANCE]}
+Movie{movieId=25874, title='Never Give a Sucker an Even Break (1941)', genres=[COMEDY, MUSICAL]}
+Movie{movieId=25882, title='Hard Way The (1943)', genres=[DRAMA]}
+Movie{movieId=25886, title='Random Harvest (1942)', genres=[DRAMA, ROMANCE]}
+Movie{movieId=25891, title='Heaven Can Wait (1943)', genres=[COMEDY, FANTASY, ROMANCE]}
+Movie{movieId=25898, title='Day of Wrath (Vredens dag) (1943)', genres=[DRAMA]}
+Movie{movieId=25900, title='Curse of the Cat People The (1944)', genres=[DRAMA]}
+Movie{movieId=25901, title='Henry V (Chronicle History of King Henry the Fift with His Battell Fought at Agincourt in France The) (1944)', genres=[DRAMA, WAR]}
+Movie{movieId=25904, title='Ministry of Fear (1944)', genres=[DRAMA, FILM_NOIR, THRILLER]}
+Movie{movieId=25906, title='Mr. Skeffington (1944)', genres=[DRAMA, ROMANCE]}
+Movie{movieId=25911, title='Woman in the Window The (1944)', genres=[CRIME, FILM_NOIR, THRILLER]}
+Movie{movieId=25916, title='They Were Expendable (1945)', genres=[DRAMA, WAR]}
+Movie{movieId=25920, title='Blue Dahlia The (1946)', genres=[CRIME, DRAMA, FILM_NOIR, MYSTERY, THRILLER]}
+Movie{movieId=25927, title='Stranger The (1946)', genres=[DRAMA, FILM_NOIR, THRILLER]}
+Movie{movieId=25929, title='Nightmare Alley (1947)', genres=[DRAMA, FILM_NOIR]}
+Movie{movieId=25930, title='Odd Man Out (1947)', genres=[CRIME, DRAMA, FILM_NOIR, THRILLER]}
+Movie{movieId=25937, title='Easter Parade (1948)', genres=[MUSICAL, ROMANCE]}
+Movie{movieId=25940, title='Lady from Shanghai The (1947)', genres=[DRAMA, FILM_NOIR, MYSTERY]}
+Movie{movieId=25941, title='Letter from an Unknown Woman (1948)', genres=[DRAMA, ROMANCE]}
+Movie{movieId=25945, title='They Live by Night (1949)', genres=[CRIME, FILM_NOIR, ROMANCE]}
+Movie{movieId=25947, title='Unfaithfully Yours (1948)', genres=[COMEDY]}
+Movie{movieId=25952, title='Letter to Three Wives A (1949)', genres=[COMEDY, DRAMA]}
+Movie{movieId=25962, title='King Solomon's Mines (1950)', genres=[ACTION, ADVENTURE, ROMANCE]}
+Movie{movieId=25965, title='Summer Stock (1950)', genres=[COMEDY, MUSICAL, ROMANCE]}
+Movie{movieId=25971, title='Carrie (1952)', genres=[DRAMA, ROMANCE]}
+Movie{movieId=25972, title='Clash by Night (1952)', genres=[DRAMA, FILM_NOIR]}
+Movie{movieId=25993, title='Magnificent Obsession (1954)', genres=[DRAMA, ROMANCE]}
+Movie{movieId=25995, title='Samurai I: Musashi Miyamoto (Miyamoto Musashi) (1954)', genres=[ACTION, ADVENTURE, DRAMA]}
+Movie{movieId=25996, title='Star Is Born A (1954)', genres=[DRAMA, MUSICAL]}
+Movie{movieId=25999, title='The Wild One (1953)', genres=[DRAMA]}
+Movie{movieId=26003, title='Night and Fog (Nuit et brouillard) (1955)', genres=[CRIME, DOCUMENTARY, WAR]}
+Movie{movieId=26005, title='Samurai II: Duel at Ichijoji Temple (Zoku Miyamoto Musashi: Ichijôji no kettô) (1955)', genres=[ACTION, ADVENTURE, DRAMA]}
+Movie{movieId=26007, title='Unknown Soldier The (Tuntematon sotilas) (1955)', genres=[DRAMA, WAR]}
+Movie{movieId=26009, title='Burmese Harp The (Biruma no tategoto) (1956)', genres=[DRAMA, WAR]}
+Movie{movieId=26010, title='Carousel (1956)', genres=[MUSICAL, ROMANCE]}
+Movie{movieId=26012, title='Samurai III: Duel on Ganryu Island (a.k.a. Bushido) (Miyamoto Musashi kanketsuhen: kettô Ganryûjima) (1956)', genres=[ACTION, ADVENTURE, DRAMA]}
+Movie{movieId=26013, title='Rodan (Sora no daikaijû Radon) (1956)', genres=[ADVENTURE]}
+Movie{movieId=26025, title='Spirit of St. Louis The (1957)', genres=[ADVENTURE, DRAMA]}
+Movie{movieId=26052, title='Pickpocket (1959)', genres=[CRIME, DRAMA]}
+Movie{movieId=26079, title='David and Lisa (1962)', genres=[DRAMA]}
+Movie{movieId=26082, title='Harakiri (Seppuku) (1962)', genres=[DRAMA]}
+Movie{movieId=26084, title='Music Man The (1962)', genres=[CHILDREN, COMEDY, MUSICAL, ROMANCE]}
+Movie{movieId=26085, title='Mutiny on the Bounty (1962)', genres=[ADVENTURE, DRAMA, ROMANCE]}
+Movie{movieId=26086, title='Occurrence at Owl Creek Bridge An (La rivière du hibou) (1962)', genres=[DRAMA, WAR]}
+Movie{movieId=26093, title='Wonderful World of the Brothers Grimm The (1962)', genres=[ADVENTURE, ANIMATION, CHILDREN, COMEDY, DRAMA, FANTASY, MUSICAL, ROMANCE]}
+Movie{movieId=26094, title='Eclisse L' (Eclipse) (1962)', genres=[DRAMA]}
+Movie{movieId=26111, title='Becket (1964)', genres=[DRAMA]}
+Movie{movieId=26116, title='Hush... Hush Sweet Charlotte (1964)', genres=[HORROR, THRILLER]}
+Movie{movieId=26117, title='Killers The (1964)', genres=[ACTION, CRIME, DRAMA, FILM_NOIR, THRILLER]}
+Movie{movieId=26122, title='Onibaba (1964)', genres=[DRAMA, HORROR, WAR]}
+Movie{movieId=26125, title='Spider Baby or The Maddest Story Ever Told (Spider Baby) (1968)', genres=[COMEDY, HORROR]}
+Movie{movieId=26131, title='Battle of Algiers The (La battaglia di Algeri) (1966)', genres=[DRAMA, WAR]}
+Movie{movieId=26133, title='Charlie Brown Christmas A (1965)', genres=[ANIMATION, CHILDREN, COMEDY]}
+Movie{movieId=26147, title='Thousand Clowns A (1965)', genres=[COMEDY, DRAMA, ROMANCE]}
+Movie{movieId=26150, title='Andrei Rublev (Andrey Rublyov) (1969)', genres=[DRAMA, WAR]}
+Movie{movieId=26151, title='Au Hasard Balthazar (1966)', genres=[CRIME, DRAMA]}
+Movie{movieId=26152, title='Batman (1966)', genres=[ACTION, ADVENTURE, COMEDY]}
+Movie{movieId=26157, title='Manos: The Hands of Fate (1966)', genres=[HORROR]}
+Movie{movieId=26160, title='Asterix and the Gauls (Astérix le Gaulois) (1967)', genres=[ACTION, ADVENTURE, ANIMATION, CHILDREN, COMEDY]}
+Movie{movieId=26163, title='Don't Look Back (1967)', genres=[DOCUMENTARY, MUSICAL]}
+Movie{movieId=26164, title='Fando and Lis (Fando y Lis) (1968)', genres=[ADVENTURE, FANTASY]}
+Movie{movieId=26171, title='Play Time (a.k.a. Playtime) (1967)', genres=[COMEDY]}
+Movie{movieId=26172, title='Point Blank (1967)', genres=[ACTION, CRIME, DRAMA, THRILLER]}
+Movie{movieId=26176, title='Titicut Follies (1967)', genres=[DOCUMENTARY, DRAMA]}
+Movie{movieId=26178, title='Two for the Road (1967)', genres=[COMEDY, DRAMA, ROMANCE]}
+Movie{movieId=26180, title='Up the Down Staircase (1967)', genres=[DRAMA]}
+Movie{movieId=26188, title='Heart Is a Lonely Hunter The (1968)', genres=[DRAMA]}
+Movie{movieId=26198, title='Yours Mine and Ours (1968)', genres=[CHILDREN, COMEDY]}
+Movie{movieId=26199, title='Alice's Restaurant (1969)', genres=[COMEDY, DRAMA]}
+Movie{movieId=26208, title='My Night At Maud's (Ma Nuit Chez Maud) (1969)', genres=[COMEDY, DRAMA, ROMANCE]}
+Movie{movieId=26228, title='Swedish Love Story', genres=[NON_GENRE_LISTED]}
+Movie{movieId=26229, title='Landlord The (1970)', genres=[COMEDY, DRAMA]}
+Movie{movieId=26231, title='Performance (1970)', genres=[CRIME, DRAMA, THRILLER]}
+Movie{movieId=26241, title='The Devils (1971)', genres=[DRAMA]}
+Movie{movieId=26242, title='Duel (1971)', genres=[ACTION, MYSTERY, THRILLER]}
+Movie{movieId=26251, title='Mon Oncle Antoine (1971)', genres=[DRAMA]}
+Movie{movieId=26258, title='Topo El (1970)', genres=[FANTASY, WESTERN]}
+Movie{movieId=26265, title='Dr. Phibes Rises Again (1972)', genres=[ADVENTURE, COMEDY, HORROR, ROMANCE]}
+Movie{movieId=26268, title='The Tall Blond Man with One Black Shoe (1972)', genres=[COMEDY, MYSTERY]}
+Movie{movieId=26271, title='Lady Sings the Blues (1972)', genres=[DRAMA, MUSICAL]}
+Movie{movieId=26294, title='My Name Is Nobody (Il Mio nome è Nessuno) (1973)', genres=[COMEDY, WESTERN]}
+Movie{movieId=26302, title='Scarecrow (1973)', genres=[DRAMA]}
+Movie{movieId=26303, title='Sisters (1973)', genres=[HORROR, THRILLER]}
+Movie{movieId=26313, title='California Split (1974)', genres=[COMEDY, DRAMA]}
+Movie{movieId=26317, title='Emmanuelle (1974)', genres=[DRAMA, ROMANCE]}
+Movie{movieId=26318, title='Phantom of Liberty', genres=[NON_GENRE_LISTED]}
+Movie{movieId=26320, title='Flesh for Frankenstein (a.k.a. Andy Warhol's Frankenstein) (1973)', genres=[DRAMA, HORROR, SCI_FI]}
+Movie{movieId=26322, title='Gone in 60 Seconds (1974)', genres=[ACTION, CRIME, DRAMA]}
+Movie{movieId=26323, title='Groove Tube The (1974)', genres=[COMEDY]}
+Movie{movieId=26324, title='Harry and Tonto (1974)', genres=[COMEDY, DRAMA]}
+Movie{movieId=26325, title='Hearts and Minds (1974)', genres=[DOCUMENTARY, WAR]}
+Movie{movieId=26326, title='Holy Mountain', genres=[NON_GENRE_LISTED]}
+Movie{movieId=26338, title='Cousin cousine (1975)', genres=[COMEDY, ROMANCE]}
+Movie{movieId=26342, title='Farewell My Lovely (1975)', genres=[CRIME, MYSTERY, THRILLER]}
+Movie{movieId=26346, title='Story of Adele H.', genres=[NON_GENRE_LISTED]}
+Movie{movieId=26349, title='Night Moves (1975)', genres=[CRIME, THRILLER]}
+Movie{movieId=26350, title='Passenger The (Professione: reporter) (1975)', genres=[DRAMA]}
+Movie{movieId=26366, title='Harlan County U.S.A. (1976)', genres=[DOCUMENTARY]}
+Movie{movieId=26371, title='The Missouri Breaks (1976)', genres=[DRAMA, WESTERN]}
+Movie{movieId=26375, title='Silver Streak (1976)', genres=[ACTION, COMEDY, CRIME]}
+Movie{movieId=26386, title='High Anxiety (1977)', genres=[COMEDY, THRILLER]}
+Movie{movieId=26391, title='New York New York (1977)', genres=[DRAMA, MUSICAL, ROMANCE]}
+Movie{movieId=26393, title='Sorcerer (1977)', genres=[ACTION, THRILLER]}
+Movie{movieId=26394, title='Turning Point The (1977)', genres=[DRAMA, ROMANCE]}
+Movie{movieId=26400, title='Gates of Heaven (1978)', genres=[DOCUMENTARY]}
+Movie{movieId=26403, title='Hobbit The (1977)', genres=[ANIMATION, CHILDREN, FANTASY]}
+Movie{movieId=26404, title='In Praise of Older Women (1978)', genres=[DRAMA]}
+Movie{movieId=26409, title='Clonus Horror The (1979)', genres=[HORROR, SCI_FI]}
+Movie{movieId=26413, title='Snake in the Eagle's Shadow (Se ying diu sau) (1978)', genres=[ACTION, COMEDY]}
+Movie{movieId=26414, title='Wedding A (1978)', genres=[COMEDY, DRAMA]}
+Movie{movieId=26422, title='Hair (1979)', genres=[COMEDY, DRAMA, MUSICAL]}
+Movie{movieId=26425, title='In-Laws The (1979)', genres=[ACTION, COMEDY]}
+Movie{movieId=26430, title='Luna La (1979)', genres=[DRAMA]}
+Movie{movieId=26435, title='Starting Over (1979)', genres=[COMEDY, ROMANCE]}
+Movie{movieId=26462, title='Bad Boys (1983)', genres=[CRIME, DRAMA, THRILLER]}
+Movie{movieId=26464, title='Blue Thunder (1983)', genres=[ACTION, CRIME, DRAMA]}
+Movie{movieId=26467, title='Day After The (1983)', genres=[DRAMA, SCI_FI]}
+Movie{movieId=26471, title='Eddie Murphy Delirious (1983)', genres=[COMEDY, DOCUMENTARY]}
+Movie{movieId=26472, title='Norte El (1984)', genres=[ADVENTURE, DRAMA]}
+Movie{movieId=26480, title='Raiders of Atlantis The (1983)', genres=[ACTION, MYSTERY, SCI_FI]}
+Movie{movieId=26485, title='Rumble Fish (1983)', genres=[DRAMA]}
+Movie{movieId=26487, title='Star 80 (1983)', genres=[DRAMA]}
+Movie{movieId=26492, title='Twilight Zone: The Movie (1983)', genres=[FANTASY, HORROR, SCI_FI, THRILLER]}
+Movie{movieId=26494, title='Suburbia (1984)', genres=[DRAMA]}
+Movie{movieId=26501, title='Choose Me (1984)', genres=[COMEDY, ROMANCE]}
+Movie{movieId=26505, title='Comfort and Joy (1984)', genres=[COMEDY]}
+Movie{movieId=26509, title='Electric Dreams (1984)', genres=[COMEDY, DRAMA, ROMANCE, SCI_FI]}
+Movie{movieId=26513, title='Ice Pirates The (1984)', genres=[ACTION, ADVENTURE, COMEDY, SCI_FI]}
+Movie{movieId=26524, title='Times of Harvey Milk The (1984)', genres=[DOCUMENTARY]}
+Movie{movieId=26528, title='Anne of Green Gables (1985)', genres=[CHILDREN, DRAMA]}
+Movie{movieId=26547, title='Police Story (Ging chaat goo si) (1985)', genres=[ACTION, COMEDY, CRIME, THRILLER]}
+Movie{movieId=26554, title='Quiet Earth The (1985)', genres=[DRAMA, MYSTERY, SCI_FI]}
+Movie{movieId=26555, title='Spies Like Us (1985)', genres=[COMEDY]}
+Movie{movieId=26562, title='White Nights (1985)', genres=[DRAMA]}
+Movie{movieId=26564, title=''Round Midnight (1986)', genres=[DRAMA, MUSICAL]}
+Movie{movieId=26574, title='Ginger and Fred (Ginger e Fred) (1986)', genres=[COMEDY, DRAMA]}
+Movie{movieId=26578, title='Sacrifice The (Offret - Sacraficatio) (1986)', genres=[DRAMA]}
+Movie{movieId=26581, title='Sherman's March (1985)', genres=[DOCUMENTARY]}
+Movie{movieId=26585, title='Better Tomorrow A (Ying hung boon sik) (1986)', genres=[CRIME, DRAMA, THRILLER]}
+Movie{movieId=26587, title='Decalogue The (Dekalog) (1989)', genres=[CRIME, DRAMA, ROMANCE]}
+Movie{movieId=26599, title='Law of Desire (Ley del deseo La) (1987)', genres=[COMEDY, DRAMA, ROMANCE]}
+Movie{movieId=26603, title='Prince of Darkness (1987)', genres=[FANTASY, HORROR, SCI_FI, THRILLER]}
+Movie{movieId=26606, title='Chinese Ghost Story A (Sinnui yauwan) (1987)', genres=[ACTION, FANTASY, HORROR, ROMANCE]}
+Movie{movieId=26614, title='Bourne Identity The (1988)', genres=[ACTION, ADVENTURE, DRAMA, MYSTERY, THRILLER]}
+Movie{movieId=26622, title='Dominick and Eugene (1988)', genres=[DRAMA]}
+Movie{movieId=26631, title='Alice (Neco z Alenky) (1988)', genres=[ANIMATION, FANTASY, MYSTERY]}
+Movie{movieId=26649, title='Lonesome Dove (1989)', genres=[ADVENTURE, DRAMA, WESTERN]}
+Movie{movieId=26655, title='Common Threads: Stories from the Quilt (1989)', genres=[DOCUMENTARY]}
+Movie{movieId=26662, title='Kiki's Delivery Service (Majo no takkyûbin) (1989)', genres=[ADVENTURE, ANIMATION, CHILDREN, DRAMA, FANTASY]}
+Movie{movieId=26663, title='Monsieur Hire (1989)', genres=[CRIME, ROMANCE, THRILLER]}
+Movie{movieId=26680, title='Cry-Baby (1990)', genres=[COMEDY, MUSICAL, ROMANCE]}
+Movie{movieId=26684, title='Frankenhooker (1990)', genres=[COMEDY, HORROR]}
+Movie{movieId=26686, title='Ghost Dad (1990)', genres=[COMEDY, FANTASY]}
+Movie{movieId=26689, title='Havana (1990)', genres=[DRAMA]}
+Movie{movieId=26693, title='It (1990)', genres=[DRAMA, FANTASY, HORROR, MYSTERY, THRILLER]}
+Movie{movieId=26694, title='Ju Dou (1990)', genres=[DRAMA]}
+Movie{movieId=26695, title='Krays The (1990)', genres=[DRAMA]}
+Movie{movieId=26700, title='Nuns on the Run (1990)', genres=[COMEDY, CRIME]}
+Movie{movieId=26701, title='Patlabor: The Movie (Kidô keisatsu patorebâ: The Movie) (1989)', genres=[ACTION, ANIMATION, CRIME, DRAMA, FILM_NOIR, MYSTERY, SCI_FI, THRILLER]}
+Movie{movieId=26702, title='Reflecting Skin The (1990)', genres=[DRAMA, HORROR, THRILLER]}
+Movie{movieId=26704, title='State of Grace (1990)', genres=[CRIME, DRAMA, THRILLER]}
+Movie{movieId=26712, title='35 Up (1991)', genres=[DOCUMENTARY]}
+Movie{movieId=26726, title='Dutch (1991)', genres=[COMEDY]}
+Movie{movieId=26729, title='Hearts of Darkness: A Filmmakers Apocalypse (1991)', genres=[DOCUMENTARY]}
+Movie{movieId=26731, title='Homicide (1991)', genres=[CRIME, DRAMA, THRILLER]}
+Movie{movieId=26732, title='Johnny Stecchino (1991)', genres=[COMEDY]}
+Movie{movieId=26736, title='Riki-Oh: The Story of Ricky (Lik Wong) (1991)', genres=[ACTION, CRIME, THRILLER]}
+Movie{movieId=26737, title='Light Sleeper (1992)', genres=[CRIME, DRAMA]}
+Movie{movieId=26749, title='Prospero's Books (1991)', genres=[DRAMA, FANTASY]}
+Movie{movieId=26750, title='Quigley Down Under (1990)', genres=[ADVENTURE, DRAMA, WESTERN]}
+Movie{movieId=26775, title='Johnny Suede (1991)', genres=[COMEDY, MUSICAL, ROMANCE]}
+Movie{movieId=26776, title='Porco Rosso (Crimson Pig) (Kurenai no buta) (1992)', genres=[ADVENTURE, ANIMATION, COMEDY, FANTASY, ROMANCE]}
+Movie{movieId=26782, title='Mambo Kings The (1992)', genres=[DRAMA, MUSICAL]}
+Movie{movieId=26784, title='Night and the City (1992)', genres=[CRIME, DRAMA]}
+Movie{movieId=26788, title='Story of Qiu Ju The (Qiu Ju da guan si) (1992)', genres=[COMEDY, DRAMA]}
+Movie{movieId=26791, title='Shining Through (1992)', genres=[DRAMA, ROMANCE, THRILLER, WAR]}
+Movie{movieId=26797, title='Visions of Light: The Art of Cinematography (1992)', genres=[DOCUMENTARY]}
+Movie{movieId=26809, title='Baby of Mâcon The (a.k.a. The Baby of Macon) (1993)', genres=[DRAMA]}
+Movie{movieId=26810, title='Bad Boy Bubby (1993)', genres=[DRAMA]}
+Movie{movieId=26812, title='Barbarians at the Gate (1993)', genres=[DRAMA]}
+Movie{movieId=26819, title='Fortress (1992)', genres=[ACTION, SCI_FI]}
+Movie{movieId=26835, title='Positively True Adventures of the Alleged Texas Cheerleader-Murdering Mom The (1993)', genres=[COMEDY, THRILLER]}
+Movie{movieId=26838, title='Snapper The (1993)', genres=[COMEDY, DRAMA]}
+Movie{movieId=26840, title='Sonatine (Sonachine) (1993)', genres=[ACTION, COMEDY, CRIME, DRAMA]}
+Movie{movieId=26842, title='Tai Chi Master (Twin Warriors) (Tai ji: Zhang San Feng) (1993)', genres=[ACTION, ADVENTURE, COMEDY, DRAMA]}
+Movie{movieId=26843, title='Three of Hearts (1993)', genres=[COMEDY, ROMANCE]}
+Movie{movieId=26850, title='71 Fragments of a Chronology of Chance (71 Fragmente einer Chronologie des Zufalls) (1994)', genres=[DRAMA]}
+Movie{movieId=26854, title='Darkman II: Return of Durant The (1995)', genres=[ACTION, CRIME, HORROR]}
+Movie{movieId=26865, title='Fist of Legend (Jing wu ying xiong) (1994)', genres=[ACTION, DRAMA]}
+Movie{movieId=26870, title='Major League II (1994)', genres=[COMEDY]}
+Movie{movieId=26886, title='Defender', genres=[NON_GENRE_LISTED]}
+Movie{movieId=26903, title='Whisper of the Heart (Mimi wo sumaseba) (1995)', genres=[ANIMATION, DRAMA, ROMANCE]}
+Movie{movieId=26915, title='Tromeo and Juliet (1996)', genres=[COMEDY, DRAMA]}
+Movie{movieId=26947, title='Pusher (1996)', genres=[CRIME, THRILLER]}
+Movie{movieId=26974, title='Gummo (1997)', genres=[DRAMA]}
+Movie{movieId=26999, title='Lion King II: Simba's Pride The (1998)', genres=[ADVENTURE, ANIMATION, CHILDREN, MUSICAL, ROMANCE]}
+Movie{movieId=27002, title='From the Earth to the Moon (1998)', genres=[ACTION, DOCUMENTARY, DRAMA, THRILLER]}
+Movie{movieId=27005, title='Interview The (1998)', genres=[CRIME, DRAMA, MYSTERY, THRILLER]}
+Movie{movieId=27020, title='Gia (1998)', genres=[DRAMA, ROMANCE]}
+Movie{movieId=27022, title='Thursday (1998)', genres=[ACTION, CRIME, THRILLER]}
+Movie{movieId=27032, title='Who Am I? (Wo shi shei) (1998)', genres=[ACTION, ADVENTURE, COMEDY, SCI_FI, THRILLER]}
+Movie{movieId=27075, title='Addams Family Reunion (1998)', genres=[CHILDREN, COMEDY, FANTASY]}
+Movie{movieId=27109, title='Lady Snowblood (Shurayukihime) (1973)', genres=[ACTION, CRIME, DRAMA, THRILLER]}
+Movie{movieId=27156, title='Neon Genesis Evangelion: The End of Evangelion (Shin seiki Evangelion Gekijô-ban: Air/Magokoro wo kimi ni) (1997)', genres=[ACTION, ANIMATION, DRAMA, FANTASY, SCI_FI]}
+Movie{movieId=27178, title='In July (Im Juli) (2000)', genres=[COMEDY, ROMANCE]}
+Movie{movieId=27186, title='Kirikou and the Sorceress (Kirikou et la sorcière) (1998)', genres=[ADVENTURE, ANIMATION, CHILDREN, FANTASY]}
+Movie{movieId=27193, title='Taxi 2 (2000)', genres=[ACTION, COMEDY]}
+Movie{movieId=27251, title='10th Kingdom The (2000)', genres=[ADVENTURE, COMEDY, FANTASY]}
+Movie{movieId=27253, title='Extremely Goofy Movie An (2000)', genres=[ANIMATION, CHILDREN, COMEDY]}
+Movie{movieId=27255, title='Wind Will Carry Us The (Bad ma ra khahad bord) (1999)', genres=[DRAMA]}
+Movie{movieId=27266, title='2046 (2004)', genres=[DRAMA, FANTASY, ROMANCE, SCI_FI]}
+Movie{movieId=27317, title='Audition (Ôdishon) (1999)', genres=[DRAMA, HORROR, MYSTERY, ROMANCE, THRILLER]}
+Movie{movieId=27322, title='Paragraph 175 (2000)', genres=[DOCUMENTARY]}
+Movie{movieId=27329, title='Paradise Lost 2: Revelations (2000)', genres=[DOCUMENTARY]}
+Movie{movieId=27334, title='Sound and Fury (2000)', genres=[DOCUMENTARY]}
+Movie{movieId=27338, title='The Hole (2001)', genres=[DRAMA, HORROR, MYSTERY, THRILLER]}
+Movie{movieId=27351, title='Spiral (2000)', genres=[HORROR]}
+Movie{movieId=27369, title='Daria: Is It Fall Yet? (2000)', genres=[ANIMATION, COMEDY]}
+Movie{movieId=27373, title='61* (2001)', genres=[DRAMA]}
+Movie{movieId=27376, title='Tunnel', genres=[NON_GENRE_LISTED]}
+Movie{movieId=27397, title='Joint Security Area (Gongdong gyeongbi guyeok JSA) (2000)', genres=[CRIME, DRAMA, MYSTERY, THRILLER, WAR]}
+Movie{movieId=27410, title='Conspiracy (2001)', genres=[DRAMA, WAR]}
+Movie{movieId=27416, title='Jalla! Jalla! (2000)', genres=[COMEDY, DRAMA, ROMANCE]}
+Movie{movieId=27423, title='O Auto da Compadecida (Dog's Will A) (2000)', genres=[ADVENTURE, COMEDY]}
+Movie{movieId=27441, title='Blood: The Last Vampire (2000)', genres=[ACTION, ANIMATION, HORROR]}
+Movie{movieId=27478, title='Ali G Indahouse (2002)', genres=[COMEDY]}
+Movie{movieId=27482, title='Cube 2: Hypercube (2002)', genres=[HORROR, MYSTERY, SCI_FI]}
+Movie{movieId=27523, title='My Sassy Girl (Yeopgijeogin geunyeo) (2001)', genres=[COMEDY, ROMANCE]}
+Movie{movieId=27544, title='Waterboys (2001)', genres=[COMEDY]}
+Movie{movieId=27555, title='Fubar (2002)', genres=[COMEDY]}
+Movie{movieId=27592, title='Sympathy for Mr. Vengeance (Boksuneun naui geot) (2002)', genres=[CRIME, DRAMA]}
+Movie{movieId=27604, title='Suicide Club (Jisatsu saakuru) (2001)', genres=[HORROR, MYSTERY, THRILLER]}
+Movie{movieId=27611, title='Battlestar Galactica (2003)', genres=[DRAMA, SCI_FI, WAR]}
+Movie{movieId=27646, title='Soldier's Girl (2003)', genres=[DRAMA]}
+Movie{movieId=27648, title='Bright Young Things (2003)', genres=[COMEDY, DRAMA]}
+Movie{movieId=27660, title='Animatrix The (2003)', genres=[ACTION, ANIMATION, DRAMA, SCI_FI]}
+Movie{movieId=27664, title='Brown Bunny The (2003)', genres=[DRAMA]}
+Movie{movieId=27674, title='11:14 (2003)', genres=[COMEDY, CRIME, DRAMA, MYSTERY, THRILLER]}
+Movie{movieId=27685, title='Bring It On Again (2004)', genres=[COMEDY]}
+Movie{movieId=27689, title='Crimson Rivers 2: Angels of the Apocalypse (Rivières pourpres II - Les anges de l'apocalypse Les) (2004)', genres=[ACTION, CRIME, THRILLER]}
+Movie{movieId=27700, title='Evil (Ondskan) (2003)', genres=[DRAMA]}
+Movie{movieId=27704, title='Battle Royale 2: Requiem (Batoru rowaiaru II: Chinkonka) (2003)', genres=[ACTION, DRAMA, THRILLER, WAR]}
+Movie{movieId=27706, title='Lemony Snicket's A Series of Unfortunate Events (2004)', genres=[ADVENTURE, CHILDREN, COMEDY, FANTASY]}
+Movie{movieId=27713, title='Bukowski: Born into This (2003)', genres=[DOCUMENTARY]}
+Movie{movieId=27721, title='Very Long Engagement A (Un long dimanche de fiançailles) (2004)', genres=[DRAMA, MYSTERY, ROMANCE, WAR]}
+Movie{movieId=27722, title='Last Life in the Universe (Ruang rak noi nid mahasan) (2003)', genres=[DRAMA, ROMANCE]}
+Movie{movieId=27724, title='Hitler: The Rise of Evil (2003)', genres=[DRAMA]}
+Movie{movieId=27727, title='Head-On (Gegen die Wand) (2004)', genres=[DRAMA, ROMANCE]}
+Movie{movieId=27728, title='Ghost in the Shell 2: Innocence (a.k.a. Innocence) (Inosensu) (2004)', genres=[ACTION, ANIMATION, DRAMA, SCI_FI, THRILLER]}
+Movie{movieId=27731, title='Cat Returns The (Neko no ongaeshi) (2002)', genres=[ADVENTURE, ANIMATION, CHILDREN, FANTASY]}
+Movie{movieId=27741, title='Twilight Samurai The (Tasogare Seibei) (2002)', genres=[DRAMA, ROMANCE]}
+Movie{movieId=27751, title=''Salem's Lot (2004)', genres=[DRAMA, HORROR, MYSTERY, THRILLER]}
+Movie{movieId=27768, title='Intimate Strangers (Confidences trop intimes) (2004)', genres=[DRAMA]}
+Movie{movieId=27772, title='Ju-on: The Grudge (2002)', genres=[HORROR]}
+Movie{movieId=27773, title='Old Boy (2003)', genres=[MYSTERY, THRILLER]}
+Movie{movieId=27778, title='Ginger Snaps Back: The Beginning (2004)', genres=[FANTASY, HORROR]}
+Movie{movieId=27783, title='Lost Embrace (Abrazo partido El) (2004)', genres=[COMEDY, DRAMA]}
+Movie{movieId=27784, title='One Missed Call (Chakushin ari) (2003)', genres=[HORROR, MYSTERY]}
+Movie{movieId=27788, title='Jacket The (2005)', genres=[DRAMA, MYSTERY, SCI_FI, THRILLER]}
+Movie{movieId=27790, title='Millions (2004)', genres=[CHILDREN, COMEDY, CRIME, DRAMA, FANTASY]}
+Movie{movieId=27792, title='Saddest Music in the World The (2003)', genres=[COMEDY, DRAMA, FANTASY, MUSICAL, ROMANCE]}
+Movie{movieId=27793, title='Starship Troopers 2: Hero of the Federation (2004)', genres=[ACTION, HORROR, SCI_FI, WAR]}
+Movie{movieId=27798, title='Ju-on: The Grudge 2 (2003)', genres=[HORROR]}
+Movie{movieId=27800, title='Interstella 5555: The 5tory of the 5ecret 5tar 5ystem (2003)', genres=[ADVENTURE, ANIMATION, FANTASY, MUSICAL, SCI_FI]}
+Movie{movieId=27801, title='Ong-Bak: The Thai Warrior (Ong Bak) (2003)', genres=[ACTION, THRILLER]}
+Movie{movieId=27802, title='Infernal Affairs 2 (Mou gaan dou II) (2003)', genres=[ACTION, CRIME, DRAMA, THRILLER]}
+Movie{movieId=27803, title='Sea Inside The (Mar adentro) (2004)', genres=[DRAMA]}
+Movie{movieId=27808, title='Spanglish (2004)', genres=[COMEDY, DRAMA, ROMANCE]}
+Movie{movieId=27812, title='Festival Express (2003)', genres=[DOCUMENTARY, MUSICAL]}
+Movie{movieId=27815, title='Chorus', genres=[NON_GENRE_LISTED]}
+Movie{movieId=27816, title='Saints and Soldiers (2003)', genres=[ACTION, ADVENTURE, DRAMA, WAR]}
+Movie{movieId=27821, title='Interpreter The (2005)', genres=[DRAMA, THRILLER]}
+Movie{movieId=27822, title='Open Water (2003)', genres=[DRAMA, THRILLER]}
+Movie{movieId=27826, title='Touch of Pink (2004)', genres=[COMEDY, DRAMA, ROMANCE]}
+Movie{movieId=27831, title='Layer Cake (2004)', genres=[CRIME, DRAMA, THRILLER]}
+Movie{movieId=27834, title='Return The (Vozvrashcheniye) (2003)', genres=[DRAMA]}
+Movie{movieId=27837, title='Flight of the Phoenix (2004)', genres=[ACTION, ADVENTURE]}
+Movie{movieId=27838, title='Mean Creek (2004)', genres=[DRAMA, THRILLER]}
+Movie{movieId=27839, title='Ring Two The (2005)', genres=[DRAMA, HORROR, MYSTERY, THRILLER]}
+Movie{movieId=27846, title='Corporation The (2003)', genres=[DOCUMENTARY]}
+Movie{movieId=27850, title='Yes Men The (2003)', genres=[DOCUMENTARY]}
+Movie{movieId=27851, title='Fond Kiss A (Ae Fond Kiss...) (2004)', genres=[DRAMA, ROMANCE]}
+Movie{movieId=27857, title='As it is in Heaven (Så som i himmelen) (2004)', genres=[DRAMA, MUSICAL, ROMANCE]}
+Movie{movieId=27867, title='Football Factory The (2004)', genres=[ACTION, DRAMA]}
+Movie{movieId=27869, title='Tae Guk Gi: The Brotherhood of War (Taegukgi hwinalrimyeo) (2004)', genres=[ACTION, DRAMA, WAR]}
+Movie{movieId=27871, title='Something the Lord Made (2004)', genres=[DRAMA]}
+Movie{movieId=27873, title='Metallica: Some Kind of Monster (2004)', genres=[DOCUMENTARY]}
+Movie{movieId=27875, title='Redemption: The Stan Tookie Williams Story (2004)', genres=[CRIME, DOCUMENTARY, DRAMA]}
+Movie{movieId=27876, title='Schultze Gets the Blues (2003)', genres=[COMEDY, DRAMA]}
+Movie{movieId=27878, title='Born into Brothels (2004)', genres=[DOCUMENTARY]}
+Movie{movieId=27879, title='DiG! (2004)', genres=[DOCUMENTARY]}
+Movie{movieId=27882, title='Riding Giants (2004)', genres=[DOCUMENTARY]}
+Movie{movieId=27899, title='What the #$*! Do We Know!? (a.k.a. What the Bleep Do We Know!?) (2004)', genres=[COMEDY, DOCUMENTARY, DRAMA]}
+Movie{movieId=27904, title='Scanner Darkly A (2006)', genres=[ANIMATION, DRAMA, MYSTERY, SCI_FI, THRILLER]}
+Movie{movieId=27912, title='Outfoxed: Rupert Murdoch's War on Journalism (2004)', genres=[DOCUMENTARY]}
+Movie{movieId=27922, title='Jerry Seinfeld: 'I'm Telling You for the Last Time' (1998)', genres=[COMEDY, DOCUMENTARY]}
+Movie{movieId=30707, title='Million Dollar Baby (2004)', genres=[DRAMA]}
+Movie{movieId=30712, title='Narrow Margin The (1952)', genres=[CRIME, DRAMA, FILM_NOIR]}
+Movie{movieId=30723, title='Vincent & Theo (1990)', genres=[DRAMA]}
+Movie{movieId=30745, title='Gozu (Gokudô kyôfu dai-gekijô: Gozu) (2003)', genres=[COMEDY, CRIME, DRAMA, HORROR, MYSTERY]}
+Movie{movieId=30749, title='Hotel Rwanda (2004)', genres=[DRAMA, WAR]}
+Movie{movieId=30783, title='Blood and Black Lace (Sei donne per l'assassino) (1964)', genres=[HORROR, THRILLER]}
+Movie{movieId=30793, title='Charlie and the Chocolate Factory (2005)', genres=[ADVENTURE, CHILDREN, COMEDY, FANTASY, IMAX]}
+Movie{movieId=30803, title='3-Iron (Bin-jip) (2004)', genres=[DRAMA, ROMANCE]}
+Movie{movieId=30810, title='Life Aquatic with Steve Zissou The (2004)', genres=[ADVENTURE, COMEDY, FANTASY]}
+Movie{movieId=30812, title='Aviator The (2004)', genres=[DRAMA]}
+Movie{movieId=30816, title='Phantom of the Opera The (2004)', genres=[DRAMA, MUSICAL, ROMANCE]}
+Movie{movieId=30818, title='Beyond the Sea (2004)', genres=[DRAMA, MUSICAL]}
+Movie{movieId=30820, title='Woodsman The (2004)', genres=[DRAMA]}
+Movie{movieId=30822, title='In Good Company (2004)', genres=[COMEDY, DRAMA]}
+Movie{movieId=30825, title='Meet the Fockers (2004)', genres=[COMEDY]}
+Movie{movieId=30846, title='Assassination of Richard Nixon The (2004)', genres=[CRIME, DRAMA, THRILLER]}
+Movie{movieId=30848, title='Love Song for Bobby Long A (2004)', genres=[DRAMA]}
+Movie{movieId=30850, title='Merchant of Venice The (2004)', genres=[DRAMA]}
+Movie{movieId=30867, title='Kamikaze Girls (Shimotsuma monogatari) (2004)', genres=[COMEDY]}
+Movie{movieId=30883, title='Fat Albert (2004)', genres=[COMEDY, FANTASY]}
+Movie{movieId=30892, title='In the Realms of the Unreal (2004)', genres=[ANIMATION, DOCUMENTARY]}
+Movie{movieId=30894, title='White Noise (2005)', genres=[DRAMA, HORROR, MYSTERY, SCI_FI, THRILLER]}
+Movie{movieId=30898, title='Upside of Anger The (2005)', genres=[COMEDY, DRAMA, ROMANCE]}
+Movie{movieId=31000, title='Sweet Liberty (1986)', genres=[COMEDY]}
+Movie{movieId=31026, title='Phantom of the Opera The (1989)', genres=[DRAMA, HORROR, MUSICAL]}
+Movie{movieId=31035, title='Testament (1983)', genres=[DRAMA]}
+Movie{movieId=31101, title='Stander (2003)', genres=[ACTION, CRIME, DRAMA]}
+Movie{movieId=31104, title='Hester Street (1975)', genres=[DRAMA]}
+Movie{movieId=31109, title='Bigamist The (1953)', genres=[DRAMA]}
+Movie{movieId=31114, title='Imaginary Heroes (2004)', genres=[COMEDY, DRAMA]}
+Movie{movieId=31116, title='Sergeant York (1941)', genres=[DRAMA, WAR]}
+Movie{movieId=31150, title='Wizards (1977)', genres=[ANIMATION, FANTASY, SCI_FI, WAR]}
+Movie{movieId=31156, title='Abbott and Costello Meet the Invisible Man (1951)', genres=[COMEDY, SCI_FI]}
+Movie{movieId=31162, title='Life and Death of Peter Sellers The (2004)', genres=[COMEDY, DRAMA]}
+Movie{movieId=31184, title='Appleseed (Appurushîdo) (2004)', genres=[ACTION, ANIMATION, FANTASY, SCI_FI]}
+Movie{movieId=31193, title='Many Adventures of Winnie the Pooh The (1977)', genres=[ANIMATION, CHILDREN, MUSICAL]}
+Movie{movieId=31221, title='Elektra (2005)', genres=[ACTION, ADVENTURE, CRIME, DRAMA]}
+Movie{movieId=31225, title='Coach Carter (2005)', genres=[DRAMA]}
+Movie{movieId=31270, title='Shivers (They Came from Within) (1975)', genres=[DRAMA, HORROR, SCI_FI]}
+Movie{movieId=31284, title='Star Is Born A (1976)', genres=[DRAMA, MUSICAL, ROMANCE]}
+Movie{movieId=31290, title='Beastmaster 2: Through the Portal of Time (1991)', genres=[ACTION, ADVENTURE, FANTASY, SCI_FI]}
+Movie{movieId=31364, title='Memories of Murder (Salinui chueok) (2003)', genres=[CRIME, DRAMA, MYSTERY, THRILLER]}
+Movie{movieId=31374, title='Hobson's Choice (1954)', genres=[COMEDY, DRAMA, ROMANCE]}
+Movie{movieId=31408, title='Summer Storm (Sommersturm) (2004)', genres=[DRAMA, ROMANCE]}
+Movie{movieId=31410, title='Downfall (Untergang Der) (2004)', genres=[DRAMA, WAR]}
+Movie{movieId=31413, title='White Sound The (Das weiße Rauschen) (2001)', genres=[DRAMA]}
+Movie{movieId=31420, title='Assault on Precinct 13 (2005)', genres=[ACTION, CRIME, DRAMA, THRILLER]}
+Movie{movieId=31422, title='Are We There Yet? (2005)', genres=[CHILDREN, COMEDY]}
+Movie{movieId=31427, title='Hide and Seek (2005)', genres=[HORROR, MYSTERY, THRILLER]}
+Movie{movieId=31431, title='Boogeyman (2005)', genres=[DRAMA, HORROR, MYSTERY, THRILLER]}
+Movie{movieId=31433, title='Wedding Date The (2005)', genres=[COMEDY, ROMANCE]}
+Movie{movieId=31435, title='Rory O'Shea Was Here (Inside I'm Dancing) (2004)', genres=[DRAMA]}
+Movie{movieId=31437, title='Nobody Knows (Dare mo shiranai) (2004)', genres=[DRAMA]}
+Movie{movieId=31445, title='Employee of the Month (2004)', genres=[COMEDY, DRAMA]}
+Movie{movieId=31502, title='Salem's Lot (1979)', genres=[DRAMA, HORROR, MYSTERY, THRILLER]}
+Movie{movieId=31522, title='Marriage of Maria Braun', genres=[NON_GENRE_LISTED]}
+Movie{movieId=31524, title='Bitter Tears of Petra von Kant', genres=[NON_GENRE_LISTED]}
+Movie{movieId=31547, title='Lessons of Darkness (Lektionen in Finsternis) (1992)', genres=[DOCUMENTARY, WAR]}
+Movie{movieId=31549, title='Fata Morgana (1971)', genres=[DOCUMENTARY, DRAMA, SCI_FI]}
+Movie{movieId=31658, title='Howl's Moving Castle (Hauru no ugoku shiro) (2004)', genres=[ADVENTURE, ANIMATION, FANTASY, ROMANCE]}
+Movie{movieId=31660, title='Steamboy (Suchîmubôi) (2004)', genres=[ACTION, ANIMATION, DRAMA, SCI_FI]}
+Movie{movieId=31682, title='Nomi Song The (2004)', genres=[DOCUMENTARY, MUSICAL]}
+Movie{movieId=31685, title='Hitch (2005)', genres=[COMEDY, ROMANCE]}
+Movie{movieId=31689, title='Inside Deep Throat (2005)', genres=[DOCUMENTARY]}
+Movie{movieId=31694, title='Bride & Prejudice (2004)', genres=[COMEDY, MUSICAL, ROMANCE]}
+Movie{movieId=31696, title='Constantine (2005)', genres=[ACTION, FANTASY, HORROR, THRILLER]}
+Movie{movieId=31700, title='Because of Winn-Dixie (2005)', genres=[CHILDREN, COMEDY, DRAMA]}
+Movie{movieId=31724, title='Pauly Shore Is Dead (2003)', genres=[COMEDY]}
+Movie{movieId=31737, title='Bunny Lake Is Missing (1965)', genres=[MYSTERY, THRILLER]}
+Movie{movieId=31747, title='The Boyfriend School (1990)', genres=[COMEDY, ROMANCE]}
+Movie{movieId=31770, title='Night and the City (1950)', genres=[FILM_NOIR, THRILLER]}
+Movie{movieId=31804, title='Night Watch (Nochnoy dozor) (2004)', genres=[ACTION, FANTASY, HORROR, MYSTERY, SCI_FI, THRILLER]}
+Movie{movieId=31878, title='Kung Fu Hustle (Gong fu) (2004)', genres=[ACTION, COMEDY]}
+Movie{movieId=31903, title='Zelary (2003)', genres=[DRAMA, ROMANCE]}
+Movie{movieId=31921, title='Seven-Per-Cent Solution The (1976)', genres=[ADVENTURE, COMEDY, CRIME, DRAMA, MYSTERY, THRILLER]}
+Movie{movieId=31923, title='Three Musketeers The (1973)', genres=[ACTION, ADVENTURE, COMEDY]}
+Movie{movieId=31930, title='Masculin Féminin (1966)', genres=[DRAMA]}
+Movie{movieId=31952, title='Control (Kontroll) (2003)', genres=[COMEDY, CRIME, DRAMA, MYSTERY]}
+Movie{movieId=31956, title='5x2 (2004)', genres=[DRAMA, ROMANCE]}
+Movie{movieId=31963, title='Bed & Board (Domicile conjugal) (1970)', genres=[COMEDY, DRAMA]}
+Movie{movieId=31973, title='Germany Year Zero (Germania anno zero) (Deutschland im Jahre Null) (1948)', genres=[DRAMA, WAR]}
+Movie{movieId=32017, title='Pacifier The (2005)', genres=[ACTION, COMEDY]}
+Movie{movieId=32019, title='Be Cool (2005)', genres=[COMEDY, CRIME, MUSICAL]}
+Movie{movieId=32022, title='Gunner Palace (2004)', genres=[DOCUMENTARY, WAR]}
+Movie{movieId=32025, title='Walk on Water (2004)', genres=[DRAMA, THRILLER]}
+Movie{movieId=32029, title='Hostage (2005)', genres=[ACTION, CRIME, DRAMA, THRILLER]}
+Movie{movieId=32031, title='Robots (2005)', genres=[ADVENTURE, ANIMATION, CHILDREN, COMEDY, FANTASY, SCI_FI, IMAX]}
+Movie{movieId=32078, title='Godzilla vs. Mechagodzilla II (Gojira VS Mekagojira) (1993)', genres=[ACTION, DRAMA, SCI_FI]}
+Movie{movieId=32139, title='Agony and the Ecstasy The (1965)', genres=[DRAMA]}
+Movie{movieId=32153, title='Once Upon a Forest (1993)', genres=[ADVENTURE, ANIMATION, CHILDREN, FANTASY]}
+Movie{movieId=32160, title='Twentieth Century (1934)', genres=[COMEDY]}
+Movie{movieId=32170, title='Chronicles (Crónicas) (2004)', genres=[CRIME, DRAMA]}
+Movie{movieId=32174, title='Green Berets The (1968)', genres=[ACTION, DRAMA, WAR]}
+Movie{movieId=32203, title='Brian's Song (1971)', genres=[DRAMA]}
+Movie{movieId=32211, title='Thriller: A Cruel Picture (Thriller - en grym film) (1974)', genres=[ACTION, CRIME, DRAMA, THRILLER]}
+Movie{movieId=32234, title='Julia (1977)', genres=[DRAMA]}
+Movie{movieId=32280, title='The 3 Penny Opera (1931)', genres=[COMEDY, DRAMA, MUSICAL]}
+Movie{movieId=32289, title='Ice Princess (2005)', genres=[CHILDREN, COMEDY, DRAMA]}
+Movie{movieId=32291, title='Melinda and Melinda (2004)', genres=[COMEDY, DRAMA]}
+Movie{movieId=32296, title='Miss Congeniality 2: Armed and Fabulous (2005)', genres=[ADVENTURE, COMEDY, CRIME]}
+Movie{movieId=32298, title='Guess Who (2005)', genres=[COMEDY, ROMANCE]}
+Movie{movieId=32302, title='League of Ordinary Gentlemen A (2004)', genres=[DOCUMENTARY]}
+Movie{movieId=32349, title='Stella Dallas (1937)', genres=[DRAMA]}
+Movie{movieId=32352, title='Thief and the Cobbler The (a.k.a. Arabian Knight) (1995)', genres=[ADVENTURE, ANIMATION, COMEDY, FANTASY]}
+Movie{movieId=32369, title='Panic in the Streets (1950)', genres=[CRIME, DRAMA, FILM_NOIR, THRILLER]}
+Movie{movieId=32371, title='Call Northside 777 (1948)', genres=[CRIME, DRAMA, FILM_NOIR]}
+Movie{movieId=32381, title='Bells Are Ringing (1960)', genres=[COMEDY, MUSICAL, ROMANCE]}
+Movie{movieId=32387, title='Sword of Doom The (Dai-bosatsu tôge) (1966)', genres=[ACTION, DRAMA]}
+Movie{movieId=32395, title='Attack of the Mushroom People (Matango) (1963)', genres=[FANTASY, HORROR, SCI_FI, THRILLER]}
+Movie{movieId=32444, title='Carmen (1983)', genres=[DRAMA, MUSICAL, ROMANCE]}
+Movie{movieId=32456, title='Pom Poko (a.k.a. Raccoon War The) (Heisei tanuki gassen pompoko) (1994)', genres=[ANIMATION, COMEDY, DRAMA, FANTASY]}
+Movie{movieId=32460, title='Knockin' on Heaven's Door (1997)', genres=[ACTION, COMEDY, CRIME, DRAMA]}
+Movie{movieId=32464, title='City of Hope (1991)', genres=[DRAMA]}
+Movie{movieId=32469, title='We're No Angels (1955)', genres=[COMEDY, CRIME, DRAMA]}
+Movie{movieId=32515, title='Walker (1987)', genres=[ADVENTURE, DRAMA, WAR, WESTERN]}
+Movie{movieId=32525, title='The Earrings of Madame de... (1953)', genres=[DRAMA, ROMANCE]}
+Movie{movieId=32554, title='Memories (Memorîzu) (1995)', genres=[ANIMATION, FANTASY, SCI_FI, THRILLER]}
+Movie{movieId=32562, title='Harvie Krumpet (2003)', genres=[ANIMATION, COMEDY, DRAMA]}
+Movie{movieId=32582, title='Wild Parrots of Telegraph Hill The (2003)', genres=[DOCUMENTARY]}
+Movie{movieId=32587, title='Sin City (2005)', genres=[ACTION, CRIME, FILM_NOIR, MYSTERY, THRILLER]}
+Movie{movieId=32591, title='Look at Me (Comme une image) (2004)', genres=[COMEDY, DRAMA, ROMANCE]}
+Movie{movieId=32596, title='Sahara (2005)', genres=[ACTION, ADVENTURE, COMEDY]}
+Movie{movieId=32598, title='Fever Pitch (2005)', genres=[COMEDY, ROMANCE]}
+Movie{movieId=32632, title='Electra Glide in Blue (1973)', genres=[ACTION, CRIME]}
+Movie{movieId=32666, title='National Lampoon's Lady Killers (National Lampoon's Gold Diggers) (2003)', genres=[COMEDY]}
+Movie{movieId=32686, title='Blood on Satan's Claw (a.k.a. Satan's Skin) (1971)', genres=[HORROR, THRILLER]}
+Movie{movieId=32728, title='Little Girl Who Lives Down the Lane The (1976)', genres=[DRAMA, MYSTERY, THRILLER]}
+Movie{movieId=32735, title='Arabian Nights (Il fiore delle mille e una notte) (1974)', genres=[COMEDY, DRAMA, FANTASY]}
+Movie{movieId=32743, title='Ringu 0: Bâsudei (2000)', genres=[DRAMA, HORROR, THRILLER]}
+Movie{movieId=32797, title='Satan's Brew (Satansbraten) (1976)', genres=[COMEDY, DRAMA]}
+Movie{movieId=32825, title='Sexmission (Seksmisja) (1984)', genres=[ADVENTURE, COMEDY, SCI_FI]}
+Movie{movieId=32840, title='Vincent (1982)', genres=[ANIMATION]}
+Movie{movieId=32844, title='Waterloo Bridge (1940)', genres=[DRAMA, ROMANCE, WAR]}
+Movie{movieId=32853, title='Sorrow and the Pity The (Le chagrin et la pitié) (1969)', genres=[DOCUMENTARY, WAR]}
+Movie{movieId=32882, title='Big Store The (1941)', genres=[COMEDY, MUSICAL]}
+Movie{movieId=32892, title='Ivan's Childhood (a.k.a. My Name is Ivan) (Ivanovo detstvo) (1962)', genres=[DRAMA, WAR]}
+Movie{movieId=32898, title='Trip to the Moon', genres=[NON_GENRE_LISTED]}
+Movie{movieId=32914, title='Carrie (2002)', genres=[DRAMA, HORROR, THRILLER]}
+Movie{movieId=32943, title='Life Is Sweet (1990)', genres=[COMEDY, DRAMA]}
+Movie{movieId=33004, title='Hitchhiker's Guide to the Galaxy The (2005)', genres=[ADVENTURE, COMEDY, SCI_FI]}
+Movie{movieId=33021, title='Dark Habits (Entre tinieblas) (1983)', genres=[COMEDY, DRAMA]}
+Movie{movieId=33085, title='Amityville Horror The (2005)', genres=[HORROR, THRILLER]}
+Movie{movieId=33124, title='Before the Fall (NaPolA - Elite für den Führer) (2004)', genres=[DRAMA, WAR]}
+Movie{movieId=33138, title='Palindromes (2004)', genres=[ADVENTURE, COMEDY, DRAMA]}
+Movie{movieId=33145, title='Lot Like Love A (2005)', genres=[COMEDY, DRAMA, ROMANCE]}
+Movie{movieId=33154, title='Enron: The Smartest Guys in the Room (2005)', genres=[DOCUMENTARY]}
+Movie{movieId=33158, title='xXx: State of the Union (2005)', genres=[ACTION, CRIME, THRILLER]}
+Movie{movieId=33162, title='Kingdom of Heaven (2005)', genres=[ACTION, DRAMA, ROMANCE, WAR]}
+Movie{movieId=33164, title='House of Wax (2005)', genres=[HORROR, THRILLER]}
+Movie{movieId=33166, title='Crash (2004)', genres=[CRIME, DRAMA]}
+Movie{movieId=33171, title='Mysterious Skin (2004)', genres=[DRAMA, MYSTERY]}
+Movie{movieId=33296, title='Buying the Cow (2002)', genres=[COMEDY, ROMANCE]}
+Movie{movieId=33312, title='Cocoanuts The (1929)', genres=[COMEDY, MUSICAL]}
+Movie{movieId=33358, title='Off the Map (2003)', genres=[COMEDY, DRAMA]}
+Movie{movieId=33380, title='25 Watts (2001)', genres=[COMEDY, DRAMA]}
+Movie{movieId=33437, title='Unleashed (Danny the Dog) (2005)', genres=[ACTION, CRIME, DRAMA, THRILLER]}
+Movie{movieId=33493, title='Star Wars: Episode III - Revenge of the Sith (2005)', genres=[ACTION, ADVENTURE, SCI_FI]}
+Movie{movieId=33495, title='Kicking & Screaming (2005)', genres=[COMEDY]}
+Movie{movieId=33499, title='Monster-in-Law (2005)', genres=[COMEDY, ROMANCE]}
+Movie{movieId=33558, title='Snow Walker The (2003)', genres=[ADVENTURE, DRAMA]}
+Movie{movieId=33587, title='Uninvited The (1944)', genres=[HORROR, MYSTERY, ROMANCE]}
+Movie{movieId=33592, title='Bad Guy (Nabbeun namja) (2001)', genres=[DRAMA]}
+Movie{movieId=33615, title='Madagascar (2005)', genres=[ADVENTURE, ANIMATION, CHILDREN, COMEDY]}
+Movie{movieId=33621, title='Somersault (2004)', genres=[DRAMA]}
+Movie{movieId=33639, title='Mad Hot Ballroom (2005)', genres=[CHILDREN, DOCUMENTARY]}
+Movie{movieId=33646, title='Longest Yard The (2005)', genres=[COMEDY, DRAMA]}
+Movie{movieId=33660, title='Cinderella Man (2005)', genres=[DRAMA, ROMANCE]}
+Movie{movieId=33669, title='Sisterhood of the Traveling Pants The (2005)', genres=[ADVENTURE, COMEDY, DRAMA]}
+Movie{movieId=33672, title='Lords of Dogtown (2005)', genres=[ACTION, COMEDY, DRAMA]}
+Movie{movieId=33679, title='Mr. & Mrs. Smith (2005)', genres=[ACTION, ADVENTURE, COMEDY, ROMANCE]}
+Movie{movieId=33681, title='Adventures of Sharkboy and Lavagirl 3-D The (2005)', genres=[ACTION, ADVENTURE, CHILDREN, FANTASY]}
+Movie{movieId=33683, title='High Tension (Haute tension) (Switchblade Romance) (2003)', genres=[HORROR, THRILLER]}
+Movie{movieId=33688, title='Parineeta (2005)', genres=[DRAMA, MUSICAL, ROMANCE]}
+Movie{movieId=33750, title='Innocent Voices (Voces inocentes) (2004)', genres=[DRAMA, WAR]}
+Movie{movieId=33760, title='Anna and the King of Siam (1946)', genres=[DRAMA, ROMANCE]}
+Movie{movieId=33794, title='Batman Begins (2005)', genres=[ACTION, CRIME, IMAX]}
+Movie{movieId=33817, title='My Summer of Love (2004)', genres=[DRAMA, ROMANCE]}
+Movie{movieId=33826, title='Saint Ralph (2004)', genres=[COMEDY, DRAMA]}
+Movie{movieId=33830, title='Herbie: Fully Loaded (2005)', genres=[ADVENTURE, COMEDY, ROMANCE]}
+Movie{movieId=33834, title='Land of the Dead (2005)', genres=[ACTION, HORROR, THRILLER]}
+Movie{movieId=33836, title='Bewitched (2005)', genres=[COMEDY, FANTASY, ROMANCE]}
+Movie{movieId=33838, title='Rize (2005)', genres=[DOCUMENTARY]}
+Movie{movieId=33880, title='Me and You and Everyone We Know (2005)', genres=[COMEDY, DRAMA]}
+Movie{movieId=33896, title='3 Extremes (Three... Extremes) (Saam gaang yi) (2004)', genres=[HORROR]}
+Movie{movieId=33903, title='Edukators The (Die Fetten Jahre sind vorbei) (2004)', genres=[COMEDY, CRIME, DRAMA, ROMANCE]}
+Movie{movieId=33912, title='Unmarried Woman An (1978)', genres=[COMEDY, DRAMA, ROMANCE]}
+Movie{movieId=33917, title='Member of the Wedding The (1952)', genres=[DRAMA]}
+Movie{movieId=34002, title='Room Service (1938)', genres=[COMEDY]}
+Movie{movieId=34018, title='At the Circus (1939)', genres=[COMEDY, MUSICAL]}
+Movie{movieId=34048, title='War of the Worlds (2005)', genres=[ACTION, ADVENTURE, SCI_FI, THRILLER]}
+Movie{movieId=34072, title='March of the Penguins (Marche de l'empereur La) (2005)', genres=[DOCUMENTARY]}
+Movie{movieId=34129, title='Rebound (2005)', genres=[COMEDY]}
+Movie{movieId=34143, title='Dark Water (2005)', genres=[DRAMA, HORROR, THRILLER]}
+Movie{movieId=34150, title='Fantastic Four (2005)', genres=[ACTION, ADVENTURE, SCI_FI]}
+Movie{movieId=34153, title='Murderball (2005)', genres=[DOCUMENTARY]}
+Movie{movieId=34162, title='Wedding Crashers (2005)', genres=[COMEDY, ROMANCE]}
+Movie{movieId=34164, title='Happy Endings (2005)', genres=[COMEDY, DRAMA]}
+Movie{movieId=34198, title='Russian Dolls (Les poupées russes) (2005)', genres=[COMEDY, ROMANCE]}
+Movie{movieId=34271, title='Hustle & Flow (2005)', genres=[CRIME, DRAMA]}
+Movie{movieId=34319, title='Island The (2005)', genres=[ACTION, SCI_FI, THRILLER]}
+Movie{movieId=34321, title='Bad News Bears (2005)', genres=[CHILDREN, COMEDY]}
+Movie{movieId=34323, title='Devil's Rejects The (2005)', genres=[ACTION, CRIME, HORROR]}
+Movie{movieId=34326, title='Last Days (2005)', genres=[DRAMA]}
+Movie{movieId=34332, title='Sky High (2005)', genres=[ACTION, ADVENTURE, CHILDREN, COMEDY]}
+Movie{movieId=34334, title='Stealth (2005)', genres=[ACTION, ADVENTURE, SCI_FI, THRILLER]}
+Movie{movieId=34336, title='Must Love Dogs (2005)', genres=[COMEDY, ROMANCE]}
+Movie{movieId=34338, title='Aristocrats The (2005)', genres=[COMEDY, DOCUMENTARY]}
+Movie{movieId=34359, title='Georgy Girl (1966)', genres=[COMEDY]}
+Movie{movieId=34364, title='This Is My Life (1992)', genres=[COMEDY, DRAMA]}
+Movie{movieId=34405, title='Serenity (2005)', genres=[ACTION, ADVENTURE, SCI_FI]}
+Movie{movieId=34435, title='Sholay (1975)', genres=[ACTION, ADVENTURE, COMEDY, MUSICAL, ROMANCE, THRILLER]}
+Movie{movieId=34437, title='Broken Flowers (2005)', genres=[COMEDY, DRAMA]}
+Movie{movieId=34517, title='Berserk (1967)', genres=[HORROR, MYSTERY, THRILLER]}
+Movie{movieId=34520, title='Dukes of Hazzard The (2005)', genres=[ACTION, ADVENTURE, COMEDY]}
+Movie{movieId=34523, title='The Chumscrubber (2005)', genres=[COMEDY, DRAMA]}
+Movie{movieId=34528, title='Junebug (2005)', genres=[COMEDY, DRAMA]}
+Movie{movieId=34530, title='Deuce Bigalow: European Gigolo (2005)', genres=[COMEDY]}
+Movie{movieId=34532, title='Skeleton Key The (2005)', genres=[DRAMA, HORROR, MYSTERY, THRILLER]}
+Movie{movieId=34534, title='Four Brothers (2005)', genres=[ACTION, CRIME, DRAMA]}
+Movie{movieId=34536, title='The Great Raid (2005)', genres=[ACTION, DRAMA, WAR]}
+Movie{movieId=34542, title='Grizzly Man (2005)', genres=[DOCUMENTARY]}
+Movie{movieId=34552, title='Girl in the Café The (2005)', genres=[DRAMA, ROMANCE]}
+Movie{movieId=34583, title='Prime Cut (1972)', genres=[ACTION, CRIME, DRAMA]}
+Movie{movieId=34608, title='Best of Everything The (1959)', genres=[DRAMA, ROMANCE]}
+Movie{movieId=35836, title='40-Year-Old Virgin The (2005)', genres=[COMEDY, ROMANCE]}
+Movie{movieId=35957, title='Red Eye (2005)', genres=[HORROR, THRILLER]}
+Movie{movieId=36152, title='Dreamchild (1985)', genres=[DRAMA, FANTASY, ROMANCE]}
+Movie{movieId=36276, title='Hidden (a.k.a. Cache) (Caché) (2005)', genres=[DRAMA, MYSTERY, THRILLER]}
+Movie{movieId=36289, title='Asterix & Obelix vs. Caesar (Astérix et Obélix contre César) (1999)', genres=[ADVENTURE, CHILDREN, COMEDY, FANTASY]}
+Movie{movieId=36397, title='Valiant (2005)', genres=[ADVENTURE, ANIMATION, CHILDREN, COMEDY, FANTASY, WAR]}
+Movie{movieId=36401, title='Brothers Grimm The (2005)', genres=[COMEDY, FANTASY, HORROR, THRILLER]}
+Movie{movieId=36509, title='Cave The (2005)', genres=[ACTION, ADVENTURE, HORROR, MYSTERY, SCI_FI, THRILLER]}
+Movie{movieId=36517, title='Constant Gardener The (2005)', genres=[DRAMA, THRILLER]}
+Movie{movieId=36519, title='Transporter 2 (2005)', genres=[ACTION, CRIME, THRILLER]}
+Movie{movieId=36525, title='Just Like Heaven (2005)', genres=[COMEDY, FANTASY, ROMANCE]}
+Movie{movieId=36527, title='Proof (2005)', genres=[DRAMA]}
+Movie{movieId=36529, title='Lord of War (2005)', genres=[ACTION, CRIME, DRAMA, THRILLER, WAR]}
+Movie{movieId=36533, title='Cry_Wolf (a.k.a. Cry Wolf) (2005)', genres=[DRAMA, HORROR, MYSTERY, THRILLER]}
+Movie{movieId=36535, title='Everything Is Illuminated (2005)', genres=[COMEDY, DRAMA]}
+Movie{movieId=36553, title='In Old Chicago (1937)', genres=[ACTION, DRAMA, MUSICAL, WAR]}
+Movie{movieId=36708, title='Family Guy Presents Stewie Griffin: The Untold Story (2005)', genres=[ADVENTURE, ANIMATION, COMEDY]}
+Movie{movieId=36931, title='New Police Story (Xin jing cha gu shi) (2004)', genres=[ACTION, CRIME, DRAMA]}
+Movie{movieId=37211, title='Go West (1940)', genres=[COMEDY, MUSICAL, WESTERN]}
+Movie{movieId=37240, title='Why We Fight (2005)', genres=[DOCUMENTARY]}
+Movie{movieId=37277, title='200 Motels (1971)', genres=[COMEDY, MUSICAL]}
+Movie{movieId=37380, title='Doom (2005)', genres=[ACTION, HORROR, SCI_FI]}
+Movie{movieId=37382, title='Domino (2005)', genres=[CRIME, DRAMA, THRILLER]}
+Movie{movieId=37384, title='Waiting... (2005)', genres=[COMEDY]}
+Movie{movieId=37386, title='Aeon Flux (2005)', genres=[ACTION, SCI_FI]}
+Movie{movieId=37475, title='Unfinished Life An (2005)', genres=[DRAMA]}
+Movie{movieId=37477, title='Man The (2005)', genres=[ACTION, COMEDY, CRIME]}
+Movie{movieId=37720, title='Exorcism of Emily Rose The (2005)', genres=[CRIME, DRAMA, HORROR, THRILLER]}
+Movie{movieId=37727, title='Flightplan (2005)', genres=[ACTION, DRAMA, THRILLER]}
+Movie{movieId=37729, title='Corpse Bride (2005)', genres=[ANIMATION, COMEDY, FANTASY, MUSICAL, ROMANCE]}
+Movie{movieId=37731, title='Green Street Hooligans (a.k.a. Hooligans) (2005)', genres=[CRIME, DRAMA]}
+Movie{movieId=37733, title='History of Violence A (2005)', genres=[ACTION, CRIME, DRAMA, THRILLER]}
+Movie{movieId=37736, title='Oliver Twist (2005)', genres=[DRAMA]}
+Movie{movieId=37739, title='Greatest Game Ever Played The (2005)', genres=[DRAMA]}
+Movie{movieId=37741, title='Capote (2005)', genres=[CRIME, DRAMA]}
+Movie{movieId=37785, title='Anderson Tapes The (1971)', genres=[CRIME, DRAMA, THRILLER]}
+Movie{movieId=37830, title='Final Fantasy VII: Advent Children (2004)', genres=[ACTION, ADVENTURE, ANIMATION, FANTASY, SCI_FI]}
+Movie{movieId=37853, title='Into the Blue (2005)', genres=[ACTION, ADVENTURE, CRIME, THRILLER]}
+Movie{movieId=37855, title='Prize Winner of Defiance Ohio The (2005)', genres=[DRAMA]}
+Movie{movieId=37857, title='MirrorMask (2005)', genres=[ADVENTURE, CHILDREN, DRAMA, FANTASY]}
+Movie{movieId=38038, title='Wallace & Gromit in The Curse of the Were-Rabbit (2005)', genres=[ADVENTURE, ANIMATION, CHILDREN, COMEDY]}
+Movie{movieId=38061, title='Kiss Kiss Bang Bang (2005)', genres=[COMEDY, CRIME, MYSTERY, THRILLER]}
+Movie{movieId=38304, title='No Direction Home: Bob Dylan (2005)', genres=[DOCUMENTARY]}
+Movie{movieId=38384, title='Hail the Conquering Hero (1944)', genres=[COMEDY]}
+Movie{movieId=38499, title='Angels in America (2003)', genres=[DRAMA, FANTASY]}
+Movie{movieId=38798, title='In Her Shoes (2005)', genres=[COMEDY, DRAMA]}
+Movie{movieId=38886, title='Squid and the Whale The (2005)', genres=[COMEDY, DRAMA]}
+Movie{movieId=38992, title='Two for the Money (2005)', genres=[DRAMA]}
+Movie{movieId=38994, title='Separate Lies (2005)', genres=[DRAMA, ROMANCE, THRILLER]}
+Movie{movieId=39052, title='Star Wreck: In the Pirkinning (2005)', genres=[ACTION, COMEDY, SCI_FI]}
+Movie{movieId=39183, title='Brokeback Mountain (2005)', genres=[DRAMA, ROMANCE]}
+Movie{movieId=39231, title='Elizabethtown (2005)', genres=[COMEDY, DRAMA, ROMANCE]}
+Movie{movieId=39234, title='North Country (2005)', genres=[DRAMA]}
+Movie{movieId=39292, title='Good Night and Good Luck. (2005)', genres=[CRIME, DRAMA]}
+Movie{movieId=39307, title='Dreamer: Inspired by a True Story (2005)', genres=[CHILDREN, DRAMA]}
+Movie{movieId=39381, title='Proposition The (2005)', genres=[CRIME, DRAMA, WESTERN]}
+Movie{movieId=39398, title='C.S.A.: The Confederate States of America (2004)', genres=[COMEDY, DRAMA]}
+Movie{movieId=39408, title='Left Behind: World at War (2005)', genres=[DRAMA]}
+Movie{movieId=39414, title='Shopgirl (2005)', genres=[COMEDY, DRAMA, ROMANCE]}
+Movie{movieId=39416, title='Kids in America (2005)', genres=[COMEDY, DRAMA]}
+Movie{movieId=39419, title='Where the Truth Lies (2005)', genres=[DRAMA, THRILLER]}
+Movie{movieId=39421, title='After School Special (a.k.a. Barely Legal) (2003)', genres=[COMEDY]}
+Movie{movieId=39427, title='Stay (2005)', genres=[THRILLER]}
+Movie{movieId=39435, title='Legend of Zorro The (2005)', genres=[ACTION, ADVENTURE, DRAMA, WESTERN]}
+Movie{movieId=39444, title='Weather Man The (2005)', genres=[COMEDY, DRAMA]}
+Movie{movieId=39446, title='Saw II (2005)', genres=[HORROR, THRILLER]}
+Movie{movieId=39659, title='Teorema (1968)', genres=[DRAMA]}
+Movie{movieId=39715, title='American Pie Presents: Band Camp (American Pie 4: Band Camp) (2005)', genres=[COMEDY]}
+Movie{movieId=39768, title='Life is a Miracle (Zivot je cudo) (2004)', genres=[COMEDY, DRAMA, MUSICAL, ROMANCE, WAR]}
+Movie{movieId=39779, title='Tarzan and His Mate (1934)', genres=[ACTION, ADVENTURE]}
+Movie{movieId=39869, title='Manderlay (2005)', genres=[DRAMA]}
+Movie{movieId=39941, title='Love on the Run (Amour en fuite L') (1979)', genres=[COMEDY, DRAMA, ROMANCE]}
+Movie{movieId=40148, title='Revolver (2005)', genres=[CRIME, DRAMA, THRILLER]}
+Movie{movieId=40226, title='Wild Zero (2000)', genres=[ACTION, COMEDY, HORROR, ROMANCE, SCI_FI]}
+Movie{movieId=40278, title='Jarhead (2005)', genres=[ACTION, DRAMA, WAR]}
+Movie{movieId=40339, title='Chicken Little (2005)', genres=[ACTION, ADVENTURE, ANIMATION, CHILDREN, COMEDY, SCI_FI]}
+Movie{movieId=40412, title='Dead Man's Shoes (2004)', genres=[CRIME, THRILLER]}
+Movie{movieId=40414, title='Joyeux Noël (Merry Christmas) (2005)', genres=[DRAMA, WAR]}
+Movie{movieId=40491, title='Match Factory Girl The (Tulitikkutehtaan tyttö) (1990)', genres=[COMEDY, DRAMA]}
+Movie{movieId=40574, title='Get Rich or Die Tryin' (2005)', genres=[ACTION, CRIME, DRAMA]}
+Movie{movieId=40581, title='Just Friends (2005)', genres=[COMEDY, ROMANCE]}
+Movie{movieId=40583, title='Syriana (2005)', genres=[DRAMA, THRILLER]}
+Movie{movieId=40597, title='One-Way Ticket to Mombasa (Menolippu Mombasaan) (2002)', genres=[COMEDY, DRAMA]}
+Movie{movieId=40614, title='Derailed (2005)', genres=[DRAMA, THRILLER]}
+Movie{movieId=40629, title='Pride & Prejudice (2005)', genres=[DRAMA, ROMANCE]}
+Movie{movieId=40723, title='Wolf Creek (2005)', genres=[CRIME, HORROR, THRILLER]}
+Movie{movieId=40732, title='Descent The (2005)', genres=[ADVENTURE, DRAMA, HORROR, THRILLER]}
+Movie{movieId=40815, title='Harry Potter and the Goblet of Fire (2005)', genres=[ADVENTURE, FANTASY, THRILLER, IMAX]}
+Movie{movieId=40817, title='Dinner with Friends (2001)', genres=[COMEDY, DRAMA]}
+Movie{movieId=40819, title='Walk the Line (2005)', genres=[DRAMA, MUSICAL, ROMANCE]}
+Movie{movieId=40826, title='Rent (2005)', genres=[DRAMA, MUSICAL, ROMANCE]}
+Movie{movieId=40833, title='Fists in the Pocket (Pugni in tasca I) (1965)', genres=[DRAMA]}
+Movie{movieId=40851, title='Zathura (2005)', genres=[ACTION, ADVENTURE, CHILDREN, FANTASY]}
+Movie{movieId=40870, title='C.R.A.Z.Y. (2005)', genres=[DRAMA]}
+Movie{movieId=40946, title='Sarah Silverman: Jesus Is Magic (2005)', genres=[COMEDY, MUSICAL]}
+Movie{movieId=40959, title='Ice Harvest The (2005)', genres=[ACTION, COMEDY, CRIME, THRILLER]}
+Movie{movieId=41226, title='Sounder (1972)', genres=[DRAMA]}
+Movie{movieId=41285, title='Match Point (2005)', genres=[CRIME, DRAMA, ROMANCE]}
+Movie{movieId=41336, title='Nazarin (Nazarín) (1959)', genres=[DRAMA]}
+Movie{movieId=41527, title='Paradise Now (2005)', genres=[CRIME, DRAMA, THRILLER, WAR]}
+Movie{movieId=41566, title='Chronicles of Narnia: The Lion', genres=[NON_GENRE_LISTED]}
+Movie{movieId=41569, title='King Kong (2005)', genres=[ACTION, ADVENTURE, DRAMA, FANTASY, THRILLER]}
+Movie{movieId=41571, title='Memoirs of a Geisha (2005)', genres=[DRAMA, ROMANCE]}
+Movie{movieId=41573, title='Family Stone The (2005)', genres=[COMEDY, DRAMA, ROMANCE]}
+Movie{movieId=41585, title='Kiss of Death (1947)', genres=[CRIME, DRAMA, FILM_NOIR]}
+Movie{movieId=41714, title='Dona Flor and Her Two Husbands (Dona Flor e Seus Dois Maridos) (1976)', genres=[COMEDY]}
+Movie{movieId=41716, title='Matador The (2005)', genres=[COMEDY, DRAMA, THRILLER]}
+Movie{movieId=41769, title='Mozart and the Whale (2005)', genres=[COMEDY, DRAMA, ROMANCE]}
+Movie{movieId=41863, title='Three Burials of Melquiades Estrada The (2006)', genres=[ADVENTURE, CRIME, DRAMA]}
+Movie{movieId=41912, title='Slim Susie (Smala Sussie) (2003)', genres=[COMEDY, CRIME, MYSTERY]}
+Movie{movieId=41997, title='Munich (2005)', genres=[ACTION, CRIME, DRAMA, THRILLER]}
+Movie{movieId=42002, title='Producers The (2005)', genres=[COMEDY, MUSICAL]}
+Movie{movieId=42004, title='Transamerica (2005)', genres=[ADVENTURE, COMEDY, DRAMA]}
+Movie{movieId=42007, title='Rumor Has It... (2005)', genres=[COMEDY, DRAMA, ROMANCE]}
+Movie{movieId=42009, title='Cheaper by the Dozen 2 (2005)', genres=[ADVENTURE, COMEDY]}
+Movie{movieId=42011, title='Fun with Dick and Jane (2005)', genres=[COMEDY, CRIME]}
+Movie{movieId=42013, title='Ringer The (2005)', genres=[COMEDY]}
+Movie{movieId=42015, title='Casanova (2005)', genres=[ACTION, ADVENTURE, COMEDY, DRAMA, ROMANCE]}
+Movie{movieId=42163, title='Richard Pryor: Live in Concert (1979)', genres=[COMEDY, DOCUMENTARY]}
+Movie{movieId=42191, title='Luxo Jr. (1986)', genres=[ANIMATION, CHILDREN]}
+Movie{movieId=42197, title='Keeping Mum (2005)', genres=[COMEDY, CRIME]}
+Movie{movieId=42217, title='Late Spring (Banshun) (1949)', genres=[DRAMA]}
+Movie{movieId=42351, title='Threads (1984)', genres=[DRAMA, SCI_FI, WAR]}
+Movie{movieId=42418, title='New World The (2005)', genres=[ADVENTURE, DRAMA, ROMANCE]}
+Movie{movieId=42632, title='Lady Vengeance (Sympathy for Lady Vengeance) (Chinjeolhan geumjassi) (2005)', genres=[CRIME, DRAMA, MYSTERY, THRILLER]}
+Movie{movieId=42677, title='Cutting Edge: The Magic of Movie Editing The (2004)', genres=[DOCUMENTARY]}
+Movie{movieId=42681, title='49th Parallel (1941)', genres=[ADVENTURE, DRAMA, THRILLER, WAR]}
+Movie{movieId=42718, title='District 13 (Banlieue 13) (2004)', genres=[ACTION, CRIME, SCI_FI]}
+Movie{movieId=42721, title='BloodRayne (2005)', genres=[ACTION, FANTASY]}
+Movie{movieId=42723, title='Hostel (2005)', genres=[HORROR]}
+Movie{movieId=42725, title='Grandma's Boy (2006)', genres=[COMEDY]}
+Movie{movieId=42728, title='Tristan & Isolde (2006)', genres=[DRAMA, ROMANCE]}
+Movie{movieId=42730, title='Glory Road (2006)', genres=[DRAMA]}
+Movie{movieId=42732, title='Last Holiday (2006)', genres=[COMEDY]}
+Movie{movieId=42734, title='Hoodwinked! (2005)', genres=[ANIMATION, CHILDREN, COMEDY]}
+Movie{movieId=42738, title='Underworld: Evolution (2006)', genres=[ACTION, FANTASY, HORROR]}
+Movie{movieId=42740, title='Looking for Comedy in the Muslim World (2005)', genres=[COMEDY]}
+Movie{movieId=42783, title='Shadows of Our Forgotten Ancestors (Tini zabutykh predkiv) (1964)', genres=[DRAMA, ROMANCE]}
+Movie{movieId=42900, title='Cul-de-sac (1966)', genres=[COMEDY, CRIME, DRAMA, THRILLER]}
+Movie{movieId=42935, title='Riding Alone for Thousands of Miles (Qian li zou dan qi) (2005)', genres=[DRAMA]}
+Movie{movieId=42946, title='Project A ('A' gai waak) (1983)', genres=[ACTION, COMEDY]}
+Movie{movieId=42958, title='Little Manhattan (2005)', genres=[CHILDREN, COMEDY, ROMANCE]}
+Movie{movieId=43177, title='Over the Edge (1979)', genres=[CRIME, DRAMA]}
+Movie{movieId=43267, title='On Probation (Tiempo de Valientes) (2005)', genres=[ACTION, COMEDY]}
+Movie{movieId=43333, title='Water (2005)', genres=[DRAMA, ROMANCE]}
+Movie{movieId=43351, title='Temptations The (1998)', genres=[DRAMA, MUSICAL]}
+Movie{movieId=43376, title='Sophie Scholl: The Final Days (Sophie Scholl - Die letzten Tage) (2005)', genres=[DRAMA, WAR]}
+Movie{movieId=43391, title='Matti: Hell Is for Heroes (Matti) (2006)', genres=[COMEDY, DRAMA]}
+Movie{movieId=43396, title='World's Fastest Indian The (2005)', genres=[DRAMA]}
+Movie{movieId=43419, title='Bandidas (2006)', genres=[ACTION, COMEDY, CRIME, WESTERN]}
+Movie{movieId=43556, title='Annapolis (2006)', genres=[DRAMA]}
+Movie{movieId=43558, title='Big Momma's House 2 (2006)', genres=[ACTION, COMEDY, CRIME]}
+Movie{movieId=43560, title='Nanny McPhee (2005)', genres=[CHILDREN, COMEDY, FANTASY]}
+Movie{movieId=43635, title='Bye Bye Birdie (1963)', genres=[COMEDY, MUSICAL]}
+Movie{movieId=43679, title='Final Destination 3 (2006)', genres=[HORROR, MYSTERY, THRILLER]}
+Movie{movieId=43708, title='Block Party (a.k.a. Dave Chappelle's Block Party) (2005)', genres=[COMEDY, DOCUMENTARY]}
+Movie{movieId=43744, title='Imagine Me & You (2005)', genres=[COMEDY, DRAMA, ROMANCE]}
+Movie{movieId=43832, title='Call of Cthulhu The (2005)', genres=[HORROR, THRILLER]}
+Movie{movieId=43836, title='Pink Panther The (2006)', genres=[ADVENTURE, COMEDY, CRIME]}
+Movie{movieId=43838, title='Troll (1986)', genres=[COMEDY, FANTASY, HORROR]}
+Movie{movieId=43869, title='Curious George (2006)', genres=[ADVENTURE, ANIMATION, CHILDREN, COMEDY]}
+Movie{movieId=43871, title='Firewall (2006)', genres=[CRIME, DRAMA, THRILLER]}
+Movie{movieId=43899, title='Tony Takitani (2004)', genres=[DRAMA]}
+Movie{movieId=43904, title='When a Stranger Calls (2006)', genres=[HORROR, THRILLER]}
+Movie{movieId=43908, title='London (2005)', genres=[DRAMA]}
+Movie{movieId=43910, title='Neil Young: Heart of Gold (2006)', genres=[DOCUMENTARY, MUSICAL]}
+Movie{movieId=43917, title='Eight Below (2006)', genres=[ACTION, ADVENTURE, DRAMA, ROMANCE]}
+Movie{movieId=43919, title='Date Movie (2006)', genres=[COMEDY, ROMANCE]}
+Movie{movieId=43921, title='Running Scared (2006)', genres=[ACTION, CRIME, THRILLER]}
+Movie{movieId=43928, title='Ultraviolet (2006)', genres=[ACTION, FANTASY, SCI_FI, THRILLER]}
+Movie{movieId=43930, title='Just My Luck (2006)', genres=[COMEDY, ROMANCE]}
+Movie{movieId=43932, title='Pulse (2006)', genres=[ACTION, DRAMA, FANTASY, HORROR, MYSTERY, SCI_FI, THRILLER]}
+Movie{movieId=43936, title='16 Blocks (2006)', genres=[CRIME, THRILLER]}
+Movie{movieId=44004, title='Failure to Launch (2006)', genres=[COMEDY, ROMANCE]}
+Movie{movieId=44022, title='Ice Age 2: The Meltdown (2006)', genres=[ADVENTURE, ANIMATION, CHILDREN, COMEDY]}
+Movie{movieId=44073, title='Stromboli (1950)', genres=[DRAMA]}
+Movie{movieId=44191, title='V for Vendetta (2006)', genres=[ACTION, SCI_FI, THRILLER, IMAX]}
+Movie{movieId=44193, title='She's the Man (2006)', genres=[COMEDY, ROMANCE]}
+Movie{movieId=44195, title='Thank You for Smoking (2006)', genres=[COMEDY, DRAMA]}
+Movie{movieId=44197, title='Find Me Guilty (2006)', genres=[COMEDY, CRIME, DRAMA]}
+Movie{movieId=44199, title='Inside Man (2006)', genres=[CRIME, DRAMA, THRILLER]}
+Movie{movieId=44204, title='Tsotsi (2005)', genres=[CRIME, DRAMA]}
+Movie{movieId=44225, title='Aquamarine (2006)', genres=[CHILDREN, COMEDY, FANTASY]}
+Movie{movieId=44245, title='Leprechaun in the Hood (2000)', genres=[ACTION, COMEDY, HORROR]}
+Movie{movieId=44301, title='Lights in the Dusk (Laitakaupungin valot) (2006)', genres=[CRIME, DRAMA]}
+Movie{movieId=44317, title='Kummeli Stories (1995)', genres=[COMEDY]}
+Movie{movieId=44397, title='Hills Have Eyes The (2006)', genres=[DRAMA, HORROR, THRILLER]}
+Movie{movieId=44421, title='Personal Journey with Martin Scorsese Through American Movies A (1995)', genres=[DOCUMENTARY]}
+Movie{movieId=44511, title='Unknown White Male (2005)', genres=[DOCUMENTARY]}
+Movie{movieId=44555, title='Lives of Others The (Das leben der Anderen) (2006)', genres=[DRAMA, ROMANCE, THRILLER]}
+Movie{movieId=44587, title='Nanook of the North (1922)', genres=[DOCUMENTARY, DRAMA]}
+Movie{movieId=44597, title='Youth of the Beast (Yaju no seishun) (1963)', genres=[ACTION, CRIME, MYSTERY]}
+Movie{movieId=44613, title='Take the Lead (2006)', genres=[DRAMA]}
+Movie{movieId=44633, title='Devil and Daniel Johnston The (2005)', genres=[DOCUMENTARY]}
+Movie{movieId=44665, title='Lucky Number Slevin (2006)', genres=[CRIME, DRAMA, MYSTERY]}
+Movie{movieId=44671, title='Wild Blue Yonder The (2005)', genres=[SCI_FI]}
+Movie{movieId=44694, title='Volver (2006)', genres=[COMEDY, DRAMA]}
+Movie{movieId=44709, title='Akeelah and the Bee (2006)', genres=[DRAMA]}
+Movie{movieId=44717, title='Lisbela e o Prisioneiro (Lisbela and the Prisoner) (2003)', genres=[COMEDY, ROMANCE]}
+Movie{movieId=44731, title='Stay Alive (2006)', genres=[HORROR, SCI_FI, THRILLER]}
+Movie{movieId=44759, title='Basic Instinct 2 (2006)', genres=[CRIME, DRAMA, MYSTERY, THRILLER]}
+Movie{movieId=44761, title='Brick (2005)', genres=[CRIME, DRAMA, FILM_NOIR, MYSTERY]}
+Movie{movieId=44788, title='This Film Is Not Yet Rated (2006)', genres=[DOCUMENTARY]}
+Movie{movieId=44828, title='Slither (2006)', genres=[COMEDY, HORROR, SCI_FI]}
+Movie{movieId=44840, title='Benchwarmers The (2006)', genres=[COMEDY]}
+Movie{movieId=44849, title='Renaissance (2006)', genres=[ACTION, ANIMATION, FILM_NOIR, SCI_FI, THRILLER]}
+Movie{movieId=44864, title='Friends with Money (2006)', genres=[COMEDY, DRAMA, ROMANCE]}
+Movie{movieId=44911, title='Magic (1978)', genres=[DRAMA, HORROR, ROMANCE, THRILLER]}
+Movie{movieId=44972, title='Scary Movie 4 (2006)', genres=[COMEDY, HORROR]}
+Movie{movieId=44974, title='Hard Candy (2005)', genres=[DRAMA, THRILLER]}
+Movie{movieId=45000, title='Chinoise La (1967)', genres=[COMEDY, DRAMA]}
+Movie{movieId=45028, title='Prairie Home Companion A (2006)', genres=[COMEDY, DRAMA, MUSICAL]}
+Movie{movieId=45062, title='Sentinel The (2006)', genres=[CRIME, DRAMA, THRILLER]}
+Movie{movieId=45081, title='Silent Hill (2006)', genres=[FANTASY, HORROR, THRILLER]}
+Movie{movieId=45172, title='23 (23 - Nichts ist so wie es scheint) (1998)', genres=[DRAMA, THRILLER]}
+Movie{movieId=45179, title='Glass Key The (1942)', genres=[CRIME, DRAMA, FILM_NOIR, MYSTERY]}
+Movie{movieId=45183, title='Protector The (a.k.a. Warrior King) (Tom yum goong) (2005)', genres=[ACTION, COMEDY, CRIME, THRILLER]}
+Movie{movieId=45186, title='Mission: Impossible III (2006)', genres=[ACTION, ADVENTURE, THRILLER]}
+Movie{movieId=45208, title='RV (2006)', genres=[ADVENTURE, CHILDREN, COMEDY]}
+Movie{movieId=45210, title='United 93 (2006)', genres=[CRIME, DRAMA]}
+Movie{movieId=45221, title='Stick It (2006)', genres=[COMEDY]}
+Movie{movieId=45382, title='Down in the Valley (2005)', genres=[DRAMA, ROMANCE]}
+Movie{movieId=45431, title='Over the Hedge (2006)', genres=[ADVENTURE, ANIMATION, CHILDREN, COMEDY]}
+Movie{movieId=45440, title='Art School Confidential (2006)', genres=[COMEDY, DRAMA]}
+Movie{movieId=45442, title='Poseidon (2006)', genres=[ACTION, ADVENTURE, THRILLER, IMAX]}
+Movie{movieId=45447, title='Da Vinci Code The (2006)', genres=[DRAMA, MYSTERY, THRILLER]}
+Movie{movieId=45499, title='X-Men: The Last Stand (2006)', genres=[ACTION, SCI_FI, THRILLER]}
+Movie{movieId=45501, title='Break-Up The (2006)', genres=[COMEDY, DRAMA, ROMANCE]}
+Movie{movieId=45506, title='Twelve and Holding (2005)', genres=[DRAMA]}
+Movie{movieId=45517, title='Cars (2006)', genres=[ANIMATION, CHILDREN, COMEDY]}
+Movie{movieId=45521, title='Wassup Rockers (2005)', genres=[COMEDY, DRAMA]}
+Movie{movieId=45662, title='Omen The (2006)', genres=[HORROR, THRILLER]}
+Movie{movieId=45666, title='Nacho Libre (2006)', genres=[COMEDY]}
+Movie{movieId=45668, title='Lake House The (2006)', genres=[DRAMA, FANTASY, ROMANCE]}
+Movie{movieId=45672, title='Click (2006)', genres=[ADVENTURE, COMEDY, DRAMA, FANTASY, ROMANCE]}
+Movie{movieId=45679, title='Seventh Victim The (1943)', genres=[DRAMA, FILM_NOIR, HORROR, MYSTERY]}
+Movie{movieId=45720, title='Devil Wears Prada The (2006)', genres=[COMEDY, DRAMA]}
+Movie{movieId=45722, title='Pirates of the Caribbean: Dead Man's Chest (2006)', genres=[ACTION, ADVENTURE, FANTASY]}
+Movie{movieId=45726, title='You Me and Dupree (2006)', genres=[COMEDY]}
+Movie{movieId=45728, title='Clerks II (2006)', genres=[COMEDY]}
+Movie{movieId=45730, title='Lady in the Water (2006)', genres=[DRAMA, FANTASY, MYSTERY]}
+Movie{movieId=45732, title='My Super Ex-Girlfriend (2006)', genres=[COMEDY, FANTASY, ROMANCE]}
+Movie{movieId=45837, title='Let It Be (1970)', genres=[DOCUMENTARY]}
+Movie{movieId=45880, title='Marie Antoinette (2006)', genres=[DRAMA, ROMANCE]}
+Movie{movieId=45928, title='Who Killed the Electric Car? (2006)', genres=[DOCUMENTARY]}
+Movie{movieId=45942, title='Mother and the Whore', genres=[NON_GENRE_LISTED]}
+Movie{movieId=45950, title='Inconvenient Truth An (2006)', genres=[DOCUMENTARY]}
+Movie{movieId=45969, title='Career Opportunities (1991)', genres=[COMEDY, ROMANCE]}
+Movie{movieId=45987, title='Chuck Berry Hail! Hail! Rock 'n' Roll (1987)', genres=[DOCUMENTARY, MUSICAL]}
+Movie{movieId=46062, title='High School Musical (2006)', genres=[CHILDREN, COMEDY, DRAMA, MUSICAL, ROMANCE]}
+Movie{movieId=46322, title='Jet Li's Fearless (Huo Yuan Jia) (2006)', genres=[ACTION, DRAMA]}
+Movie{movieId=46335, title='Fast and the Furious: Tokyo Drift', genres=[NON_GENRE_LISTED]}
+Movie{movieId=46337, title='Garfield: A Tail of Two Kitties (2006)', genres=[ANIMATION, CHILDREN, COMEDY]}
+Movie{movieId=46347, title='Metal: A Headbanger's Journey (2005)', genres=[DOCUMENTARY]}
+Movie{movieId=46530, title='Superman Returns (2006)', genres=[ACTION, ADVENTURE, SCI_FI, IMAX]}
+Movie{movieId=46544, title='Edward II (1991)', genres=[DRAMA]}
+Movie{movieId=46559, title='Road to Guantanamo The (2006)', genres=[DRAMA, WAR]}
+Movie{movieId=46561, title='Leonard Cohen: I'm Your Man (2005)', genres=[DOCUMENTARY, MUSICAL]}
+Movie{movieId=46574, title='OH in Ohio The (2006)', genres=[COMEDY]}
+Movie{movieId=46578, title='Little Miss Sunshine (2006)', genres=[ADVENTURE, COMEDY, DRAMA]}
+Movie{movieId=46664, title='Fallen Idol The (1948)', genres=[DRAMA, MYSTERY, THRILLER]}
+Movie{movieId=46723, title='Babel (2006)', genres=[DRAMA, THRILLER]}
+Movie{movieId=46772, title='Strangers with Candy (2005)', genres=[COMEDY]}
+Movie{movieId=46850, title='Wordplay (2006)', genres=[DOCUMENTARY]}
+Movie{movieId=46855, title='Army of Shadows (L'armée des ombres) (1969)', genres=[ACTION, DRAMA, THRILLER, WAR]}
+Movie{movieId=46865, title='Little Man (2006)', genres=[COMEDY]}
+Movie{movieId=46919, title='End of the Spear (2005)', genres=[DRAMA]}
+Movie{movieId=46948, title='Monster House (2006)', genres=[ANIMATION, CHILDREN, FANTASY, MYSTERY]}
+Movie{movieId=46965, title='Snakes on a Plane (2006)', genres=[ACTION, COMEDY, HORROR, THRILLER]}
+Movie{movieId=46967, title='Scoop (2006)', genres=[COMEDY, FANTASY, MYSTERY]}
+Movie{movieId=46970, title='Talladega Nights: The Ballad of Ricky Bobby (2006)', genres=[ACTION, COMEDY]}
+Movie{movieId=46972, title='Night at the Museum (2006)', genres=[ACTION, COMEDY, FANTASY, IMAX]}
+Movie{movieId=46974, title='World Trade Center (2006)', genres=[DRAMA]}
+Movie{movieId=46976, title='Stranger than Fiction (2006)', genres=[COMEDY, DRAMA, FANTASY, ROMANCE]}
+Movie{movieId=47044, title='Miami Vice (2006)', genres=[ACTION, CRIME, DRAMA, THRILLER]}
+Movie{movieId=47092, title='On Dangerous Ground (1952)', genres=[CRIME, DRAMA, FILM_NOIR]}
+Movie{movieId=47099, title='Pursuit of Happyness The (2006)', genres=[DRAMA]}
+Movie{movieId=47122, title='John Tucker Must Die (2006)', genres=[COMEDY, ROMANCE]}
+Movie{movieId=47124, title='Ant Bully The (2006)', genres=[ADVENTURE, ANIMATION, CHILDREN, COMEDY, FANTASY, IMAX]}
+Movie{movieId=47148, title='Mrs. Palfrey at the Claremont (2005)', genres=[COMEDY, DRAMA]}
+Movie{movieId=47152, title='Cria Cuervos (1976)', genres=[DRAMA]}
+Movie{movieId=47196, title='Rainmaker The (1956)', genres=[COMEDY, ROMANCE, THRILLER, WESTERN]}
+Movie{movieId=47200, title='Crank (2006)', genres=[ACTION, THRILLER]}
+Movie{movieId=47202, title='Secret Life of Words The (2005)', genres=[DRAMA, ROMANCE]}
+Movie{movieId=47254, title='Chaos (2005)', genres=[ACTION, CRIME, DRAMA, THRILLER]}
+Movie{movieId=47261, title='Night Listener The (2006)', genres=[FANTASY, MYSTERY, THRILLER]}
+Movie{movieId=47274, title='Murmur of the Heart (Le souffle au coeur) (1971)', genres=[DRAMA]}
+Movie{movieId=47287, title='Compulsion (1959)', genres=[CRIME, DRAMA, THRILLER]}
+Movie{movieId=47330, title='Dirty Mary Crazy Larry (1974)', genres=[ACTION, CRIME, DRAMA, ROMANCE]}
+Movie{movieId=47382, title='Step Up (2006)', genres=[DRAMA, ROMANCE]}
+Movie{movieId=47384, title='Zoom (2006)', genres=[ADVENTURE, COMEDY, DRAMA, FANTASY]}
+Movie{movieId=47404, title='Mind Game (2004)', genres=[ADVENTURE, ANIMATION, COMEDY, FANTASY, ROMANCE, SCI_FI]}
+Movie{movieId=47423, title='Half Nelson (2006)', genres=[DRAMA]}
+Movie{movieId=47465, title='Tideland (2005)', genres=[DRAMA, FANTASY, THRILLER]}
+Movie{movieId=47491, title='Adam's Apples (Adams æbler) (2005)', genres=[COMEDY, DRAMA]}
+Movie{movieId=47493, title='Cabin in the Sky (1943)', genres=[FANTASY, MUSICAL]}
+Movie{movieId=47518, title='Accepted (2006)', genres=[COMEDY]}
+Movie{movieId=47606, title='Captain January (1936)', genres=[CHILDREN, COMEDY, MUSICAL]}
+Movie{movieId=47610, title='Illusionist The (2006)', genres=[DRAMA, FANTASY, MYSTERY, ROMANCE]}
+Movie{movieId=47629, title='The Queen (2006)', genres=[DRAMA]}
+Movie{movieId=47640, title='Beerfest (2006)', genres=[COMEDY]}
+Movie{movieId=47714, title='Blithe Spirit (1945)', genres=[COMEDY, DRAMA, FANTASY, ROMANCE]}
+Movie{movieId=47721, title='Red Balloon', genres=[NON_GENRE_LISTED]}
+Movie{movieId=47728, title='Green for Danger (1946)', genres=[CRIME, MYSTERY]}
+Movie{movieId=47810, title='Wicker Man The (2006)', genres=[HORROR, MYSTERY, THRILLER]}
+Movie{movieId=47815, title='Crossover (2006)', genres=[ACTION, DRAMA]}
+Movie{movieId=47894, title='Wind That Shakes the Barley The (2006)', genres=[DRAMA, WAR]}
+Movie{movieId=47937, title='Severance (2006)', genres=[COMEDY, HORROR, THRILLER]}
+Movie{movieId=47950, title='Hollywoodland (2006)', genres=[CRIME, DRAMA, MYSTERY, THRILLER]}
+Movie{movieId=47952, title='Covenant The (2006)', genres=[ACTION, HORROR, THRILLER]}
+Movie{movieId=47978, title='SherryBaby (2006)', genres=[DRAMA]}
+Movie{movieId=47997, title='Idiocracy (2006)', genres=[ADVENTURE, COMEDY, SCI_FI, THRILLER]}
+Movie{movieId=47999, title='Jesus Camp (2006)', genres=[DOCUMENTARY, DRAMA]}
+Movie{movieId=48032, title='Tiger and the Snow The (La tigre e la neve) (2005)', genres=[COMEDY, DRAMA, ROMANCE, WAR]}
+Movie{movieId=48043, title='Fountain The (2006)', genres=[DRAMA, FANTASY, ROMANCE]}
+Movie{movieId=48061, title='Snoopy Come Home (1972)', genres=[ANIMATION, CHILDREN, COMEDY, MUSICAL]}
+Movie{movieId=48082, title='Science of Sleep The (La science des rêves) (2006)', genres=[COMEDY, DRAMA, FANTASY, ROMANCE]}
+Movie{movieId=48142, title='Black Dahlia The (2006)', genres=[CRIME, DRAMA, MYSTERY, THRILLER]}
+Movie{movieId=48159, title='Everyone's Hero (2006)', genres=[ADVENTURE, ANIMATION, CHILDREN, COMEDY]}
+Movie{movieId=48165, title='Seventh Continent The (Der siebente Kontinent) (1989)', genres=[DRAMA]}
+Movie{movieId=48198, title='Streamers (1983)', genres=[DRAMA, WAR]}
+Movie{movieId=48231, title='Taxidermia (2006)', genres=[COMEDY, DRAMA, HORROR]}
+Movie{movieId=48262, title='Bridge The (2006)', genres=[DOCUMENTARY]}
+Movie{movieId=48268, title='Empire Falls (2005)', genres=[DRAMA, ROMANCE]}
+Movie{movieId=48301, title='Private Life of Henry VIII The (1933)', genres=[COMEDY, DRAMA]}
+Movie{movieId=48304, title='Apocalypto (2006)', genres=[ADVENTURE, DRAMA, THRILLER]}
+Movie{movieId=48319, title='Flyboys (2006)', genres=[ACTION, ADVENTURE, DRAMA, WAR]}
+Movie{movieId=48322, title='Jackass Number Two (2006)', genres=[COMEDY, DOCUMENTARY]}
+Movie{movieId=48385, title='Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan (2006)', genres=[COMEDY]}
+Movie{movieId=48394, title='Pan's Labyrinth (Laberinto del fauno El) (2006)', genres=[DRAMA, FANTASY, THRILLER]}
+Movie{movieId=48414, title='Open Season (2006)', genres=[ADVENTURE, ANIMATION, CHILDREN, COMEDY, IMAX]}
+Movie{movieId=48501, title='G.O.R.A. (2004)', genres=[ADVENTURE, COMEDY, SCI_FI]}
+Movie{movieId=48516, title='Departed The (2006)', genres=[CRIME, DRAMA, THRILLER]}
+Movie{movieId=48518, title='Texas Chainsaw Massacre: The Beginning The (2006)', genres=[HORROR, THRILLER]}
+Movie{movieId=48520, title='Employee of the Month (2006)', genres=[COMEDY]}
+Movie{movieId=48522, title='Stormbreaker (Alex Rider: Operation Stormbreaker) (2006)', genres=[ACTION, CHILDREN]}
+Movie{movieId=48560, title='Running With Scissors (2006)', genres=[COMEDY, DRAMA]}
+Movie{movieId=48591, title='Grudge 2 The (2006)', genres=[DRAMA, HORROR, MYSTERY, THRILLER]}
+Movie{movieId=48593, title='Man of the Year (2006)', genres=[COMEDY, THRILLER]}
+Movie{movieId=48596, title='Marine The (2006)', genres=[ACTION, DRAMA, THRILLER]}
+Movie{movieId=48660, title='Elementary Particles The (Elementarteilchen) (2006)', genres=[DRAMA, ROMANCE]}
+Movie{movieId=48682, title='Offside (2006)', genres=[COMEDY, DRAMA]}
+Movie{movieId=48696, title='Little Children (2006)', genres=[DRAMA, ROMANCE]}
+Movie{movieId=48698, title='Deliver Us from Evil (2006)', genres=[DOCUMENTARY]}
+Movie{movieId=48711, title='Facing the Giants (2006)', genres=[ACTION, DRAMA]}
+Movie{movieId=48738, title='Last King of Scotland The (2006)', genres=[DRAMA, THRILLER]}
+Movie{movieId=48741, title='U.S. vs. John Lennon The (2006)', genres=[DOCUMENTARY]}
+Movie{movieId=48744, title='Shortbus (2006)', genres=[COMEDY, DRAMA, ROMANCE]}
+Movie{movieId=48774, title='Children of Men (2006)', genres=[ACTION, ADVENTURE, DRAMA, SCI_FI, THRILLER]}
+Movie{movieId=48780, title='Prestige The (2006)', genres=[DRAMA, MYSTERY, SCI_FI, THRILLER]}
+Movie{movieId=48783, title='Flags of Our Fathers (2006)', genres=[DRAMA, WAR]}
+Movie{movieId=48791, title='Flicka (2006)', genres=[CHILDREN, DRAMA]}
+Movie{movieId=48817, title='Sleeping Dogs Lie (a.k.a. Stay) (2006)', genres=[COMEDY, DRAMA, ROMANCE]}
+Movie{movieId=48856, title='Guide to Recognizing Your Saints A (2006)', genres=[CRIME, DRAMA]}
+Movie{movieId=48872, title='13 Tzameti (2005)', genres=[FILM_NOIR, THRILLER]}
+Movie{movieId=48877, title='Saw III (2006)', genres=[CRIME, HORROR, THRILLER]}
+Movie{movieId=48972, title='Lunacy (Sílení) (2006)', genres=[ANIMATION, HORROR]}
+Movie{movieId=48982, title='Flushed Away (2006)', genres=[ANIMATION, COMEDY]}
+Movie{movieId=48997, title='Perfume: The Story of a Murderer (2006)', genres=[CRIME, DRAMA, THRILLER]}
+Movie{movieId=49013, title='Santa Clause 3: The Escape Clause The (2006)', genres=[COMEDY, FANTASY]}
+Movie{movieId=49132, title='Shut Up & Sing (2006)', genres=[DOCUMENTARY]}
+Movie{movieId=49220, title='For Your Consideration (2006)', genres=[COMEDY]}
+Movie{movieId=49225, title='Street Fight (2005)', genres=[DOCUMENTARY]}
+Movie{movieId=49265, title='Shooting Dogs (a.k.a. Beyond the Gates) (2005)', genres=[DOCUMENTARY, DRAMA, WAR]}
+Movie{movieId=49272, title='Casino Royale (2006)', genres=[ACTION, ADVENTURE, THRILLER]}
+Movie{movieId=49274, title='Happy Feet (2006)', genres=[ADVENTURE, ANIMATION, CHILDREN, COMEDY, IMAX]}
+Movie{movieId=49278, title='Déjà Vu (Deja Vu) (2006)', genres=[ACTION, SCI_FI, THRILLER]}
+Movie{movieId=49280, title='Bobby (2006)', genres=[DRAMA]}
+Movie{movieId=49284, title='10 Items or Less (2006)', genres=[COMEDY, DRAMA, ROMANCE]}
+Movie{movieId=49286, title='Holiday The (2006)', genres=[COMEDY, ROMANCE]}
+Movie{movieId=49299, title='Luna de Avellaneda (2004)', genres=[DRAMA, ROMANCE]}
+Movie{movieId=49314, title='Harsh Times (2006)', genres=[ACTION, CRIME, DRAMA]}
+Movie{movieId=49394, title='Simon of the Desert (Simón del desierto) (1965)', genres=[DRAMA]}
+Movie{movieId=49396, title='Tenacious D in The Pick of Destiny (2006)', genres=[ADVENTURE, COMEDY, MUSICAL]}
+Movie{movieId=49526, title='National Lampoon's Van Wilder: The Rise of Taj (2006)', genres=[COMEDY]}
+Movie{movieId=49528, title='Turistas (2006)', genres=[ADVENTURE, DRAMA, HORROR, MYSTERY, THRILLER]}
+Movie{movieId=49530, title='Blood Diamond (2006)', genres=[ACTION, ADVENTURE, CRIME, DRAMA, THRILLER, WAR]}
+Movie{movieId=49647, title='Charlotte's Web (2006)', genres=[CHILDREN, COMEDY, DRAMA, FANTASY]}
+Movie{movieId=49649, title='Eragon (2006)', genres=[ACTION, ADVENTURE, FANTASY]}
+Movie{movieId=49651, title='Rocky Balboa (2006)', genres=[ACTION, DRAMA]}
+Movie{movieId=49688, title='Dam Busters The (1955)', genres=[ACTION, DRAMA, WAR]}
+Movie{movieId=49772, title='Painted Veil The (2006)', genres=[DRAMA, ROMANCE]}
+Movie{movieId=49817, title='Plague Dogs The (1982)', genres=[ADVENTURE, ANIMATION, DRAMA]}
+Movie{movieId=49822, title='Good Shepherd The (2006)', genres=[DRAMA, THRILLER]}
+Movie{movieId=49824, title='Dreamgirls (2006)', genres=[DRAMA, MUSICAL]}
+Movie{movieId=49902, title='Decameron', genres=[NON_GENRE_LISTED]}
+Movie{movieId=49910, title='Freedom Writers (2007)', genres=[DRAMA]}
+Movie{movieId=49917, title='When the Levees Broke: A Requiem in Four Acts (2006)', genres=[DOCUMENTARY]}
+Movie{movieId=49932, title='Inland Empire (2006)', genres=[DRAMA, MYSTERY, THRILLER]}
+Movie{movieId=49957, title='History Boys The (2006)', genres=[COMEDY, DRAMA]}
+Movie{movieId=49961, title='Notes on a Scandal (2006)', genres=[DRAMA]}
+Movie{movieId=50005, title='Curse of the Golden Flower (Man cheng jin dai huang jin jia) (2006)', genres=[ACTION, DRAMA]}
+Movie{movieId=50011, title='Bothersome Man', genres=[NON_GENRE_LISTED]}
+Movie{movieId=50064, title='Good German The (2006)', genres=[DRAMA, MYSTERY, THRILLER]}
+Movie{movieId=50068, title='Letters from Iwo Jima (2006)', genres=[DRAMA, WAR]}
+Movie{movieId=50147, title='Black Christmas (2006)', genres=[ACTION, HORROR, THRILLER]}
+Movie{movieId=50160, title='Miss Potter (2006)', genres=[DRAMA]}
+Movie{movieId=50162, title='Arthur and the Invisibles (2007)', genres=[ACTION, CHILDREN, FANTASY]}
+Movie{movieId=50189, title='American Pie Presents The Naked Mile (American Pie 5: The Naked Mile) (2006)', genres=[COMEDY, ROMANCE]}
+Movie{movieId=50245, title='Alice in the Cities (Alice in den Stadten) (1974)', genres=[DRAMA]}
+Movie{movieId=50259, title='Old Joy (2006)', genres=[DRAMA]}
+Movie{movieId=50442, title='Alpha Dog (2007)', genres=[CRIME, DRAMA]}
+Movie{movieId=50445, title='Hitcher The (2007)', genres=[ACTION, HORROR, THRILLER]}
+Movie{movieId=50514, title='After the Wedding (Efter brylluppet) (2006)', genres=[DRAMA]}
+Movie{movieId=50583, title='Linda Linda Linda (2005)', genres=[COMEDY, DRAMA]}
+Movie{movieId=50601, title='Bridge to Terabithia (2007)', genres=[ADVENTURE, CHILDREN, FANTASY]}
+Movie{movieId=50641, title='House (Hausu) (1977)', genres=[COMEDY, FANTASY, HORROR]}
+Movie{movieId=50651, title='Kenny (2006)', genres=[COMEDY]}
+Movie{movieId=50658, title='49 Up (2005)', genres=[DOCUMENTARY]}
+Movie{movieId=50685, title='Waitress (2007)', genres=[COMEDY, DRAMA, ROMANCE]}
+Movie{movieId=50703, title='Secret The (2006)', genres=[DOCUMENTARY]}
+Movie{movieId=50740, title='Seven Up! (1964)', genres=[DOCUMENTARY]}
+Movie{movieId=50742, title='7 Plus Seven (1970)', genres=[DOCUMENTARY]}
+Movie{movieId=50792, title='Catch and Release (2006)', genres=[COMEDY, DRAMA, ROMANCE]}
+Movie{movieId=50794, title='Smokin' Aces (2006)', genres=[ACTION, CRIME, DRAMA, THRILLER]}
+Movie{movieId=50798, title='Epic Movie (2007)', genres=[ADVENTURE, COMEDY]}
+Movie{movieId=50802, title='Because I Said So (2007)', genres=[COMEDY, DRAMA, ROMANCE]}
+Movie{movieId=50804, title='Hannibal Rising (2007)', genres=[DRAMA, HORROR, THRILLER]}
+Movie{movieId=50806, title='Norbit (2007)', genres=[COMEDY, ROMANCE]}
+Movie{movieId=50842, title='Boss of It All The (Direktøren for det hele) (2006)', genres=[COMEDY, DRAMA]}
+Movie{movieId=50851, title='Cocaine Cowboys (2006)', genres=[DOCUMENTARY]}
+Movie{movieId=50872, title='Ratatouille (2007)', genres=[ANIMATION, CHILDREN, DRAMA]}
+Movie{movieId=50912, title='Paris', genres=[NON_GENRE_LISTED]}
+Movie{movieId=50923, title='Astronaut Farmer The (2007)', genres=[DRAMA]}
+Movie{movieId=50954, title='It's a Boy Girl Thing (2006)', genres=[COMEDY, ROMANCE]}
+Movie{movieId=51044, title='Magical Mystery Tour (1967)', genres=[COMEDY, MUSICAL]}
+Movie{movieId=51077, title='Ghost Rider (2007)', genres=[ACTION, FANTASY, THRILLER]}
+Movie{movieId=51080, title='Breach (2007)', genres=[DRAMA, THRILLER]}
+Movie{movieId=51084, title='Music and Lyrics (2007)', genres=[COMEDY, ROMANCE]}
+Movie{movieId=51086, title='Number 23 The (2007)', genres=[DRAMA, MYSTERY, THRILLER]}
+Movie{movieId=51088, title='Reno 911!: Miami (2007)', genres=[COMEDY]}
+Movie{movieId=51091, title='Black Snake Moan (2006)', genres=[DRAMA]}
+Movie{movieId=51094, title='Gray Matters (2006)', genres=[COMEDY, DRAMA, ROMANCE]}
+Movie{movieId=51127, title='loudQUIETloud: A Film About the Pixies (2006)', genres=[DOCUMENTARY]}
+Movie{movieId=51174, title='Factory Girl (2006)', genres=[DRAMA]}
+Movie{movieId=51207, title='Street Trash (1987)', genres=[COMEDY, HORROR]}
+Movie{movieId=51255, title='Hot Fuzz (2007)', genres=[ACTION, COMEDY, CRIME, MYSTERY]}
+Movie{movieId=51277, title='36th Chamber of Shaolin The (Shao Lin san shi liu fang) (Master Killer) (1978)', genres=[ACTION, ADVENTURE]}
+Movie{movieId=51304, title='Karla (2006)', genres=[CRIME, DRAMA, THRILLER]}
+Movie{movieId=51357, title='Citizen X (1995)', genres=[CRIME, DRAMA, THRILLER]}
+Movie{movieId=51372, title='Great Performances Cats (1998)', genres=[MUSICAL]}
+Movie{movieId=51380, title='Canterbury Tales The (I racconti di Canterbury) (1972)', genres=[COMEDY, DRAMA]}
+Movie{movieId=51412, title='Next (2007)', genres=[ACTION, SCI_FI, THRILLER]}
+Movie{movieId=51418, title='Breaking and Entering (2006)', genres=[DRAMA]}
+Movie{movieId=51471, title='Amazing Grace (2006)', genres=[DRAMA, ROMANCE]}
+Movie{movieId=51540, title='Zodiac (2007)', genres=[CRIME, DRAMA, THRILLER]}
+Movie{movieId=51575, title='Wild Hogs (2007)', genres=[ADVENTURE, COMEDY]}
+Movie{movieId=51662, title='300 (2007)', genres=[ACTION, FANTASY, WAR, IMAX]}
+Movie{movieId=51698, title='Last Mimzy The (2007)', genres=[ADVENTURE, CHILDREN, SCI_FI]}
+Movie{movieId=51705, title='Priceless (Hors de prix) (2006)', genres=[COMEDY, ROMANCE]}
+Movie{movieId=51709, title='Host The (Gwoemul) (2006)', genres=[COMEDY, DRAMA, HORROR, SCI_FI, THRILLER]}
+Movie{movieId=51773, title='America America (1963)', genres=[DRAMA]}
+Movie{movieId=51834, title='Becoming Jane (2007)', genres=[DRAMA, ROMANCE]}
+Movie{movieId=51884, title='Namesake The (2006)', genres=[DRAMA, ROMANCE]}
+Movie{movieId=51925, title='Premonition (2007)', genres=[DRAMA, FANTASY, MYSTERY, THRILLER]}
+Movie{movieId=51927, title='Dead Silence (2007)', genres=[HORROR, MYSTERY, THRILLER]}
+Movie{movieId=51931, title='Reign Over Me (2007)', genres=[DRAMA]}
+Movie{movieId=51935, title='Shooter (2007)', genres=[ACTION, DRAMA, THRILLER]}
+Movie{movieId=51937, title='Hills Have Eyes II The (2007)', genres=[HORROR, THRILLER]}
+Movie{movieId=51939, title='TMNT (Teenage Mutant Ninja Turtles) (2007)', genres=[ACTION, ADVENTURE, ANIMATION, CHILDREN, COMEDY, FANTASY]}
+Movie{movieId=52241, title='Lookout The (2007)', genres=[CRIME, DRAMA, THRILLER]}
+Movie{movieId=52245, title='Blades of Glory (2007)', genres=[COMEDY, ROMANCE]}
+Movie{movieId=52281, title='Grindhouse (2007)', genres=[ACTION, CRIME, HORROR, SCI_FI, THRILLER]}
+Movie{movieId=52287, title='Meet the Robinsons (2007)', genres=[ACTION, ADVENTURE, ANIMATION, CHILDREN, COMEDY, SCI_FI]}
+Movie{movieId=52319, title='Inglorious Bastards (Quel maledetto treno blindato) (1978)', genres=[ACTION, ADVENTURE, DRAMA, WAR]}
+Movie{movieId=52328, title='Sunshine (2007)', genres=[ADVENTURE, DRAMA, SCI_FI, THRILLER]}
+Movie{movieId=52378, title='No Way Out (1950)', genres=[DRAMA, FILM_NOIR]}
+Movie{movieId=52435, title='How the Grinch Stole Christmas! (1966)', genres=[ANIMATION, COMEDY, FANTASY, MUSICAL]}
+Movie{movieId=52456, title='Perfect Stranger (2007)', genres=[CRIME, DRAMA, MYSTERY, THRILLER]}
+Movie{movieId=52458, title='Disturbia (2007)', genres=[DRAMA, THRILLER]}
+Movie{movieId=52460, title='Pathfinder (2007)', genres=[ACTION, ADVENTURE, DRAMA, THRILLER, WAR]}
+Movie{movieId=52462, title='Aqua Teen Hunger Force Colon Movie Film for Theaters (2007)', genres=[ACTION, ADVENTURE, ANIMATION, COMEDY, FANTASY, MYSTERY, SCI_FI]}
+Movie{movieId=52528, title='Tristana (1970)', genres=[DRAMA]}
+Movie{movieId=52545, title='Puccini for Beginners (2006)', genres=[COMEDY, ROMANCE]}
+Movie{movieId=52579, title='Vie en Rose', genres=[NON_GENRE_LISTED]}
+Movie{movieId=52604, title='Fracture (2007)', genres=[CRIME, DRAMA, MYSTERY, THRILLER]}
+Movie{movieId=52606, title='Big Nothing (2006)', genres=[COMEDY, CRIME, THRILLER]}
+Movie{movieId=52617, title='Woman on the Beach (Haebyeonui yeoin) (2006)', genres=[COMEDY, DRAMA]}
+Movie{movieId=52644, title='Vacancy (2007)', genres=[HORROR, THRILLER]}
+Movie{movieId=52666, title='Benny's Video (1992)', genres=[DRAMA, HORROR]}
+Movie{movieId=52668, title='In the Land of Women (2007)', genres=[COMEDY, DRAMA, ROMANCE]}
+Movie{movieId=52694, title='Mr. Bean's Holiday (2007)', genres=[COMEDY]}
+Movie{movieId=52712, title='Invisible The (2007)', genres=[CRIME, DRAMA, FANTASY, MYSTERY, THRILLER]}
+Movie{movieId=52717, title='Condemned The (2007)', genres=[ACTION, ADVENTURE, CRIME, THRILLER]}
+Movie{movieId=52722, title='Spider-Man 3 (2007)', genres=[ACTION, ADVENTURE, SCI_FI, THRILLER, IMAX]}
+Movie{movieId=52730, title='It's a Very Merry Muppet Christmas Movie (2002)', genres=[CHILDREN, COMEDY]}
+Movie{movieId=52767, title='21 Up (1977)', genres=[DOCUMENTARY]}
+Movie{movieId=52831, title='Maniac Cop (1988)', genres=[ACTION, CRIME, HORROR, THRILLER]}
+Movie{movieId=52885, title='Paprika (Papurika) (2006)', genres=[ANIMATION, MYSTERY, SCI_FI]}
+Movie{movieId=52913, title='Sylvia Scarlett (1935)', genres=[COMEDY, DRAMA, ROMANCE]}
+Movie{movieId=52950, title='Day Watch (Dnevnoy dozor) (2006)', genres=[ACTION, FANTASY, HORROR, THRILLER]}
+Movie{movieId=52952, title='This Is England (2006)', genres=[DRAMA]}
+Movie{movieId=52967, title='Away from Her (2006)', genres=[DRAMA]}
+Movie{movieId=52973, title='Knocked Up (2007)', genres=[COMEDY, DRAMA, ROMANCE]}
+Movie{movieId=52975, title='Hairspray (2007)', genres=[COMEDY, DRAMA, MUSICAL]}
+Movie{movieId=53000, title='28 Weeks Later (2007)', genres=[HORROR, SCI_FI, THRILLER]}
+Movie{movieId=53024, title='Jonestown: The Life and Death of Peoples Temple (2006)', genres=[DOCUMENTARY]}
+Movie{movieId=53038, title='Red Dust (1932)', genres=[DRAMA]}
+Movie{movieId=53121, title='Shrek the Third (2007)', genres=[ADVENTURE, ANIMATION, CHILDREN, COMEDY, FANTASY]}
+Movie{movieId=53123, title='Once (2006)', genres=[DRAMA, MUSICAL, ROMANCE]}
+Movie{movieId=53125, title='Pirates of the Caribbean: At World's End (2007)', genres=[ACTION, ADVENTURE, COMEDY, FANTASY]}
+Movie{movieId=53129, title='Mr. Brooks (2007)', genres=[CRIME, DRAMA, THRILLER]}
+Movie{movieId=53133, title='Gracie (2007)', genres=[DRAMA]}
+Movie{movieId=53138, title='Librarian: Return to King Solomon's Mines The (2006)', genres=[ACTION, ADVENTURE, FANTASY]}
+Movie{movieId=53189, title='Eagle vs Shark (2007)', genres=[COMEDY]}
+Movie{movieId=53207, title='88 Minutes (2008)', genres=[CRIME, DRAMA, MYSTERY, THRILLER]}
+Movie{movieId=53318, title='Cashback (2006)', genres=[COMEDY, DRAMA, ROMANCE]}
+Movie{movieId=53322, title='Ocean's Thirteen (2007)', genres=[CRIME, THRILLER]}
+Movie{movieId=53326, title='Them (Ils) (2006)', genres=[HORROR]}
+Movie{movieId=53435, title='Hostel: Part II (2007)', genres=[CRIME, HORROR, THRILLER]}
+Movie{movieId=53447, title='Paranoid Park (2007)', genres=[CRIME, DRAMA]}
+Movie{movieId=53460, title='Surf's Up (2007)', genres=[ANIMATION, CHILDREN, COMEDY]}
+Movie{movieId=53464, title='Fantastic Four: Rise of the Silver Surfer (2007)', genres=[ACTION, ADVENTURE, SCI_FI]}
+Movie{movieId=53466, title='Nancy Drew (2007)', genres=[ADVENTURE, CRIME, THRILLER]}
+Movie{movieId=53468, title='Fido (2006)', genres=[COMEDY, HORROR, THRILLER]}
+Movie{movieId=53519, title='Death Proof (2007)', genres=[ACTION, ADVENTURE, CRIME, HORROR, THRILLER]}
+Movie{movieId=53550, title='Rescue Dawn (2006)', genres=[ACTION, ADVENTURE, DRAMA, WAR]}
+Movie{movieId=53737, title='Night of the Generals The (1967)', genres=[CRIME, DRAMA, MYSTERY, THRILLER, WAR]}
+Movie{movieId=53883, title='Power of Nightmares The: The Rise of the Politics of Fear (2004)', genres=[DOCUMENTARY]}
+Movie{movieId=53887, title='O Lucky Man! (1973)', genres=[COMEDY, DRAMA, FANTASY, MUSICAL]}
+Movie{movieId=53894, title='Sicko (2007)', genres=[DOCUMENTARY, DRAMA]}
+Movie{movieId=53953, title='1408 (2007)', genres=[DRAMA, HORROR, THRILLER]}
+Movie{movieId=53956, title='Death at a Funeral (2007)', genres=[COMEDY]}
+Movie{movieId=53972, title='Live Free or Die Hard (2007)', genres=[ACTION, ADVENTURE, CRIME, THRILLER]}
+Movie{movieId=53974, title='License to Wed (2007)', genres=[COMEDY, ROMANCE]}
+Movie{movieId=53993, title='Evan Almighty (2007)', genres=[COMEDY, FANTASY]}
+Movie{movieId=53996, title='Transformers (2007)', genres=[ACTION, SCI_FI, THRILLER, IMAX]}
+Movie{movieId=53999, title='Captivity (2007)', genres=[CRIME, THRILLER]}
+Movie{movieId=54001, title='Harry Potter and the Order of the Phoenix (2007)', genres=[ADVENTURE, DRAMA, FANTASY, IMAX]}
+Movie{movieId=54004, title='I Now Pronounce You Chuck and Larry (2007)', genres=[COMEDY, ROMANCE]}
+Movie{movieId=54190, title='Across the Universe (2007)', genres=[DRAMA, FANTASY, MUSICAL, ROMANCE]}
+Movie{movieId=54220, title='Sterile Cuckoo The (1969)', genres=[COMEDY, DRAMA]}
+Movie{movieId=54251, title='Dorian Blues (2004)', genres=[COMEDY]}
+Movie{movieId=54256, title='Hot Rod (2007)', genres=[COMEDY]}
+Movie{movieId=54259, title='Stardust (2007)', genres=[ADVENTURE, COMEDY, FANTASY, ROMANCE]}
+Movie{movieId=54270, title='Skinwalkers (2007)', genres=[HORROR, THRILLER]}
+Movie{movieId=54272, title='Simpsons Movie The (2007)', genres=[ANIMATION, COMEDY]}
+Movie{movieId=54276, title='No Reservations (2007)', genres=[COMEDY, DRAMA, ROMANCE]}
+Movie{movieId=54281, title='Charlie Bartlett (2007)', genres=[COMEDY, DRAMA]}
+Movie{movieId=54286, title='Bourne Ultimatum The (2007)', genres=[ACTION, CRIME, THRILLER]}
+Movie{movieId=54290, title='Bratz: The Movie (2007)', genres=[COMEDY]}
+Movie{movieId=54328, title='My Best Friend (Mon meilleur ami) (2006)', genres=[COMEDY]}
+Movie{movieId=54331, title='You Kill Me (2007)', genres=[COMEDY, CRIME, THRILLER]}
+Movie{movieId=54372, title='Tell No One (Ne le dis à personne) (2006)', genres=[CRIME, DRAMA, MYSTERY, THRILLER]}
+Movie{movieId=54419, title='Czech Dream (Ceský sen) (2004)', genres=[DOCUMENTARY]}
+Movie{movieId=54426, title='12:08 East of Bucharest (A fost sau n-a fost?) (2006)', genres=[COMEDY, DRAMA]}
+Movie{movieId=54503, title='Superbad (2007)', genres=[COMEDY]}
+Movie{movieId=54513, title='Talk to Me (2007)', genres=[DRAMA]}
+Movie{movieId=54648, title='Rush Hour 3 (2007)', genres=[ACTION, COMEDY, CRIME, THRILLER]}
+Movie{movieId=54732, title='Balls of Fury (2007)', genres=[COMEDY]}
+Movie{movieId=54734, title='Sydney White (2007)', genres=[COMEDY]}
+Movie{movieId=54736, title='Kingdom The (2007)', genres=[ACTION, DRAMA, THRILLER]}
+Movie{movieId=54745, title='Rocket Science (2007)', genres=[COMEDY, DRAMA]}
+Movie{movieId=54768, title='Daddy Day Camp (2007)', genres=[CHILDREN, COMEDY]}
+Movie{movieId=54771, title='Invasion The (2007)', genres=[ACTION, DRAMA, HORROR, SCI_FI, THRILLER]}
+Movie{movieId=54775, title='War (2007)', genres=[ACTION, THRILLER]}
+Movie{movieId=54780, title='Nanny Diaries The (2007)', genres=[COMEDY, DRAMA, ROMANCE]}
+Movie{movieId=54785, title='Halloween (2007)', genres=[HORROR]}
+Movie{movieId=54787, title='Death Sentence (2007)', genres=[DRAMA, THRILLER]}
+Movie{movieId=54881, title='King of Kong The (2007)', genres=[DOCUMENTARY]}
+Movie{movieId=54910, title='Behind the Mask: The Rise of Leslie Vernon (2006)', genres=[COMEDY, HORROR, THRILLER]}
+Movie{movieId=54995, title='Planet Terror (2007)', genres=[ACTION, HORROR, SCI_FI]}
+Movie{movieId=54997, title='3:10 to Yuma (2007)', genres=[ACTION, CRIME, DRAMA, WESTERN]}
+Movie{movieId=54999, title='Shoot 'Em Up (2007)', genres=[ACTION, COMEDY, CRIME]}
+Movie{movieId=55031, title='Evening with Kevin Smith An (2002)', genres=[COMEDY, DOCUMENTARY]}
+Movie{movieId=55052, title='Atonement (2007)', genres=[DRAMA, ROMANCE, WAR]}
+Movie{movieId=55063, title='My Winnipeg (2007)', genres=[DOCUMENTARY, FANTASY]}
+Movie{movieId=55069, title='4 Months', genres=[NON_GENRE_LISTED]}
+Movie{movieId=55071, title='No End in Sight (2007)', genres=[DOCUMENTARY]}
+Movie{movieId=55078, title='Far from the Madding Crowd (1967)', genres=[DRAMA, ROMANCE]}
+Movie{movieId=55094, title='In the Valley of Elah (2007)', genres=[DRAMA, MYSTERY]}
+Movie{movieId=55100, title='I Could Never Be Your Woman (2007)', genres=[COMEDY, ROMANCE]}
+Movie{movieId=55110, title='December Boys (2007)', genres=[DRAMA]}
+Movie{movieId=55116, title='Hunting Party The (2007)', genres=[ACTION, ADVENTURE, COMEDY, DRAMA, THRILLER]}
+Movie{movieId=55118, title='Eastern Promises (2007)', genres=[CRIME, DRAMA, THRILLER]}
+Movie{movieId=55156, title='Unreasonable Man An (2006)', genres=[DOCUMENTARY]}
+Movie{movieId=55167, title='Tekkonkinkreet (Tekkon kinkurîto) (2006)', genres=[ACTION, ADVENTURE, ANIMATION, CRIME, FANTASY]}
+Movie{movieId=55207, title='Cashback (2004)', genres=[COMEDY, DRAMA]}
+Movie{movieId=55232, title='Resident Evil: Extinction (2007)', genres=[ACTION, HORROR, SCI_FI, THRILLER]}
+Movie{movieId=55245, title='Good Luck Chuck (2007)', genres=[COMEDY, ROMANCE]}
+Movie{movieId=55247, title='Into the Wild (2007)', genres=[ACTION, ADVENTURE, DRAMA]}
+Movie{movieId=55250, title='Game Plan The (2007)', genres=[COMEDY]}
+Movie{movieId=55253, title='Lust', genres=[NON_GENRE_LISTED]}
+Movie{movieId=55259, title='Seeker: The Dark Is Rising The (2007)', genres=[ACTION, ADVENTURE, DRAMA, FANTASY]}
+Movie{movieId=55261, title='Heartbreak Kid The (2007)', genres=[COMEDY, DRAMA, ROMANCE]}
+Movie{movieId=55267, title='Dan in Real Life (2007)', genres=[COMEDY, DRAMA, ROMANCE]}
+Movie{movieId=55269, title='Darjeeling Limited The (2007)', genres=[ADVENTURE, COMEDY, DRAMA]}
+Movie{movieId=55272, title='We Own the Night (2007)', genres=[CRIME, DRAMA]}
+Movie{movieId=55274, title='Elizabeth: The Golden Age (2007)', genres=[DRAMA]}
+Movie{movieId=55276, title='Michael Clayton (2007)', genres=[DRAMA, THRILLER]}
+Movie{movieId=55280, title='Lars and the Real Girl (2007)', genres=[COMEDY, DRAMA]}
+Movie{movieId=55282, title='30 Days of Night (2007)', genres=[HORROR, THRILLER]}
+Movie{movieId=55290, title='Gone Baby Gone (2007)', genres=[CRIME, DRAMA, MYSTERY]}
+Movie{movieId=55294, title='Weirdsville (2007)', genres=[COMEDY, CRIME, DRAMA]}
+Movie{movieId=55363, title='Assassination of Jesse James by the Coward Robert Ford The (2007)', genres=[CRIME, DRAMA, WESTERN]}
+Movie{movieId=55417, title='Irina Palm (2007)', genres=[DRAMA]}
+Movie{movieId=55442, title='Persepolis (2007)', genres=[ANIMATION, DRAMA]}
+Movie{movieId=55444, title='Control (2007)', genres=[DRAMA]}
+Movie{movieId=55451, title='The Jane Austen Book Club (2007)', genres=[COMEDY, DRAMA, ROMANCE]}
+Movie{movieId=55498, title='Silk (2007)', genres=[ADVENTURE, DRAMA, ROMANCE]}
+Movie{movieId=55555, title='Edge of Heaven The (Auf der anderen Seite) (2007)', genres=[DRAMA]}
+Movie{movieId=55566, title='Tyler Perry's Why Did I Get Married? (2007)', genres=[COMEDY, DRAMA]}
+Movie{movieId=55577, title='Saw IV (2007)', genres=[CRIME, HORROR, THRILLER]}
+Movie{movieId=55652, title='Scum (1979)', genres=[CRIME, DRAMA]}
+Movie{movieId=55684, title='City of Violence The (Jjakpae) (2006)', genres=[ACTION, CRIME, DRAMA]}
+Movie{movieId=55687, title='My Kid Could Paint That (2007)', genres=[DOCUMENTARY]}
+Movie{movieId=55721, title='Elite Squad (Tropa de Elite) (2007)', genres=[ACTION, CRIME, DRAMA, THRILLER]}
+Movie{movieId=55732, title='Martian Child (2007)', genres=[COMEDY, DRAMA]}
+Movie{movieId=55757, title='Chilly Scenes of Winter (Head Over Heels) (1979)', genres=[COMEDY, DRAMA, ROMANCE]}
+Movie{movieId=55765, title='American Gangster (2007)', genres=[CRIME, DRAMA, THRILLER]}
+Movie{movieId=55768, title='Bee Movie (2007)', genres=[ANIMATION, COMEDY]}
+Movie{movieId=55805, title='Before the Devil Knows You're Dead (2007)', genres=[CRIME, DRAMA, THRILLER]}
+Movie{movieId=55814, title='Diving Bell and the Butterfly', genres=[NON_GENRE_LISTED]}
+Movie{movieId=55820, title='No Country for Old Men (2007)', genres=[CRIME, DRAMA]}
+Movie{movieId=55830, title='Be Kind Rewind (2008)', genres=[COMEDY]}
+Movie{movieId=55851, title='Crazy Love (2007)', genres=[DOCUMENTARY]}
+Movie{movieId=55872, title='August Rush (2007)', genres=[DRAMA, MUSICAL]}
+Movie{movieId=55895, title='Desperate Hours The (1955)', genres=[DRAMA, FILM_NOIR, THRILLER]}
+Movie{movieId=55908, title='Man from Earth The (2007)', genres=[DRAMA, SCI_FI]}
+Movie{movieId=55946, title='Lions For Lambs (2007)', genres=[DRAMA, THRILLER, WAR]}
+Movie{movieId=55995, title='Beowulf (2007)', genres=[ACTION, ADVENTURE, ANIMATION, FANTASY, IMAX]}
+Movie{movieId=55999, title='Mr. Magorium's Wonder Emporium (2007)', genres=[CHILDREN, COMEDY, FANTASY]}
+Movie{movieId=56003, title='Southland Tales (2006)', genres=[COMEDY, DRAMA, SCI_FI, THRILLER]}
+Movie{movieId=56015, title='Kansas City Confidential (1952)', genres=[CRIME, DRAMA, FILM_NOIR, MYSTERY]}
+Movie{movieId=56030, title='Darfur Now (2007)', genres=[DOCUMENTARY]}
+Movie{movieId=56069, title='Murder Party (2007)', genres=[COMEDY, DRAMA, HORROR, THRILLER]}
+Movie{movieId=56079, title='Smiley Face (2007)', genres=[COMEDY]}
+Movie{movieId=56095, title='XXY (2007)', genres=[DRAMA]}
+Movie{movieId=56145, title='Mist The (2007)', genres=[HORROR, SCI_FI]}
+Movie{movieId=56152, title='Enchanted (2007)', genres=[ADVENTURE, ANIMATION, CHILDREN, COMEDY, FANTASY, MUSICAL, ROMANCE]}
+Movie{movieId=56156, title='Hitman (2007)', genres=[ACTION, CRIME, THRILLER]}
+Movie{movieId=56169, title='Awake (2007)', genres=[DRAMA, THRILLER]}
+Movie{movieId=56171, title='Golden Compass The (2007)', genres=[ADVENTURE, CHILDREN, FANTASY]}
+Movie{movieId=56174, title='I Am Legend (2007)', genres=[ACTION, HORROR, SCI_FI, THRILLER, IMAX]}
+Movie{movieId=56176, title='Alvin and the Chipmunks (2007)', genres=[CHILDREN, COMEDY]}
+Movie{movieId=56251, title='Futurama: Bender's Big Score (2007)', genres=[ANIMATION, COMEDY, SCI_FI]}
+Movie{movieId=56274, title='Margot at the Wedding (2007)', genres=[DRAMA]}
+Movie{movieId=56286, title='I'm Not There (2007)', genres=[DRAMA]}
+Movie{movieId=56333, title='Savages The (2007)', genres=[COMEDY, DRAMA]}
+Movie{movieId=56336, title='Wrong Turn 2: Dead End (2007)', genres=[ACTION, HORROR, THRILLER]}
+Movie{movieId=56339, title='Orphanage', genres=[NON_GENRE_LISTED]}
+Movie{movieId=56367, title='Juno (2007)', genres=[COMEDY, DRAMA, ROMANCE]}
+Movie{movieId=56563, title='Helvetica (2007)', genres=[DOCUMENTARY]}
+Movie{movieId=56587, title='Bucket List The (2007)', genres=[COMEDY, DRAMA]}
+Movie{movieId=56607, title='Kite Runner The (2007)', genres=[DRAMA]}
+Movie{movieId=56633, title='Butterfly on a Wheel (Shattered) (2007)', genres=[CRIME, DRAMA, THRILLER]}
+Movie{movieId=56715, title='Wristcutters: A Love Story (2006)', genres=[DRAMA, FANTASY, ROMANCE]}
+Movie{movieId=56757, title='Sweeney Todd: The Demon Barber of Fleet Street (2007)', genres=[DRAMA, HORROR, MUSICAL, THRILLER]}
+Movie{movieId=56775, title='National Treasure: Book of Secrets (2007)', genres=[ACTION, ADVENTURE]}
+Movie{movieId=56782, title='There Will Be Blood (2007)', genres=[DRAMA, WESTERN]}
+Movie{movieId=56788, title='Charlie Wilson's War (2007)', genres=[COMEDY, DRAMA, WAR]}
+Movie{movieId=56801, title='AVPR: Aliens vs. Predator - Requiem (2007)', genres=[ACTION, HORROR, SCI_FI]}
+Movie{movieId=56805, title='Walk Hard: The Dewey Cox Story (2007)', genres=[COMEDY, MUSICAL]}
+Movie{movieId=56869, title='Drained (O cheiro do Ralo) (2006)', genres=[COMEDY]}
+Movie{movieId=56885, title='Great Debaters The (2007)', genres=[DRAMA]}
+Movie{movieId=56908, title='Dedication (2007)', genres=[COMEDY, DRAMA, ROMANCE]}
+Movie{movieId=56915, title='Water Horse: Legend of the Deep The (2007)', genres=[ADVENTURE, CHILDREN, FANTASY]}
+Movie{movieId=56921, title='Battlestar Galactica: Razor (2007)', genres=[ACTION, DRAMA, SCI_FI, THRILLER]}
+Movie{movieId=56941, title='P.S. I Love You (2007)', genres=[COMEDY, DRAMA, ROMANCE]}
+Movie{movieId=56949, title='27 Dresses (2008)', genres=[COMEDY, ROMANCE]}
+Movie{movieId=57038, title='To the Left of the Father (Lavoura Arcaica) (2001)', genres=[DRAMA]}
+Movie{movieId=57223, title='D-War (Dragon Wars) (2007)', genres=[ACTION, ADVENTURE, DRAMA, FANTASY]}
+Movie{movieId=57243, title='Band's Visit The (Bikur Ha-Tizmoret) (2007)', genres=[COMEDY, DRAMA]}
+Movie{movieId=57274, title='[REC] (2007)', genres=[DRAMA, HORROR, THRILLER]}
+Movie{movieId=57326, title='In the Name of the King: A Dungeon Siege Tale (2008)', genres=[ACTION, ADVENTURE, FANTASY]}
+Movie{movieId=57353, title='Flawless (2007)', genres=[CRIME, DRAMA]}
+Movie{movieId=57368, title='Cloverfield (2008)', genres=[ACTION, MYSTERY, SCI_FI, THRILLER]}
+Movie{movieId=57401, title='Cleaner (2007)', genres=[CRIME, THRILLER]}
+Movie{movieId=57418, title='Rachel Rachel (1968)', genres=[DRAMA, ROMANCE]}
+Movie{movieId=57430, title='Welcome to L.A. (1976)', genres=[DRAMA, MUSICAL]}
+Movie{movieId=57453, title='Arranged (2007)', genres=[COMEDY, DRAMA, ROMANCE]}
+Movie{movieId=57504, title='Girl Who Leapt Through Time The (Toki o kakeru shôjo) (2006)', genres=[ANIMATION, COMEDY, DRAMA, ROMANCE, SCI_FI]}
+Movie{movieId=57526, title='Untraceable (2008)', genres=[CRIME, THRILLER]}
+Movie{movieId=57528, title='Rambo (Rambo 4) (2008)', genres=[ACTION, DRAMA, THRILLER, WAR]}
+Movie{movieId=57532, title='Meet the Spartans (2008)', genres=[COMEDY]}
+Movie{movieId=57640, title='Hellboy II: The Golden Army (2008)', genres=[ACTION, ADVENTURE, FANTASY, SCI_FI]}
+Movie{movieId=57669, title='In Bruges (2008)', genres=[COMEDY, CRIME, DRAMA, THRILLER]}
+Movie{movieId=57792, title='Caramel (Sukkar banat) (2007)', genres=[COMEDY]}
+Movie{movieId=57845, title='Joe Strummer: The Future Is Unwritten (2007)', genres=[DOCUMENTARY]}
+Movie{movieId=57910, title='Teeth (2007)', genres=[COMEDY, HORROR]}
+Movie{movieId=57951, title='Fool's Gold (2008)', genres=[ACTION, ADVENTURE, COMEDY, ROMANCE]}
+Movie{movieId=57972, title='Deep Water (2006)', genres=[DOCUMENTARY]}
+Movie{movieId=57980, title='Art of Negative Thinking The (Kunsten å tenke negativt) (2006)', genres=[COMEDY, DRAMA]}
+Movie{movieId=58025, title='Jumper (2008)', genres=[ACTION, ADVENTURE, DRAMA, SCI_FI, THRILLER]}
+Movie{movieId=58029, title='It's a Free World... (2007)', genres=[DRAMA]}
+Movie{movieId=58047, title='Definitely Maybe (2008)', genres=[COMEDY, DRAMA, ROMANCE]}
+Movie{movieId=58103, title='Vantage Point (2008)', genres=[ACTION, DRAMA, THRILLER]}
+Movie{movieId=58105, title='Spiderwick Chronicles The (2008)', genres=[ADVENTURE, CHILDREN, DRAMA, FANTASY, IMAX]}
+Movie{movieId=58107, title='Step Up 2 the Streets (2008)', genres=[DRAMA, MUSICAL, ROMANCE]}
+Movie{movieId=58146, title='Witless Protection (2008)', genres=[COMEDY]}
+Movie{movieId=58154, title='Other Boleyn Girl The (2008)', genres=[DRAMA, ROMANCE]}
+Movie{movieId=58156, title='Semi-Pro (2008)', genres=[COMEDY]}
+Movie{movieId=58191, title='Taxi to the Dark Side (2007)', genres=[DOCUMENTARY]}
+Movie{movieId=58293, title='10000 BC (2008)', genres=[ADVENTURE, ROMANCE, THRILLER]}
+Movie{movieId=58295, title='Bank Job The (2008)', genres=[ACTION, CRIME, THRILLER]}
+Movie{movieId=58297, title='Doomsday (2008)', genres=[ACTION, DRAMA, SCI_FI, THRILLER]}
+Movie{movieId=58299, title='Horton Hears a Who! (2008)', genres=[ADVENTURE, ANIMATION, CHILDREN, COMEDY]}
+Movie{movieId=58301, title='Funny Games U.S. (2007)', genres=[DRAMA, THRILLER]}
+Movie{movieId=58303, title='Counterfeiters The (Die Fälscher) (2007)', genres=[CRIME, DRAMA, WAR]}
+Movie{movieId=58306, title='Mongol (2007)', genres=[DRAMA, WAR]}
+Movie{movieId=58315, title='Love Guru The (2008)', genres=[COMEDY]}
+Movie{movieId=58347, title='Penelope (2006)', genres=[COMEDY, FANTASY, ROMANCE]}
+Movie{movieId=58351, title='City of Men (Cidade dos Homens) (2007)', genres=[DRAMA]}
+Movie{movieId=58365, title='Chicago 10 (2007)', genres=[ANIMATION, DOCUMENTARY]}
+Movie{movieId=58376, title='Zeitgeist: The Movie (2007)', genres=[DOCUMENTARY, WAR]}
+Movie{movieId=58425, title='Heima (2007)', genres=[DOCUMENTARY]}
+Movie{movieId=58432, title='What Just Happened (2008)', genres=[COMEDY, DRAMA]}
+Movie{movieId=58520, title='Mala Noche (1985)', genres=[DRAMA]}
+Movie{movieId=58554, title='Class The (Klass) (2007)', genres=[DRAMA]}
+Movie{movieId=58559, title='Dark Knight The (2008)', genres=[ACTION, CRIME, DRAMA, IMAX]}
+Movie{movieId=58627, title='Never Back Down (2008)', genres=[ACTION]}
+Movie{movieId=58649, title='Napoléon (1927)', genres=[DRAMA, WAR]}
+Movie{movieId=58655, title='Drillbit Taylor (2008)', genres=[COMEDY]}
+Movie{movieId=58706, title='Under the Same Moon (Misma luna La) (2007)', genres=[DRAMA]}

@@ -1,0 +1,316 @@
+Tag{userId=15, movieId=339, tag='sandra 'boring' bullock', timestamp=1138537770}
+Tag{userId=15, movieId=1955, tag='dentist', timestamp=1193435061}
+Tag{userId=15, movieId=7478, tag='Cambodia', timestamp=1170560997}
+Tag{userId=15, movieId=32892, tag='Russian', timestamp=1170626366}
+Tag{userId=15, movieId=34162, tag='forgettable', timestamp=1141391765}
+Tag{userId=15, movieId=35957, tag='short', timestamp=1141391873}
+Tag{userId=15, movieId=37729, tag='dull story', timestamp=1141391806}
+Tag{userId=15, movieId=45950, tag='powerpoint', timestamp=1169616291}
+Tag{userId=15, movieId=100365, tag='activist', timestamp=1425876220}
+Tag{userId=15, movieId=100365, tag='documentary', timestamp=1425876220}
+Tag{userId=15, movieId=100365, tag='uganda', timestamp=1425876220}
+Tag{userId=23, movieId=150, tag='Ron Howard', timestamp=1148672905}
+Tag{userId=68, movieId=2174, tag='music', timestamp=1249808064}
+Tag{userId=68, movieId=2174, tag='weird', timestamp=1249808102}
+Tag{userId=68, movieId=8623, tag='Steve Martin', timestamp=1249808497}
+Tag{userId=73, movieId=107999, tag='action', timestamp=1430799184}
+Tag{userId=73, movieId=107999, tag='anime', timestamp=1430799184}
+Tag{userId=73, movieId=107999, tag='kung fu', timestamp=1430799184}
+Tag{userId=73, movieId=111624, tag='drama', timestamp=1431584497}
+Tag{userId=73, movieId=111624, tag='indie', timestamp=1431584497}
+Tag{userId=73, movieId=111624, tag='love', timestamp=1431584497}
+Tag{userId=73, movieId=130682, tag='b movie', timestamp=1432523704}
+Tag{userId=73, movieId=130682, tag='comedt', timestamp=1432523704}
+Tag{userId=73, movieId=130682, tag='horror', timestamp=1432523704}
+Tag{userId=77, movieId=1199, tag='Trilogy of the Imagination', timestamp=1163220043}
+Tag{userId=77, movieId=2968, tag='Gilliam', timestamp=1163220138}
+Tag{userId=77, movieId=2968, tag='Trilogy of the Imagination', timestamp=1163220039}
+Tag{userId=77, movieId=4467, tag='Trilogy of the Imagination', timestamp=1163220065}
+Tag{userId=77, movieId=4911, tag='Gilliam', timestamp=1163220167}
+Tag{userId=77, movieId=5909, tag='Takashi Miike', timestamp=1163219591}
+Tag{userId=77, movieId=47465, tag='Gilliam', timestamp=1163220186}
+Tag{userId=84, movieId=296, tag='intense', timestamp=1429911417}
+Tag{userId=84, movieId=296, tag='r:violence', timestamp=1429911417}
+Tag{userId=84, movieId=296, tag='tarantino', timestamp=1429911417}
+Tag{userId=91, movieId=4388, tag='parody', timestamp=1448813502}
+Tag{userId=94, movieId=1131, tag='emotional', timestamp=1291781542}
+Tag{userId=94, movieId=1131, tag='tragedy', timestamp=1291781538}
+Tag{userId=94, movieId=64957, tag='original plot', timestamp=1291781246}
+Tag{userId=94, movieId=74458, tag='Predictable', timestamp=1291780920}
+Tag{userId=106, movieId=48711, tag='CHRISTIAN', timestamp=1215923364}
+Tag{userId=132, movieId=4189, tag='jesus', timestamp=1367909949}
+Tag{userId=132, movieId=4612, tag='jesus', timestamp=1367909949}
+Tag{userId=132, movieId=6683, tag='bollywood', timestamp=1367909913}
+Tag{userId=132, movieId=6986, tag='jesus', timestamp=1367909949}
+Tag{userId=132, movieId=27255, tag='No progress', timestamp=1283581045}
+Tag{userId=132, movieId=27255, tag='Too slow', timestamp=1283581045}
+Tag{userId=132, movieId=27255, tag='Views', timestamp=1283581045}
+Tag{userId=138, movieId=260, tag='cult classic', timestamp=1440379022}
+Tag{userId=138, movieId=260, tag='Science Fiction', timestamp=1440379018}
+Tag{userId=138, movieId=1258, tag='cult film', timestamp=1440380361}
+Tag{userId=138, movieId=1258, tag='jack nicholson', timestamp=1440380355}
+Tag{userId=138, movieId=1258, tag='psychological', timestamp=1440380357}
+Tag{userId=138, movieId=1258, tag='Stanley Kubrick', timestamp=1440380352}
+Tag{userId=138, movieId=1704, tag='genius', timestamp=1440380467}
+Tag{userId=138, movieId=1704, tag='intellectual', timestamp=1440380463}
+Tag{userId=138, movieId=1704, tag='mathematics', timestamp=1440380466}
+Tag{userId=138, movieId=1704, tag='psychology', timestamp=1440380470}
+Tag{userId=138, movieId=4226, tag='Mindfuck', timestamp=1440380125}
+Tag{userId=138, movieId=4226, tag='nonlinear', timestamp=1440380113}
+Tag{userId=138, movieId=4226, tag='psychology', timestamp=1440380115}
+Tag{userId=138, movieId=4226, tag='twist ending', timestamp=1440380118}
+Tag{userId=138, movieId=4995, tag='genius', timestamp=1440380440}
+Tag{userId=138, movieId=4995, tag='intelligent', timestamp=1440380446}
+Tag{userId=138, movieId=4995, tag='math', timestamp=1440380438}
+Tag{userId=138, movieId=4995, tag='mathematics', timestamp=1440380436}
+Tag{userId=138, movieId=4995, tag='twist ending', timestamp=1440380448}
+Tag{userId=138, movieId=48780, tag='Christopher Nolan', timestamp=1440380053}
+Tag{userId=138, movieId=48780, tag='complicated', timestamp=1440380062}
+Tag{userId=138, movieId=48780, tag='Hugh Jackman', timestamp=1440380072}
+Tag{userId=138, movieId=48780, tag='nonlinear', timestamp=1440380067}
+Tag{userId=138, movieId=48780, tag='psychological', timestamp=1440380064}
+Tag{userId=138, movieId=48780, tag='twist ending', timestamp=1440380047}
+Tag{userId=138, movieId=79132, tag='alternate reality', timestamp=1440380233}
+Tag{userId=138, movieId=79132, tag='Christopher Nolan', timestamp=1440380255}
+Tag{userId=138, movieId=79132, tag='intellectual', timestamp=1440380251}
+Tag{userId=138, movieId=79132, tag='mindfuck', timestamp=1440380252}
+Tag{userId=138, movieId=79132, tag='philosophy', timestamp=1440380242}
+Tag{userId=138, movieId=79132, tag='sci-fi', timestamp=1440380239}
+Tag{userId=138, movieId=79132, tag='twist ending', timestamp=1440380245}
+Tag{userId=138, movieId=109487, tag='artificial intelligence', timestamp=1440379984}
+Tag{userId=138, movieId=109487, tag='Christopher Nolan', timestamp=1440380001}
+Tag{userId=138, movieId=109487, tag='good science', timestamp=1440379977}
+Tag{userId=138, movieId=109487, tag='interesting ideea', timestamp=1440379991}
+Tag{userId=138, movieId=109487, tag='philosophical issues', timestamp=1440379996}
+Tag{userId=138, movieId=109487, tag='physics', timestamp=1440379925}
+Tag{userId=138, movieId=109487, tag='relativity', timestamp=1440380500}
+Tag{userId=138, movieId=109487, tag='sci-fi', timestamp=1440380008}
+Tag{userId=138, movieId=109487, tag='sentimental', timestamp=1440379993}
+Tag{userId=138, movieId=109487, tag='space', timestamp=1440379974}
+Tag{userId=138, movieId=109487, tag='time travel', timestamp=1440379981}
+Tag{userId=138, movieId=109487, tag='time-travel', timestamp=1440379968}
+Tag{userId=149, movieId=121231, tag='eerie', timestamp=1436920551}
+Tag{userId=149, movieId=121231, tag='friendship', timestamp=1436920551}
+Tag{userId=149, movieId=121231, tag='teenagers', timestamp=1436920551}
+Tag{userId=152, movieId=52319, tag='World War II', timestamp=1335900622}
+Tag{userId=164, movieId=608, tag='Quirky', timestamp=1179031045}
+Tag{userId=176, movieId=5445, tag='Tom Cruise', timestamp=1378384753}
+Tag{userId=176, movieId=7458, tag='Brad Pitt', timestamp=1341055445}
+Tag{userId=176, movieId=8972, tag='Nicolas Cage', timestamp=1341055378}
+Tag{userId=176, movieId=69640, tag='Johnny Depp', timestamp=1340916254}
+Tag{userId=176, movieId=104841, tag='sexist', timestamp=1384107184}
+Tag{userId=179, movieId=260, tag='nerdy', timestamp=1436669973}
+Tag{userId=179, movieId=260, tag='Science Fiction', timestamp=1436669968}
+Tag{userId=187, movieId=2082, tag='Emilio Estevez', timestamp=1233517175}
+Tag{userId=200, movieId=260, tag='critically acclaimed', timestamp=1437932756}
+Tag{userId=200, movieId=260, tag='Science Fiction', timestamp=1437932763}
+Tag{userId=200, movieId=80551, tag='strong female presence', timestamp=1438023607}
+Tag{userId=212, movieId=1061, tag='emotional', timestamp=1253930128}
+Tag{userId=212, movieId=1061, tag='revenge', timestamp=1253930131}
+Tag{userId=212, movieId=1061, tag='true story', timestamp=1253930149}
+Tag{userId=212, movieId=1732, tag='cult film', timestamp=1253929373}
+Tag{userId=212, movieId=1732, tag='dark comedy', timestamp=1253929372}
+Tag{userId=212, movieId=1732, tag='satirical', timestamp=1253929376}
+Tag{userId=212, movieId=2359, tag='British', timestamp=1253930034}
+Tag{userId=212, movieId=2641, tag='childish plot', timestamp=1253930390}
+Tag{userId=212, movieId=2641, tag='plot holes', timestamp=1253930395}
+Tag{userId=212, movieId=2641, tag='superhero', timestamp=1253930399}
+Tag{userId=212, movieId=3257, tag='Kevin Costner', timestamp=1253930539}
+Tag{userId=212, movieId=3257, tag='snorefest', timestamp=1253930543}
+Tag{userId=212, movieId=3275, tag='vigilantism', timestamp=1218405594}
+Tag{userId=212, movieId=3300, tag='anti-hero', timestamp=1253929917}
+Tag{userId=212, movieId=3300, tag='Cole Hauser', timestamp=1253929922}
+Tag{userId=212, movieId=3300, tag='Vin Diesel', timestamp=1253929910}
+Tag{userId=212, movieId=3301, tag='Amanda Peet', timestamp=1253929798}
+Tag{userId=212, movieId=3301, tag='Matthew Perry', timestamp=1253929802}
+Tag{userId=212, movieId=3301, tag='Rosanna Arquette', timestamp=1253929813}
+Tag{userId=212, movieId=3809, tag='Bill Murray', timestamp=1253931205}
+Tag{userId=212, movieId=3809, tag='quirky', timestamp=1253931216}
+Tag{userId=212, movieId=3882, tag='cheerleading', timestamp=1253932873}
+Tag{userId=212, movieId=3882, tag='Eliza Dushku', timestamp=1253932876}
+Tag{userId=212, movieId=3882, tag='Overrated', timestamp=1253932878}
+Tag{userId=212, movieId=4069, tag='standard romantic comedy', timestamp=1253933882}
+Tag{userId=212, movieId=5219, tag='video game adaptation', timestamp=1253930587}
+Tag{userId=212, movieId=5507, tag='play enough video games and you can become an NSA agent', timestamp=1253930345}
+Tag{userId=212, movieId=5507, tag='ridiculous training sequence', timestamp=1253930342}
+Tag{userId=212, movieId=7373, tag='Guillermo del Toro', timestamp=1253929290}
+Tag{userId=212, movieId=7373, tag='steampunk', timestamp=1253929296}
+Tag{userId=212, movieId=7373, tag='superhero', timestamp=1253929293}
+Tag{userId=212, movieId=8861, tag='Oded Fehr', timestamp=1253930624}
+Tag{userId=212, movieId=8861, tag='post-apocalyptic', timestamp=1253930636}
+Tag{userId=212, movieId=8861, tag='Sienna Guillory', timestamp=1253930633}
+Tag{userId=212, movieId=8861, tag='zombies', timestamp=1253930644}
+Tag{userId=212, movieId=8928, tag='Beautiful Woman', timestamp=1253926735}
+Tag{userId=212, movieId=8928, tag='campy', timestamp=1253926723}
+Tag{userId=212, movieId=8928, tag='irreverent', timestamp=1253926726}
+Tag{userId=212, movieId=8928, tag='quirky', timestamp=1253926728}
+Tag{userId=212, movieId=8928, tag='Roman Polanski', timestamp=1253926730}
+Tag{userId=212, movieId=27904, tag='good animation', timestamp=1253931241}
+Tag{userId=212, movieId=27904, tag='interesting concept - bad execution', timestamp=1253931234}
+Tag{userId=212, movieId=27904, tag='surrealism', timestamp=1253931244}
+Tag{userId=212, movieId=34405, tag='aliens', timestamp=1253928597}
+Tag{userId=212, movieId=34405, tag='black comedy', timestamp=1253928590}
+Tag{userId=212, movieId=34405, tag='Firefly', timestamp=1253928585}
+Tag{userId=212, movieId=37733, tag='disappointing', timestamp=1253929514}
+Tag{userId=212, movieId=37733, tag='overrated', timestamp=1253929532}
+Tag{userId=212, movieId=37733, tag='Viggo Mortensen', timestamp=1253929518}
+Tag{userId=212, movieId=48394, tag='dark', timestamp=1218405627}
+Tag{userId=212, movieId=48394, tag='fairytale', timestamp=1218405627}
+Tag{userId=212, movieId=60684, tag='alternate reality', timestamp=1253926526}
+Tag{userId=212, movieId=60684, tag='diluted version of comic', timestamp=1253926511}
+Tag{userId=212, movieId=60684, tag='dystopia', timestamp=1253926517}
+Tag{userId=212, movieId=60684, tag='stylized', timestamp=1253926519}
+Tag{userId=212, movieId=63992, tag='high school', timestamp=1253932469}
+Tag{userId=212, movieId=63992, tag='Kristen Stewart', timestamp=1253932484}
+Tag{userId=212, movieId=63992, tag='Robert Pattinson', timestamp=1253932481}
+Tag{userId=212, movieId=63992, tag='Teen movie', timestamp=1253932459}
+Tag{userId=212, movieId=63992, tag='Vampire Human Love', timestamp=1253932463}
+Tag{userId=212, movieId=64957, tag='adapted from:book', timestamp=1253929184}
+Tag{userId=212, movieId=64957, tag='Aging Disorder', timestamp=1253929189}
+Tag{userId=212, movieId=64957, tag='Brad Pitt', timestamp=1253929141}
+Tag{userId=212, movieId=64957, tag='cinematography', timestamp=1253929177}
+Tag{userId=212, movieId=64957, tag='drama', timestamp=1253929173}
+Tag{userId=212, movieId=64957, tag='original plot', timestamp=1253929180}
+Tag{userId=212, movieId=64957, tag='slow parts', timestamp=1253929162}
+Tag{userId=212, movieId=64957, tag='touching', timestamp=1253929169}
+Tag{userId=212, movieId=66097, tag='alternate universe', timestamp=1253926354}
+Tag{userId=212, movieId=66097, tag='author:Neil Gaiman', timestamp=1253926328}
+Tag{userId=212, movieId=66097, tag='claymation', timestamp=1253926330}
+Tag{userId=212, movieId=66097, tag='Dakota Fanning', timestamp=1253926349}
+Tag{userId=212, movieId=66097, tag='dark', timestamp=1253926337}
+Tag{userId=212, movieId=66097, tag='fairy tale', timestamp=1253926364}
+Tag{userId=212, movieId=66097, tag='Neil Gaiman', timestamp=1253926360}
+Tag{userId=212, movieId=66934, tag='Captain Hammer', timestamp=1253926165}
+Tag{userId=212, movieId=66934, tag='joss whedon', timestamp=1253926158}
+Tag{userId=212, movieId=66934, tag='mad scientist', timestamp=1253926186}
+Tag{userId=212, movieId=66934, tag='musical', timestamp=1253926178}
+Tag{userId=212, movieId=66934, tag='Nathan Fillion', timestamp=1253926182}
+Tag{userId=212, movieId=66934, tag='Neil Patrick Harris', timestamp=1253926160}
+Tag{userId=212, movieId=66934, tag='parody', timestamp=1253926168}
+Tag{userId=212, movieId=68157, tag='Brad Pitt', timestamp=1253926443}
+Tag{userId=212, movieId=68157, tag='ending', timestamp=1253926451}
+Tag{userId=212, movieId=68157, tag='gratuitous violence', timestamp=1253926429}
+Tag{userId=212, movieId=68157, tag='Quentin Tarantino', timestamp=1253926404}
+Tag{userId=212, movieId=68157, tag='satire', timestamp=1253926435}
+Tag{userId=212, movieId=68157, tag='unusual plot structure', timestamp=1253926417}
+Tag{userId=212, movieId=68157, tag='violence', timestamp=1253926426}
+Tag{userId=212, movieId=68157, tag='World War II', timestamp=1253926408}
+Tag{userId=212, movieId=68319, tag='action', timestamp=1253928934}
+Tag{userId=212, movieId=68319, tag='bad plot', timestamp=1253928950}
+Tag{userId=212, movieId=68319, tag='hugh jackman', timestamp=1253928926}
+Tag{userId=212, movieId=68319, tag='superhero', timestamp=1253928935}
+Tag{userId=212, movieId=68319, tag='too long', timestamp=1253928954}
+Tag{userId=212, movieId=69526, tag='bad plot', timestamp=1253929636}
+Tag{userId=212, movieId=69526, tag='robots', timestamp=1253929657}
+Tag{userId=212, movieId=69526, tag='sufficiently explodey to be good', timestamp=1253929639}
+Tag{userId=212, movieId=69712, tag='Abigail Breslin', timestamp=1260688098}
+Tag{userId=212, movieId=69712, tag='ending', timestamp=1260688053}
+Tag{userId=212, movieId=69712, tag='genuine characters', timestamp=1260688086}
+Tag{userId=212, movieId=69712, tag='Jason Patric', timestamp=1260688105}
+Tag{userId=212, movieId=71057, tag='animation style', timestamp=1253926100}
+Tag{userId=219, movieId=46970, tag='funny', timestamp=1156788918}
+Tag{userId=219, movieId=46970, tag='nascar', timestamp=1156788904}
+Tag{userId=219, movieId=46970, tag='will farell', timestamp=1156788913}
+Tag{userId=219, movieId=47640, tag='beer', timestamp=1156788764}
+Tag{userId=219, movieId=47640, tag='guy movie', timestamp=1156788774}
+Tag{userId=255, movieId=6985, tag='breathtaking', timestamp=1237060605}
+Tag{userId=255, movieId=7361, tag='i'd like to live in this movie', timestamp=1237060140}
+Tag{userId=255, movieId=44555, tag='breathtaking', timestamp=1237060235}
+Tag{userId=257, movieId=3030, tag='akira kurosawa', timestamp=1338084833}
+Tag{userId=257, movieId=3030, tag='black comedy', timestamp=1338084822}
+Tag{userId=277, movieId=5618, tag='anime', timestamp=1463916275}
+Tag{userId=277, movieId=5618, tag='children', timestamp=1463916304}
+Tag{userId=277, movieId=5618, tag='fantasy', timestamp=1463916289}
+Tag{userId=277, movieId=5971, tag='fantasy', timestamp=1463916386}
+Tag{userId=277, movieId=5971, tag='feel-good', timestamp=1463916401}
+Tag{userId=277, movieId=82461, tag='bad acting', timestamp=1463916776}
+Tag{userId=277, movieId=82461, tag='bad plot', timestamp=1463916772}
+Tag{userId=277, movieId=104283, tag='anime', timestamp=1463916484}
+Tag{userId=277, movieId=132046, tag='sci-fi', timestamp=1463916817}
+Tag{userId=294, movieId=6754, tag='vampire', timestamp=1138983469}
+Tag{userId=294, movieId=8865, tag='1940's feel', timestamp=1140395930}
+Tag{userId=294, movieId=8865, tag='unique look', timestamp=1140395930}
+Tag{userId=294, movieId=36401, tag='fairy tales', timestamp=1138983064}
+Tag{userId=297, movieId=104, tag='adam sandler', timestamp=1318706504}
+Tag{userId=297, movieId=608, tag='overrated', timestamp=1318706739}
+Tag{userId=297, movieId=1103, tag='overrated', timestamp=1318706182}
+Tag{userId=297, movieId=2502, tag='that fat nerd is just annoying', timestamp=1318706118}
+Tag{userId=297, movieId=8528, tag='seen it before', timestamp=1318706449}
+Tag{userId=297, movieId=47640, tag='Just stupid', timestamp=1318706536}
+Tag{userId=297, movieId=52973, tag='overrated', timestamp=1318706470}
+Tag{userId=297, movieId=55820, tag='overrated', timestamp=1318706705}
+Tag{userId=297, movieId=61024, tag='Exellent first half', timestamp=1318706053}
+Tag{userId=297, movieId=61024, tag='terrible ending', timestamp=1318706042}
+Tag{userId=297, movieId=76251, tag='Gore!!!', timestamp=1318706275}
+Tag{userId=297, movieId=76251, tag='sort of honest', timestamp=1318706296}
+Tag{userId=297, movieId=78209, tag='Lame everything', timestamp=1318706227}
+Tag{userId=313, movieId=153, tag='Ei muista', timestamp=1168879424}
+Tag{userId=313, movieId=293, tag='Ei muista', timestamp=1168878292}
+Tag{userId=313, movieId=434, tag='Ei muista', timestamp=1168879406}
+Tag{userId=313, movieId=494, tag='Ei muista', timestamp=1168878844}
+Tag{userId=313, movieId=593, tag='Katso Sanna!', timestamp=1146476938}
+Tag{userId=313, movieId=745, tag='Ei muista', timestamp=1146476364}
+Tag{userId=313, movieId=780, tag='Ei muista', timestamp=1168878578}
+Tag{userId=313, movieId=858, tag='Katso Sanna!', timestamp=1146476794}
+Tag{userId=313, movieId=1036, tag='Ei muista', timestamp=1168878388}
+Tag{userId=313, movieId=1042, tag='Katso Sanna!', timestamp=1146477133}
+Tag{userId=313, movieId=1120, tag='Katso Sanna!', timestamp=1146477118}
+Tag{userId=313, movieId=1200, tag='Katso Sanna!', timestamp=1146477102}
+Tag{userId=313, movieId=1291, tag='Ei muista', timestamp=1146476308}
+Tag{userId=313, movieId=1610, tag='Katso Sanna!', timestamp=1146476692}
+Tag{userId=313, movieId=1617, tag='Ei muista', timestamp=1168878593}
+Tag{userId=313, movieId=2273, tag='Ei muista', timestamp=1146477049}
+Tag{userId=313, movieId=2329, tag='Ei muista', timestamp=1146477033}
+Tag{userId=313, movieId=2600, tag='Ei muista', timestamp=1168879003}
+Tag{userId=313, movieId=2985, tag='Ei muista', timestamp=1168878743}
+Tag{userId=313, movieId=2989, tag='Ei muista', timestamp=1168878972}
+Tag{userId=313, movieId=3160, tag='Ei muista', timestamp=1168878736}
+Tag{userId=313, movieId=3175, tag='Ei muista', timestamp=1168879647}
+Tag{userId=313, movieId=3499, tag='Ei muista', timestamp=1168878727}
+Tag{userId=313, movieId=3793, tag='Katso Sanna!', timestamp=1146476954}
+Tag{userId=313, movieId=3916, tag='Ei muista', timestamp=1146476265}
+Tag{userId=313, movieId=3949, tag='Ei muista', timestamp=1168878697}
+Tag{userId=313, movieId=3994, tag='Ei muista', timestamp=1168879611}
+Tag{userId=313, movieId=4011, tag='Ei muista', timestamp=1168878363}
+Tag{userId=313, movieId=4023, tag='ei muista', timestamp=1146477341}
+Tag{userId=313, movieId=4121, tag='Katso Sanna!', timestamp=1146477233}
+Tag{userId=313, movieId=4223, tag='Ei muista', timestamp=1146476274}
+Tag{userId=313, movieId=4638, tag='Ei muista', timestamp=1146477217}
+Tag{userId=313, movieId=5064, tag='Ei muista', timestamp=1146476225}
+Tag{userId=313, movieId=5602, tag='Ei muista', timestamp=1168879553}
+Tag{userId=313, movieId=6218, tag='Ei muista', timestamp=1146477184}
+Tag{userId=313, movieId=7347, tag='Ei muista', timestamp=1168879177}
+Tag{userId=313, movieId=8781, tag='Ei muista', timestamp=1168879161}
+Tag{userId=313, movieId=44199, tag='Ei muista', timestamp=1168878406}
+Tag{userId=314, movieId=260, tag='awesome', timestamp=1437338154}
+Tag{userId=314, movieId=260, tag='awesome soundtrack', timestamp=1437338150}
+Tag{userId=314, movieId=260, tag='jedi', timestamp=1437338139}
+Tag{userId=314, movieId=260, tag='space adventure', timestamp=1437338130}
+Tag{userId=346, movieId=741, tag='anime', timestamp=1159734531}
+Tag{userId=346, movieId=924, tag='boring', timestamp=1159734220}
+Tag{userId=346, movieId=924, tag='slow', timestamp=1159734220}
+Tag{userId=346, movieId=1036, tag='explosions', timestamp=1159734488}
+Tag{userId=346, movieId=1199, tag='dystopia', timestamp=1159734421}
+Tag{userId=346, movieId=1274, tag='anime', timestamp=1159734245}
+Tag{userId=346, movieId=2019, tag='long', timestamp=1159734734}
+Tag{userId=346, movieId=2571, tag='sci-fi', timestamp=1159734634}
+Tag{userId=346, movieId=2571, tag='virtual reality', timestamp=1159734636}
+Tag{userId=346, movieId=2924, tag='martial arts', timestamp=1159734502}
+Tag{userId=346, movieId=2997, tag='interesting', timestamp=1159734363}
+Tag{userId=346, movieId=3265, tag='explosions', timestamp=1159734552}
+Tag{userId=346, movieId=3265, tag='martial arts', timestamp=1159734552}
+Tag{userId=346, movieId=3996, tag='martial arts', timestamp=1159734445}
+Tag{userId=346, movieId=4993, tag='long', timestamp=1159734600}
+Tag{userId=346, movieId=5782, tag='explosions', timestamp=1159734683}
+Tag{userId=346, movieId=5782, tag='interesting', timestamp=1159734683}
+Tag{userId=346, movieId=5902, tag='boring', timestamp=1159734233}
+Tag{userId=346, movieId=5952, tag='boring', timestamp=1159734622}
+Tag{userId=346, movieId=5952, tag='long', timestamp=1159734622}
+Tag{userId=346, movieId=6350, tag='anime', timestamp=1159734417}
+Tag{userId=346, movieId=6539, tag='Johnny Depp', timestamp=1159734656}
+Tag{userId=346, movieId=6857, tag='anime', timestamp=1159734652}
+Tag{userId=346, movieId=7022, tag='explosions', timestamp=1159734326}
+Tag{userId=346, movieId=7022, tag='martial arts', timestamp=1159734467}
+Tag{userId=346, movieId=7090, tag='martial arts', timestamp=1159734555}
+Tag{userId=346, movieId=7153, tag='boring', timestamp=1159734608}
+Tag{userId=346, movieId=7153, tag='long', timestamp=1159734608}
