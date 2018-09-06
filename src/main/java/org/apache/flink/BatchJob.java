@@ -20,8 +20,17 @@ package org.apache.flink;
 
 import org.apache.flink.api.java.DataSet;
 import org.apache.flink.api.java.ExecutionEnvironment;
-import org.apache.flink.streaming.api.datastream.DataStream;
+import org.apache.flink.core.fs.FileSystem;
+import org.apache.flink.ml.common.ParameterMap;
+import org.apache.flink.ml.pipeline.FitOperation;
+import org.apache.flink.ml.pipeline.PredictDataSetOperation;
+import org.apache.flink.ml.recommendation.ALS;
+import pojos.Link;
 import pojos.Movie;
+import pojos.Rating;
+import pojos.Tag;
+
+import static org.apache.flink.ml.recommendation.ALS.*;
 
 /**
  * Skeleton for a Flink Batch Job.
@@ -38,31 +47,29 @@ public class BatchJob {
 	public static void main(String[] args) throws Exception {
 		// set up the batch execution environment
 		final ExecutionEnvironment env = ExecutionEnvironment.getExecutionEnvironment();
-		DataSet<Movie> ds = env.readTextFile(".store/movies.csv").map(s -> Movies.create(s));
-		System.out.println(ds.first(1));
-		/*
-		 * Here, you can start creating your execution plan for Flink.
-		 *
-		 * Start with getting some data from the environment, like
-		 * 	env.readTextFile(textPath);
-		 *
-		 * then, transform the resulting DataSet<String> using operations
-		 * like
-		 * 	.filter()
-		 * 	.flatMap()
-		 * 	.join()
-		 * 	.coGroup()
-		 *
-		 * and many more.
-		 * Have a look at the programming guide for the Java API:
-		 *
-		 * http://flink.apache.org/docs/latest/apis/batch/index.html
-		 *
-		 * and the examples
-		 *
-		 * http://flink.apache.org/docs/latest/apis/batch/examples.html
-		 *
-		 */
+
+		DataSet<Movie> dsMovie = env.readTextFile(".store/movies.csv").map(s -> Factory.createMovie(s));
+		dsMovie.writeAsText(".store/MovieSink", FileSystem.WriteMode.OVERWRITE);
+
+		DataSet<Link> dsLink = env.readTextFile(".store/links.csv").map(s -> Factory.createLink(s));
+		dsLink.writeAsText(".store/LinkSink", FileSystem.WriteMode.OVERWRITE);
+
+		DataSet<Rating> dsRating = env.readTextFile(".store/rating4test.csv").map(s -> Factory.createRating(s));
+		dsRating.writeAsText(".store/RatingSink", FileSystem.WriteMode.OVERWRITE);
+
+		DataSet<Tag> dsTag = env.readTextFile(".store/tags.csv").map(s -> Factory.createTag(s));
+		dsTag.writeAsText(".store/TagSink", FileSystem.WriteMode.OVERWRITE);
+
+		ALS als = new ALS();
+		als.setIterations(10).setBlocks(10000).setNumFactors(75000).setTemporaryPath(".store/TemporaryPath");
+
+		ParameterMap params = new ParameterMap().add(als.Lambda, 0.9);
+
+		als.fitALS();
+
+		DataSet<Rating> dsTest = env.readCsvFile(".store/rating4predict.csv").ignoreFirstLine().pojoType(Rating.class, "userId", "movieId");
+
+		als.predictRating();
 
 		// execute program
 		env.execute("Flink Batch Java API Skeleton");

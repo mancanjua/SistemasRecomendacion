@@ -18,19 +18,9 @@
 
 package org.apache.flink;
 
-import org.apache.flink.api.java.functions.KeySelector;
-import org.apache.flink.api.java.typeutils.PojoTypeInfo;
 import org.apache.flink.streaming.api.datastream.DataStream;
 import org.apache.flink.streaming.api.environment.StreamExecutionEnvironment;
 import pojos.Movie;
-import sun.plugin2.util.PojoUtil;
-
-import java.util.Collection;
-import java.util.Iterator;
-import java.util.List;
-import java.util.ListIterator;
-import java.util.function.Function;
-import java.util.stream.Stream;
 
 /**
  * Skeleton for a Flink Streaming Job.
@@ -49,8 +39,8 @@ public class StreamingJob {
 	public static void main(String[] args) throws Exception {
 		// set up the streaming execution environment
 		final StreamExecutionEnvironment env = StreamExecutionEnvironment.getExecutionEnvironment();
-		DataStream<Movie> ds = env.readTextFile(".store/movies.csv").map(s -> Movies.create(s));
-		System.out.println(ds);
+		//DataStream<Movie> ds = env.readTextFile(".store/movies.csv").map(s -> Factory.create(s));
+		//System.out.println(ds);
 
 		/*
 		 * Here, you can start creating your execution plan for Flink.

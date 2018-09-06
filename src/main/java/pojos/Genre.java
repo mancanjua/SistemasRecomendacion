@@ -1,7 +1,7 @@
 package pojos;
 
 public enum Genre {
-    ACTION, ADVENTURE, ANIMATION, CHILDREN, COMEDY, CRIME, DOCUMENTARY, DRAMA, FANTASY, FILM_NOIR, HORROR, MUSICAL, MYSTERY, ROMANCE, SCI_FI, THRILLER, WAR, WESTERN, NON_GENRE_LISTED;
+    ACTION, ADVENTURE, ANIMATION, CHILDREN, COMEDY, CRIME, DOCUMENTARY, DRAMA, FANTASY, FILM_NOIR, HORROR, IMAX, MUSICAL, MYSTERY, ROMANCE, SCI_FI, THRILLER, WAR, WESTERN, NON_GENRE_LISTED;
 
     public static Genre getValue(String s) {
         switch (s) {
@@ -27,8 +27,12 @@ public enum Genre {
                 return Genre.FILM_NOIR;
             case "Horror":
                 return Genre.HORROR;
-            case "Mistery":
+            case "IMAX":
+                return Genre.IMAX;
+            case "Mystery":
                 return Genre.MYSTERY;
+            case "Musical":
+                return Genre.MUSICAL;
             case "Romance":
                 return Genre.ROMANCE;
             case "Sci-Fi":

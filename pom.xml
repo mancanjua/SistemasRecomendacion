@@ -68,7 +68,11 @@ under the License.
 		</dependency>
 
 		<!-- Add connector dependencies here. They must be in the default scope (compile). -->
-
+		<dependency>
+			<groupId>org.apache.flink</groupId>
+			<artifactId>flink-ml_2.11</artifactId>
+			<version>1.5.0</version>
+		</dependency>
 		<!-- Example:
 
 		<dependency>
